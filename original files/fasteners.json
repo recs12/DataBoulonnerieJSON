@@ -1,0 +1,7447 @@
+{
+    "108502": {
+        "JdeNumber": "108502",
+        "Revision": "00",
+        "Filename": "108502.par"
+    },
+    "115822": {
+        "JdeNumber": "115822",
+        "Revision": "00",
+        "Filename": "115822.par"
+    },
+    "117426": {
+        "JdeNumber": "117426",
+        "Revision": "00",
+        "Filename": "117426.par"
+    },
+    "117752": {
+        "JdeNumber": "117752",
+        "Revision": "00",
+        "Filename": "117752.par"
+    },
+    "117753": {
+        "JdeNumber": "117753",
+        "Revision": "00",
+        "Filename": "117753.par"
+    },
+    "118010": {
+        "JdeNumber": "118010",
+        "Revision": "0",
+        "Filename": "118010.par"
+    },
+    "118026": {
+        "JdeNumber": "118026",
+        "Revision": "00",
+        "Filename": "118026.par"
+    },
+    "118416": {
+        "JdeNumber": "118416",
+        "Revision": "00",
+        "Filename": "118416.par"
+    },
+    "118420": {
+        "JdeNumber": "118420",
+        "Revision": "00",
+        "Filename": "118420.PAR"
+    },
+    "118476": {
+        "JdeNumber": "118476",
+        "Revision": "00",
+        "Filename": "118476.par"
+    },
+    "118487": {
+        "JdeNumber": "118487",
+        "Revision": "00",
+        "Filename": "118487.par"
+    },
+    "118588": {
+        "JdeNumber": "118588",
+        "Revision": "00",
+        "Filename": "118588.par"
+    },
+    "118589": {
+        "JdeNumber": "118589",
+        "Revision": "00",
+        "Filename": "118589.par"
+    },
+    "118596": {
+        "JdeNumber": "118596",
+        "Revision": "00",
+        "Filename": "118596.par"
+    },
+    "118797": {
+        "JdeNumber": "118797",
+        "Revision": "00",
+        "Filename": "118797.par"
+    },
+    "118797_": {
+        "JdeNumber": "118797_",
+        "Revision": "00",
+        "Filename": "118797_.par"
+    },
+    "PT1112829": {
+        "JdeNumber": "PT1112829",
+        "Revision": "00",
+        "Filename": "118797_2.par"
+    },
+    "118797_3": {
+        "JdeNumber": "118797_3",
+        "Revision": "00",
+        "Filename": "118797_3.par"
+    },
+    "119167": {
+        "JdeNumber": "119167",
+        "Revision": "00",
+        "Filename": "119167.par"
+    },
+    "119181": {
+        "JdeNumber": "119181",
+        "Revision": "00",
+        "Filename": "119181.par"
+    },
+    "124987_P4": {
+        "JdeNumber": "124987_P4",
+        "Revision": "00",
+        "Filename": "124987_P4.par"
+    },
+    "125598": {
+        "JdeNumber": "125598",
+        "Revision": "01",
+        "Filename": "125598.par"
+    },
+    "125598": {
+        "JdeNumber": "125598",
+        "Revision": "00",
+        "Filename": "125598_XML78.par"
+    },
+    "126871": {
+        "JdeNumber": "126871",
+        "Revision": "00",
+        "Filename": "126871.par"
+    },
+    "135669": {
+        "JdeNumber": "135669",
+        "Revision": "00",
+        "Filename": "135669.par"
+    },
+    "136314_p1": {
+        "JdeNumber": "136314_p1",
+        "Revision": "00",
+        "Filename": "136314_p1.par"
+    },
+    "136314_p1": {
+        "JdeNumber": "136314_p1",
+        "Revision": "01",
+        "Filename": "136314_p1_XML0.par"
+    },
+    "141020": {
+        "JdeNumber": "141020",
+        "Revision": "00",
+        "Filename": "141020.par"
+    },
+    "141020": {
+        "JdeNumber": "141020",
+        "Revision": "00",
+        "Filename": "141020_2.par"
+    },
+    "143485": {
+        "JdeNumber": "143485",
+        "Revision": "00",
+        "Filename": "143485.par"
+    },
+    "144621": {
+        "JdeNumber": "144621",
+        "Revision": "00",
+        "Filename": "144621.par"
+    },
+    "144716": {
+        "JdeNumber": "144716",
+        "Revision": "00",
+        "Filename": "144716.par"
+    },
+    "144793": {
+        "JdeNumber": "144793",
+        "Revision": "00",
+        "Filename": "144793.par"
+    },
+    "144832": {
+        "JdeNumber": "144832",
+        "Revision": "00",
+        "Filename": "144832.par"
+    },
+    "144863": {
+        "JdeNumber": "144863",
+        "Revision": "00",
+        "Filename": "144863.par"
+    },
+    "145335": {
+        "JdeNumber": "145335",
+        "Revision": "00",
+        "Filename": "145335.par"
+    },
+    " 146385": {
+        "JdeNumber": " 146385",
+        "Revision": "00",
+        "Filename": "146385.par"
+    },
+    "146385": {
+        "JdeNumber": "146385",
+        "Revision": "00",
+        "Filename": "146385_XML52.par"
+    },
+    "147419": {
+        "JdeNumber": "147419",
+        "Revision": "00",
+        "Filename": "147419.par"
+    },
+    "148530": {
+        "JdeNumber": "148530",
+        "Revision": "0",
+        "Filename": "148530.par"
+    },
+    "154581": {
+        "JdeNumber": "154581",
+        "Revision": "00",
+        "Filename": "154581.par"
+    },
+    "154851": {
+        "JdeNumber": "154851",
+        "Revision": "00",
+        "Filename": "154851.par"
+    },
+    "155633": {
+        "JdeNumber": "155633",
+        "Revision": "00",
+        "Filename": "155633.par"
+    },
+    "156872": {
+        "JdeNumber": "156872",
+        "Revision": "00",
+        "Filename": "156872.par"
+    },
+    "159699": {
+        "JdeNumber": "159699",
+        "Revision": "00",
+        "Filename": "159699.par"
+    },
+    "159789": {
+        "JdeNumber": "159789",
+        "Revision": "00",
+        "Filename": "159789.par"
+    },
+    "159888": {
+        "JdeNumber": "159888",
+        "Revision": "00",
+        "Filename": "159888.par"
+    },
+    "160161": {
+        "JdeNumber": "160161",
+        "Revision": "00",
+        "Filename": "160161.par"
+    },
+    "161066": {
+        "JdeNumber": "161066",
+        "Revision": "00",
+        "Filename": "161066.PAR"
+    },
+    "161555": {
+        "JdeNumber": "161555",
+        "Revision": "00",
+        "Filename": "161555.par"
+    },
+    "161643": {
+        "JdeNumber": "161643",
+        "Revision": "00",
+        "Filename": "161643.par"
+    },
+    "162093_replace_me": {
+        "JdeNumber": "162093_replace_me",
+        "Revision": "00",
+        "Filename": "162093.par"
+    },
+    "162093": {
+        "JdeNumber": "162093",
+        "Revision": "00",
+        "Filename": "162093_2.par"
+    },
+    "162762": {
+        "JdeNumber": "162762",
+        "Revision": "00",
+        "Filename": "162762.PAR"
+    },
+    "163622": {
+        "JdeNumber": "163622",
+        "Revision": "00",
+        "Filename": "163622.PAR"
+    },
+    "163657": {
+        "JdeNumber": "163657",
+        "Revision": "00",
+        "Filename": "163657.par"
+    },
+    "163688": {
+        "JdeNumber": "163688",
+        "Revision": "00",
+        "Filename": "163688.par"
+    },
+    "163827": {
+        "JdeNumber": "163827",
+        "Revision": "00",
+        "Filename": "163827.par"
+    },
+    "163892": {
+        "JdeNumber": "163892",
+        "Revision": "00",
+        "Filename": "163892.par"
+    },
+    "163984": {
+        "JdeNumber": "163984",
+        "Revision": "00",
+        "Filename": "163984.par"
+    },
+    "164297": {
+        "JdeNumber": "164297",
+        "Revision": "00",
+        "Filename": "164297.par"
+    },
+    "165166": {
+        "JdeNumber": "165166",
+        "Revision": "00",
+        "Filename": "165166.par"
+    },
+    "165321": {
+        "JdeNumber": "165321",
+        "Revision": "00",
+        "Filename": "165321.par"
+    },
+    "165333": {
+        "JdeNumber": "165333",
+        "Revision": "00",
+        "Filename": "165333.par"
+    },
+    "165673": {
+        "JdeNumber": "165673",
+        "Revision": "00",
+        "Filename": "165673.par"
+    },
+    "165967": {
+        "JdeNumber": "165967",
+        "Revision": "00",
+        "Filename": "165967.par"
+    },
+    "165975": {
+        "JdeNumber": "165975",
+        "Revision": "00",
+        "Filename": "165975.par"
+    },
+    "166433": {
+        "JdeNumber": "166433",
+        "Revision": "00",
+        "Filename": "166433.par"
+    },
+    "166434": {
+        "JdeNumber": "166434",
+        "Revision": "00",
+        "Filename": "166434.par"
+    },
+    "166561": {
+        "JdeNumber": "166561",
+        "Revision": "00",
+        "Filename": "166561.par"
+    },
+    "166691": {
+        "JdeNumber": "166691",
+        "Revision": "0",
+        "Filename": "166691.par"
+    },
+    "166786": {
+        "JdeNumber": "166786",
+        "Revision": "0",
+        "Filename": "166786.par"
+    },
+    "167102": {
+        "JdeNumber": "167102",
+        "Revision": "00",
+        "Filename": "167102.par"
+    },
+    "167251": {
+        "JdeNumber": "167251",
+        "Revision": "00",
+        "Filename": "167251.par"
+    },
+    "167288": {
+        "JdeNumber": "167288",
+        "Revision": "00",
+        "Filename": "167288.par"
+    },
+    "167293": {
+        "JdeNumber": "167293",
+        "Revision": "00",
+        "Filename": "167293.par"
+    },
+    "167445": {
+        "JdeNumber": "167445",
+        "Revision": "01",
+        "Filename": "167445.par"
+    },
+    "167880": {
+        "JdeNumber": "167880",
+        "Revision": "00",
+        "Filename": "167880.par"
+    },
+    "167893": {
+        "JdeNumber": "167893",
+        "Revision": "00",
+        "Filename": "167893.par"
+    },
+    "168489": {
+        "JdeNumber": "168489",
+        "Revision": "00",
+        "Filename": "168489.par"
+    },
+    "168799": {
+        "JdeNumber": "168799",
+        "Revision": "00",
+        "Filename": "168799.par"
+    },
+    "169216": {
+        "JdeNumber": "169216",
+        "Revision": "00",
+        "Filename": "169216.par"
+    },
+    "170386": {
+        "JdeNumber": "170386",
+        "Revision": "00",
+        "Filename": "170386.par"
+    },
+    "171087": {
+        "JdeNumber": "171087",
+        "Revision": "0",
+        "Filename": "171087.par"
+    },
+    "171277": {
+        "JdeNumber": "171277",
+        "Revision": "00",
+        "Filename": "171277.par"
+    },
+    "171277": {
+        "JdeNumber": "171277",
+        "Revision": "00",
+        "Filename": "171277_2.par"
+    },
+    "171467": {
+        "JdeNumber": "171467",
+        "Revision": "00",
+        "Filename": "171467.par"
+    },
+    "171470": {
+        "JdeNumber": "171470",
+        "Revision": "00",
+        "Filename": "171470.par"
+    },
+    "172597": {
+        "JdeNumber": "172597",
+        "Revision": "00",
+        "Filename": "172597.par"
+    },
+    "181103": {
+        "JdeNumber": "181103",
+        "Revision": "00",
+        "Filename": "181103.par"
+    },
+    "182126": {
+        "JdeNumber": "182126",
+        "Revision": "00",
+        "Filename": "182126.par"
+    },
+    "182141": {
+        "JdeNumber": "182141",
+        "Revision": "0",
+        "Filename": "182141.par"
+    },
+    "182254": {
+        "JdeNumber": "182254",
+        "Revision": "00",
+        "Filename": "182254.par"
+    },
+    "182702": {
+        "JdeNumber": "182702",
+        "Revision": "00",
+        "Filename": "182702.par"
+    },
+    "185012": {
+        "JdeNumber": "185012",
+        "Revision": "00",
+        "Filename": "185012.par"
+    },
+    "185014": {
+        "JdeNumber": "185014",
+        "Revision": "0",
+        "Filename": "185014.par"
+    },
+    "185066": {
+        "JdeNumber": "185066",
+        "Revision": "00",
+        "Filename": "185066.par"
+    },
+    "185074": {
+        "JdeNumber": "185074",
+        "Revision": "00",
+        "Filename": "185074.par"
+    },
+    "185499": {
+        "JdeNumber": "185499",
+        "Revision": "00",
+        "Filename": "185499.par"
+    },
+    "185500": {
+        "JdeNumber": "185500",
+        "Revision": "00",
+        "Filename": "185500.par"
+    },
+    "185501": {
+        "JdeNumber": "185501",
+        "Revision": "00",
+        "Filename": "185501.par"
+    },
+    "185502": {
+        "JdeNumber": "185502",
+        "Revision": "00",
+        "Filename": "185502.par"
+    },
+    "185503": {
+        "JdeNumber": "185503",
+        "Revision": "00",
+        "Filename": "185503.par"
+    },
+    "185504": {
+        "JdeNumber": "185504",
+        "Revision": "00",
+        "Filename": "185504.par"
+    },
+    "185505": {
+        "JdeNumber": "185505",
+        "Revision": "00",
+        "Filename": "185505.par"
+    },
+    "185506": {
+        "JdeNumber": "185506",
+        "Revision": "00",
+        "Filename": "185506.par"
+    },
+    "185508": {
+        "JdeNumber": "185508",
+        "Revision": "00",
+        "Filename": "185508.par"
+    },
+    "185510": {
+        "JdeNumber": "185510",
+        "Revision": "00",
+        "Filename": "185510.par"
+    },
+    "185511": {
+        "JdeNumber": "185511",
+        "Revision": "00",
+        "Filename": "185511.par"
+    },
+    "185512": {
+        "JdeNumber": "185512",
+        "Revision": "00",
+        "Filename": "185512.par"
+    },
+    "185513": {
+        "JdeNumber": "185513",
+        "Revision": "00",
+        "Filename": "185513.par"
+    },
+    "185514": {
+        "JdeNumber": "185514",
+        "Revision": "00",
+        "Filename": "185514.par"
+    },
+    "185515": {
+        "JdeNumber": "185515",
+        "Revision": "00",
+        "Filename": "185515.par"
+    },
+    "185516": {
+        "JdeNumber": "185516",
+        "Revision": "00",
+        "Filename": "185516.par"
+    },
+    "185517": {
+        "JdeNumber": "185517",
+        "Revision": "00",
+        "Filename": "185517.par"
+    },
+    "185518": {
+        "JdeNumber": "185518",
+        "Revision": "00",
+        "Filename": "185518.par"
+    },
+    "185519": {
+        "JdeNumber": "185519",
+        "Revision": "00",
+        "Filename": "185519.par"
+    },
+    "185520": {
+        "JdeNumber": "185520",
+        "Revision": "00",
+        "Filename": "185520.par"
+    },
+    "185523": {
+        "JdeNumber": "185523",
+        "Revision": "00",
+        "Filename": "185523.par"
+    },
+    "185543": {
+        "JdeNumber": "185543",
+        "Revision": "00",
+        "Filename": "185543.par"
+    },
+    "185547": {
+        "JdeNumber": "185547",
+        "Revision": "00",
+        "Filename": "185547.par"
+    },
+    "185548": {
+        "JdeNumber": "185548",
+        "Revision": "00",
+        "Filename": "185548.par"
+    },
+    "185550": {
+        "JdeNumber": "185550",
+        "Revision": "00",
+        "Filename": "185550.par"
+    },
+    "185559": {
+        "JdeNumber": "185559",
+        "Revision": "00",
+        "Filename": "185559.par"
+    },
+    "185605": {
+        "JdeNumber": "185605",
+        "Revision": "00",
+        "Filename": "185605.par"
+    },
+    "185606": {
+        "JdeNumber": "185606",
+        "Revision": "00",
+        "Filename": "185606.par"
+    },
+    "185616": {
+        "JdeNumber": "185616",
+        "Revision": "00",
+        "Filename": "185616.par"
+    },
+    "185618": {
+        "JdeNumber": "185618",
+        "Revision": "00",
+        "Filename": "185618.par"
+    },
+    "185623": {
+        "JdeNumber": "185623",
+        "Revision": "00",
+        "Filename": "185623.par"
+    },
+    "185628": {
+        "JdeNumber": "185628",
+        "Revision": "00",
+        "Filename": "185628.par"
+    },
+    "185630": {
+        "JdeNumber": "185630",
+        "Revision": "00",
+        "Filename": "185630.par"
+    },
+    "185633": {
+        "JdeNumber": "185633",
+        "Revision": "00",
+        "Filename": "185633.par"
+    },
+    "185648": {
+        "JdeNumber": "185648",
+        "Revision": "00",
+        "Filename": "185648.par"
+    },
+    "185655": {
+        "JdeNumber": "185655",
+        "Revision": "00",
+        "Filename": "185655.par"
+    },
+    "185662": {
+        "JdeNumber": "185662",
+        "Revision": "00",
+        "Filename": "185662.par"
+    },
+    "185664": {
+        "JdeNumber": "185664",
+        "Revision": "00",
+        "Filename": "185664.par"
+    },
+    "185673": {
+        "JdeNumber": "185673",
+        "Revision": "00",
+        "Filename": "185673.par"
+    },
+    "185688": {
+        "JdeNumber": "185688",
+        "Revision": "00",
+        "Filename": "185688.par"
+    },
+    "185701": {
+        "JdeNumber": "185701",
+        "Revision": "00",
+        "Filename": "185701.par"
+    },
+    "185705": {
+        "JdeNumber": "185705",
+        "Revision": "00",
+        "Filename": "185705.par"
+    },
+    "185711": {
+        "JdeNumber": "185711",
+        "Revision": "00",
+        "Filename": "185711.par"
+    },
+    "185712": {
+        "JdeNumber": "185712",
+        "Revision": "00",
+        "Filename": "185712.par"
+    },
+    "185714": {
+        "JdeNumber": "185714",
+        "Revision": "00",
+        "Filename": "185714.par"
+    },
+    "185716": {
+        "JdeNumber": "185716",
+        "Revision": "00",
+        "Filename": "185716.par"
+    },
+    "185721": {
+        "JdeNumber": "185721",
+        "Revision": "00",
+        "Filename": "185721.par"
+    },
+    "185726": {
+        "JdeNumber": "185726",
+        "Revision": "00",
+        "Filename": "185726.par"
+    },
+    "185731": {
+        "JdeNumber": "185731",
+        "Revision": "00",
+        "Filename": "185731.par"
+    },
+    "185735": {
+        "JdeNumber": "185735",
+        "Revision": "00",
+        "Filename": "185735.par"
+    },
+    "185755": {
+        "JdeNumber": "185755",
+        "Revision": "00",
+        "Filename": "185755.par"
+    },
+    "185765": {
+        "JdeNumber": "185765",
+        "Revision": "00",
+        "Filename": "185765.par"
+    },
+    "185769": {
+        "JdeNumber": "185769",
+        "Revision": "00",
+        "Filename": "185769.par"
+    },
+    "185790": {
+        "JdeNumber": "185790",
+        "Revision": "00",
+        "Filename": "185790.par"
+    },
+    "185796": {
+        "JdeNumber": "185796",
+        "Revision": "00",
+        "Filename": "185796.par"
+    },
+    "185800": {
+        "JdeNumber": "185800",
+        "Revision": "00",
+        "Filename": "185800.par"
+    },
+    "185818": {
+        "JdeNumber": "185818",
+        "Revision": "00",
+        "Filename": "185818.par"
+    },
+    "185836": {
+        "JdeNumber": "185836",
+        "Revision": "00",
+        "Filename": "185836.par"
+    },
+    "185891": {
+        "JdeNumber": "185891",
+        "Revision": "00",
+        "Filename": "185891.par"
+    },
+    "186233": {
+        "JdeNumber": "186233",
+        "Revision": "0",
+        "Filename": "186233.PAR"
+    },
+    "186280": {
+        "JdeNumber": "186280",
+        "Revision": "00",
+        "Filename": "186280.par"
+    },
+    "188853": {
+        "JdeNumber": "188853",
+        "Revision": "00",
+        "Filename": "188853.par"
+    },
+    "192405": {
+        "JdeNumber": "192405",
+        "Revision": "00",
+        "Filename": "192405.par"
+    },
+    "208258": {
+        "JdeNumber": "208258",
+        "Revision": "00",
+        "Filename": "208258.par"
+    },
+    "208388": {
+        "JdeNumber": "208388",
+        "Revision": "00",
+        "Filename": "208388.par"
+    },
+    "208608": {
+        "JdeNumber": "208608",
+        "Revision": "00",
+        "Filename": "208608.par"
+    },
+    "208657": {
+        "JdeNumber": "208657",
+        "Revision": "00",
+        "Filename": "208657.par"
+    },
+    "209224": {
+        "JdeNumber": "209224",
+        "Revision": "00",
+        "Filename": "209224.par"
+    },
+    "209267": {
+        "JdeNumber": "209267",
+        "Revision": "00",
+        "Filename": "209267.par"
+    },
+    "209366": {
+        "JdeNumber": "209366",
+        "Revision": "00",
+        "Filename": "209366.par"
+    },
+    "209366": {
+        "JdeNumber": "209366",
+        "Revision": "01",
+        "Filename": "209366_XML43.par"
+    },
+    "209702": {
+        "JdeNumber": "209702",
+        "Revision": "00",
+        "Filename": "209702.par"
+    },
+    "209739": {
+        "JdeNumber": "209739",
+        "Revision": "00",
+        "Filename": "209739.par"
+    },
+    "209768": {
+        "JdeNumber": "209768",
+        "Revision": "00",
+        "Filename": "209768.par"
+    },
+    "209982": {
+        "JdeNumber": "209982",
+        "Revision": "00",
+        "Filename": "209982.par"
+    },
+    "209982": {
+        "JdeNumber": "209982",
+        "Revision": "00",
+        "Filename": "209982_2.par"
+    },
+    "210805": {
+        "JdeNumber": "210805",
+        "Revision": "00",
+        "Filename": "210805.par"
+    },
+    "210912": {
+        "JdeNumber": "210912",
+        "Revision": "00",
+        "Filename": "210912.par"
+    },
+    "212360": {
+        "JdeNumber": "212360",
+        "Revision": "00",
+        "Filename": "212360.par"
+    },
+    "212391": {
+        "JdeNumber": "212391",
+        "Revision": "00",
+        "Filename": "212391.par"
+    },
+    "212595": {
+        "JdeNumber": "212595",
+        "Revision": "00",
+        "Filename": "212595.par"
+    },
+    "212852": {
+        "JdeNumber": "212852",
+        "Revision": "00",
+        "Filename": "212852.par"
+    },
+    "212853": {
+        "JdeNumber": "212853",
+        "Revision": "00",
+        "Filename": "212853.par"
+    },
+    "212879": {
+        "JdeNumber": "212879",
+        "Revision": "00",
+        "Filename": "212879.par"
+    },
+    "212972": {
+        "JdeNumber": "212972",
+        "Revision": "00",
+        "Filename": "212972.par"
+    },
+    "212999": {
+        "JdeNumber": "212999",
+        "Revision": "00",
+        "Filename": "212999.par"
+    },
+    "213304": {
+        "JdeNumber": "213304",
+        "Revision": "00",
+        "Filename": "213304.par"
+    },
+    "213777": {
+        "JdeNumber": "213777",
+        "Revision": "00",
+        "Filename": "213777.par"
+    },
+    "213846": {
+        "JdeNumber": "213846",
+        "Revision": "00",
+        "Filename": "213846.par"
+    },
+    "214610": {
+        "JdeNumber": "214610",
+        "Revision": "01",
+        "Filename": "214610.par"
+    },
+    "215271": {
+        "JdeNumber": "215271",
+        "Revision": "00",
+        "Filename": "215271.par"
+    },
+    "215376": {
+        "JdeNumber": "215376",
+        "Revision": "00",
+        "Filename": "215376.par"
+    },
+    "215771": {
+        "JdeNumber": "215771",
+        "Revision": "00",
+        "Filename": "215771.par"
+    },
+    "215809": {
+        "JdeNumber": "215809",
+        "Revision": "00",
+        "Filename": "215809.par"
+    },
+    "216054": {
+        "JdeNumber": "216054",
+        "Revision": "00",
+        "Filename": "216054.par"
+    },
+    "216260": {
+        "JdeNumber": "216260",
+        "Revision": "00",
+        "Filename": "216260.par"
+    },
+    "216651": {
+        "JdeNumber": "216651",
+        "Revision": "00",
+        "Filename": "216651.par"
+    },
+    "216892": {
+        "JdeNumber": "216892",
+        "Revision": "00",
+        "Filename": "216892.par"
+    },
+    "216930": {
+        "JdeNumber": "216930",
+        "Revision": "00",
+        "Filename": "216930.par"
+    },
+    "217127": {
+        "JdeNumber": "217127",
+        "Revision": "00",
+        "Filename": "217127.par"
+    },
+    "217289": {
+        "JdeNumber": "217289",
+        "Revision": "00",
+        "Filename": "217289.par"
+    },
+    "217623": {
+        "JdeNumber": "217623",
+        "Revision": "00",
+        "Filename": "217623.par"
+    },
+    "218298": {
+        "JdeNumber": "218298",
+        "Revision": "00",
+        "Filename": "218298.par"
+    },
+    "218785": {
+        "JdeNumber": "218785",
+        "Revision": "00",
+        "Filename": "218785.par"
+    },
+    "219538": {
+        "JdeNumber": "219538",
+        "Revision": "00",
+        "Filename": "219538.par"
+    },
+    "219951": {
+        "JdeNumber": "219951",
+        "Revision": "00",
+        "Filename": "219951.par"
+    },
+    "221437": {
+        "JdeNumber": "221437",
+        "Revision": "00",
+        "Filename": "221437.par"
+    },
+    "221512": {
+        "JdeNumber": "221512",
+        "Revision": "00",
+        "Filename": "221512.par"
+    },
+    "221844": {
+        "JdeNumber": "221844",
+        "Revision": "00",
+        "Filename": "221844.par"
+    },
+    "222905": {
+        "JdeNumber": "222905",
+        "Revision": "00",
+        "Filename": "222905.par"
+    },
+    "225165": {
+        "JdeNumber": "225165",
+        "Revision": "00",
+        "Filename": "225165.par"
+    },
+    "24100250": {
+        "JdeNumber": "24100250",
+        "Revision": "00",
+        "Filename": "24100250.par"
+    },
+    "24100623": {
+        "JdeNumber": "24100623",
+        "Revision": "00",
+        "Filename": "24100623.par"
+    },
+    "24101016": {
+        "JdeNumber": "24101016",
+        "Revision": "00",
+        "Filename": "24101016.par"
+    },
+    "24101117": {
+        "JdeNumber": "24101117",
+        "Revision": "00",
+        "Filename": "24101117.par"
+    },
+    "24101451": {
+        "JdeNumber": "24101451",
+        "Revision": "00",
+        "Filename": "24101451.par"
+    },
+    "24102154": {
+        "JdeNumber": "24102154",
+        "Revision": "00",
+        "Filename": "24102154.PAR"
+    },
+    "24102444": {
+        "JdeNumber": "24102444",
+        "Revision": "0",
+        "Filename": "24102444.par"
+    },
+    "24102719": {
+        "JdeNumber": "24102719",
+        "Revision": "00",
+        "Filename": "24102719.par"
+    },
+    "24102915": {
+        "JdeNumber": "24102915",
+        "Revision": "00",
+        "Filename": "24102915.par"
+    },
+    "24104303": {
+        "JdeNumber": "24104303",
+        "Revision": "00",
+        "Filename": "24104303.par"
+    },
+    "24104709": {
+        "JdeNumber": "24104709",
+        "Revision": "01",
+        "Filename": "24104709.par"
+    },
+    "24104729": {
+        "JdeNumber": "24104729",
+        "Revision": "00",
+        "Filename": "24104729.par"
+    },
+    "24105028": {
+        "JdeNumber": "24105028",
+        "Revision": "00",
+        "Filename": "24105028.par"
+    },
+    "24105977": {
+        "JdeNumber": "24105977",
+        "Revision": "00",
+        "Filename": "24105977.par"
+    },
+    "24106033_2": {
+        "JdeNumber": "24106033_2",
+        "Revision": "00",
+        "Filename": "24106033_2.par"
+    },
+    "254204": {
+        "JdeNumber": "254204",
+        "Revision": "00",
+        "Filename": "254204.par"
+    },
+    "300114": {
+        "JdeNumber": "300114",
+        "Revision": "00",
+        "Filename": "300114.par"
+    },
+    "315900": {
+        "JdeNumber": "315900",
+        "Revision": "00",
+        "Filename": "315900.par"
+    },
+    "316744": {
+        "JdeNumber": "316744",
+        "Revision": "00",
+        "Filename": "316744.par"
+    },
+    "54010014": {
+        "JdeNumber": "54010014",
+        "Revision": "00",
+        "Filename": "54010014.par"
+    },
+    "54010144": {
+        "JdeNumber": "54010144",
+        "Revision": "00",
+        "Filename": "54010144.par"
+    },
+    "54030006": {
+        "JdeNumber": "54030006",
+        "Revision": "00",
+        "Filename": "54030006.par"
+    },
+    "54030027": {
+        "JdeNumber": "54030027",
+        "Revision": "00",
+        "Filename": "54030027.par"
+    },
+    "54050073": {
+        "JdeNumber": "54050073",
+        "Revision": "00",
+        "Filename": "54050073.par"
+    },
+    "55030028": {
+        "JdeNumber": "55030028",
+        "Revision": "00",
+        "Filename": "55030028.par"
+    },
+    "55030042": {
+        "JdeNumber": "55030042",
+        "Revision": "00",
+        "Filename": "55030042.par"
+    },
+    "161078": {
+        "JdeNumber": "161078",
+        "Revision": "00",
+        "Filename": "BCCC_0.250-20X0.750.PAR"
+    },
+    "185495": {
+        "JdeNumber": "185495",
+        "Revision": "00",
+        "Filename": "BCCC_0.250-20X0.750_SS.par"
+    },
+    "24101343": {
+        "JdeNumber": "24101343",
+        "Revision": "0",
+        "Filename": "BCCC_0.250-20X1.000.PAR"
+    },
+    "181670": {
+        "JdeNumber": "181670",
+        "Revision": "00",
+        "Filename": "BCCC_0.250-20X1.000_SS.PAR"
+    },
+    "24101343": {
+        "JdeNumber": "24101343",
+        "Revision": "01",
+        "Filename": "BCCC_0.250-20X1.000_XML8.PAR"
+    },
+    "24100156": {
+        "JdeNumber": "24100156",
+        "Revision": "01",
+        "Filename": "BCCC_0.250-20X1.500.PAR"
+    },
+    "24100156": {
+        "JdeNumber": "24100156",
+        "Revision": "0",
+        "Filename": "BCCC_0.250-20X1.500_XML41.PAR"
+    },
+    "24102860": {
+        "JdeNumber": "24102860",
+        "Revision": "0",
+        "Filename": "BCCC_0.250-20X2.500.PAR"
+    },
+    "24100155": {
+        "JdeNumber": "24100155",
+        "Revision": "0",
+        "Filename": "BCCC_0.250-20X4.000.PAR"
+    },
+    "24100980": {
+        "JdeNumber": "24100980",
+        "Revision": "0",
+        "Filename": "BCCC_0.313-18X1.000.PAR"
+    },
+    "153210": {
+        "JdeNumber": "153210",
+        "Revision": "00",
+        "Filename": "BCCC_0.313-18X1.000_SS.par"
+    },
+    "24100587": {
+        "JdeNumber": "24100587",
+        "Revision": "0",
+        "Filename": "BCCC_0.313-18X1.500.PAR"
+    },
+    "185498": {
+        "JdeNumber": "185498",
+        "Revision": "00",
+        "Filename": "BCCC_0.313-18X1.500_SS.par"
+    },
+    "24100144": {
+        "JdeNumber": "24100144",
+        "Revision": "0",
+        "Filename": "BCCC_0.313-18X2.000.PAR"
+    },
+    "159330": {
+        "JdeNumber": "159330",
+        "Revision": "00",
+        "Filename": "BCCC_0.313-18X2.750.par"
+    },
+    "24100982": {
+        "JdeNumber": "24100982",
+        "Revision": "0",
+        "Filename": "BCCC_0.313-18X3.000.PAR"
+    },
+    "123212": {
+        "JdeNumber": "123212",
+        "Revision": "0",
+        "Filename": "BCCC_0.375-16X1.000.PAR"
+    },
+    "24100983": {
+        "JdeNumber": "24100983",
+        "Revision": "0",
+        "Filename": "BCCC_0.375-16X1.250.PAR"
+    },
+    "134006": {
+        "JdeNumber": "134006",
+        "Revision": "0",
+        "Filename": "BCCC_0.375-16X1.250_SS.PAR"
+    },
+    "24100375": {
+        "JdeNumber": "24100375",
+        "Revision": "0",
+        "Filename": "BCCC_0.375-16X1.500.PAR"
+    },
+    "161064": {
+        "JdeNumber": "161064",
+        "Revision": "00",
+        "Filename": "BCCC_0.375-16X1.750.PAR"
+    },
+    "185497": {
+        "JdeNumber": "185497",
+        "Revision": "00",
+        "Filename": "BCCC_0.375-16X1.750_SS.par"
+    },
+    "24100376": {
+        "JdeNumber": "24100376",
+        "Revision": "0",
+        "Filename": "BCCC_0.375-16X2.500.PAR"
+    },
+    "185027": {
+        "JdeNumber": "185027",
+        "Revision": "00",
+        "Filename": "BCCC_0.375-16X2.500_SS.par"
+    },
+    "158190": {
+        "JdeNumber": "158190",
+        "Revision": "0",
+        "Filename": "BCCC_0.375-16X3.000.PAR"
+    },
+    "160556": {
+        "JdeNumber": "160556",
+        "Revision": "00",
+        "Filename": "BCCC_0.375-16X3.500.PAR"
+    },
+    "161424": {
+        "JdeNumber": "161424",
+        "Revision": "00",
+        "Filename": "BCCC_0.375-16X4.500.par"
+    },
+    "115903": {
+        "JdeNumber": "115903",
+        "Revision": "0",
+        "Filename": "BCCC_0.375-16X8.000.PAR"
+    },
+    "114087": {
+        "JdeNumber": "114087",
+        "Revision": "0",
+        "Filename": "BCCC_0.375-16X9.000.PAR"
+    },
+    "128281": {
+        "JdeNumber": "128281",
+        "Revision": "0",
+        "Filename": "BCCC_0.500-13X1.500.PAR"
+    },
+    "184837": {
+        "JdeNumber": "184837",
+        "Revision": "00",
+        "Filename": "BCCC_0.500-13X1.500_SS.par"
+    },
+    "254202": {
+        "JdeNumber": "254202",
+        "Revision": "00",
+        "Filename": "BCCC_0.500-13X1.750_SS304.par"
+    },
+    "136774": {
+        "JdeNumber": "136774",
+        "Revision": "0",
+        "Filename": "BCCC_0.500-13X2.000.PAR"
+    },
+    "185073": {
+        "JdeNumber": "185073",
+        "Revision": "00",
+        "Filename": "BCCC_0.500-13X2.000_SS.par"
+    },
+    "161863": {
+        "JdeNumber": "161863",
+        "Revision": "00",
+        "Filename": "BCCC_0.500-13X2.250.par"
+    },
+    "170190": {
+        "JdeNumber": "170190",
+        "Revision": "00",
+        "Filename": "BCCC_0.500-13X2.250_SS304.par"
+    },
+    "161861": {
+        "JdeNumber": "161861",
+        "Revision": "00",
+        "Filename": "BCCC_0.625-11X2.000.par"
+    },
+    "161862": {
+        "JdeNumber": "161862",
+        "Revision": "00",
+        "Filename": "BCCC_0.625-11X2.500.par"
+    },
+    "154892": {
+        "JdeNumber": "154892",
+        "Revision": "00",
+        "Filename": "BCCC_0.625-11X5.000.PAR"
+    },
+    "181011": {
+        "JdeNumber": "181011",
+        "Revision": "00",
+        "Filename": "BCCC_M10-1.50X65_CLS8.8.par"
+    },
+    "185509": {
+        "JdeNumber": "185509",
+        "Revision": "00",
+        "Filename": "BCCC_M10-1.50X75_CLS8.8.par"
+    },
+    "117515": {
+        "JdeNumber": "117515",
+        "Revision": "00",
+        "Filename": "BR_EXT_12.0.PAR"
+    },
+    "24100492": {
+        "JdeNumber": "24100492",
+        "Revision": "00",
+        "Filename": "BR_INT_47.0.PAR"
+    },
+    "24103415": {
+        "JdeNumber": "24103415",
+        "Revision": "0",
+        "Filename": "E_AB_0.138-32.PAR"
+    },
+    "24102786": {
+        "JdeNumber": "24102786",
+        "Revision": "0",
+        "Filename": "E_AB_0.138-32_SS.par"
+    },
+    "24102228": {
+        "JdeNumber": "24102228",
+        "Revision": "0",
+        "Filename": "E_AB_0.164-32_SS.par"
+    },
+    "24103381": {
+        "JdeNumber": "24103381",
+        "Revision": "0",
+        "Filename": "E_AB_0.190-24.PAR"
+    },
+    "24100504": {
+        "JdeNumber": "24100504",
+        "Revision": "0",
+        "Filename": "E_AB_0.250-20.PAR"
+    },
+    "24103224": {
+        "JdeNumber": "24103224",
+        "Revision": "0",
+        "Filename": "E_AB_0.250-20_SS.par"
+    },
+    "24100504": {
+        "JdeNumber": "24100504",
+        "Revision": "00",
+        "Filename": "E_AB_0.250-20_XML4.PAR"
+    },
+    "24100503": {
+        "JdeNumber": "24100503",
+        "Revision": "0",
+        "Filename": "E_AB_0.313-18.PAR"
+    },
+    "24103225": {
+        "JdeNumber": "24103225",
+        "Revision": "0",
+        "Filename": "E_AB_0.313-18_SS.par"
+    },
+    "24102853": {
+        "JdeNumber": "24102853",
+        "Revision": "0",
+        "Filename": "E_AB_0.313-24.PAR"
+    },
+    "24100175": {
+        "JdeNumber": "24100175",
+        "Revision": "0",
+        "Filename": "E_AB_0.375-16.PAR"
+    },
+    "24103226": {
+        "JdeNumber": "24103226",
+        "Revision": "0",
+        "Filename": "E_AB_0.375-16_SS.par"
+    },
+    "24103226": {
+        "JdeNumber": "24103226",
+        "Revision": "00",
+        "Filename": "E_AB_0.375-16_SS_XML18.par"
+    },
+    "24107035": {
+        "JdeNumber": "24107035",
+        "Revision": "0",
+        "Filename": "E_AB_0.375-24.PAR"
+    },
+    "24101062": {
+        "JdeNumber": "24101062",
+        "Revision": "0",
+        "Filename": "E_AB_0.438-14.PAR"
+    },
+    "24103227": {
+        "JdeNumber": "24103227",
+        "Revision": "0",
+        "Filename": "E_AB_0.438-14_SS.par"
+    },
+    "202144": {
+        "JdeNumber": "202144",
+        "Revision": "0",
+        "Filename": "E_AB_0.500-13.PAR"
+    },
+    "24103228": {
+        "JdeNumber": "24103228",
+        "Revision": "0",
+        "Filename": "E_AB_0.500-13_SS.par"
+    },
+    "202144": {
+        "JdeNumber": "202144",
+        "Revision": "01",
+        "Filename": "E_AB_0.500-13_XML6.PAR"
+    },
+    "24101075": {
+        "JdeNumber": "24101075",
+        "Revision": "0",
+        "Filename": "E_AB_0.500-20.PAR"
+    },
+    "24109079": {
+        "JdeNumber": "24109079",
+        "Revision": "0",
+        "Filename": "E_AB_0.563-12.PAR"
+    },
+    "24100502": {
+        "JdeNumber": "24100502",
+        "Revision": "00",
+        "Filename": "E_AB_0.625-11.PAR"
+    },
+    "24102290": {
+        "JdeNumber": "24102290",
+        "Revision": "0",
+        "Filename": "E_AB_0.625-11_SS.par"
+    },
+    "24100502": {
+        "JdeNumber": "24100502",
+        "Revision": "0",
+        "Filename": "E_AB_0.625-11_XML80.PAR"
+    },
+    "24105001": {
+        "JdeNumber": "24105001",
+        "Revision": "0",
+        "Filename": "E_AB_0.625-18.PAR"
+    },
+    "24100178": {
+        "JdeNumber": "24100178",
+        "Revision": "0",
+        "Filename": "E_AB_0.750-10.PAR"
+    },
+    "24103229": {
+        "JdeNumber": "24103229",
+        "Revision": "0",
+        "Filename": "E_AB_0.750-10_SS.par"
+    },
+    "24102589": {
+        "JdeNumber": "24102589",
+        "Revision": "0",
+        "Filename": "E_AB_0.875-14.PAR"
+    },
+    "202147": {
+        "JdeNumber": "202147",
+        "Revision": "0",
+        "Filename": "E_AB_0.875-9.PAR"
+    },
+    "24102655": {
+        "JdeNumber": "24102655",
+        "Revision": "0",
+        "Filename": "E_AB_1.000-8.PAR"
+    },
+    "122990": {
+        "JdeNumber": "122990",
+        "Revision": "0",
+        "Filename": "E_AB_1.000-8_SS.par"
+    },
+    "24106518": {
+        "JdeNumber": "24106518",
+        "Revision": "0",
+        "Filename": "E_AB_1.125-7.PAR"
+    },
+    "24106987": {
+        "JdeNumber": "24106987",
+        "Revision": "0",
+        "Filename": "E_AB_1.250-7.PAR"
+    },
+    "126123": {
+        "JdeNumber": "126123",
+        "Revision": "0",
+        "Filename": "E_AB_2.000-5.PAR"
+    },
+    "24101493": {
+        "JdeNumber": "24101493",
+        "Revision": "0",
+        "Filename": "E_AB_M02.5-0.45.PAR"
+    },
+    "24101494": {
+        "JdeNumber": "24101494",
+        "Revision": "0",
+        "Filename": "E_AB_M03-0.50.PAR"
+    },
+    "24104837": {
+        "JdeNumber": "24104837",
+        "Revision": "0",
+        "Filename": "E_AB_M04-0.70_SS.PAR"
+    },
+    "24104534": {
+        "JdeNumber": "24104534",
+        "Revision": "0",
+        "Filename": "E_AB_M05-0.80_SS.PAR"
+    },
+    "24101501": {
+        "JdeNumber": "24101501",
+        "Revision": "0",
+        "Filename": "E_AB_M06-1.00.PAR"
+    },
+    "24106136": {
+        "JdeNumber": "24106136",
+        "Revision": "0",
+        "Filename": "E_AB_M08-1.00.PAR"
+    },
+    "24101502": {
+        "JdeNumber": "24101502",
+        "Revision": "00",
+        "Filename": "E_AB_M08-1.25.PAR"
+    },
+    "24104836": {
+        "JdeNumber": "24104836",
+        "Revision": "0",
+        "Filename": "E_AB_M08-1.25_SS.PAR"
+    },
+    "300596": {
+        "JdeNumber": "300596",
+        "Revision": "0",
+        "Filename": "E_AB_M10-1.25.PAR"
+    },
+    "24104102": {
+        "JdeNumber": "24104102",
+        "Revision": "0",
+        "Filename": "E_AB_M10-1.50.PAR"
+    },
+    "24104102": {
+        "JdeNumber": "24104102",
+        "Revision": "00",
+        "Filename": "E_AB_M10-1.50_XML57.PAR"
+    },
+    "24104998": {
+        "JdeNumber": "24104998",
+        "Revision": "0",
+        "Filename": "E_AB_M12-1.25.PAR"
+    },
+    "24101757": {
+        "JdeNumber": "24101757",
+        "Revision": "0",
+        "Filename": "E_AB_M12-1.50.PAR"
+    },
+    "24103897": {
+        "JdeNumber": "24103897",
+        "Revision": "0",
+        "Filename": "E_AB_M12-1.75.PAR"
+    },
+    "24104832": {
+        "JdeNumber": "24104832",
+        "Revision": "0",
+        "Filename": "E_AB_M12-1.75_SS.PAR"
+    },
+    "24102976": {
+        "JdeNumber": "24102976",
+        "Revision": "0",
+        "Filename": "E_AB_M16-2.00.PAR"
+    },
+    "24104835": {
+        "JdeNumber": "24104835",
+        "Revision": "0",
+        "Filename": "E_AB_M16-2.00_SS.PAR"
+    },
+    "24104699": {
+        "JdeNumber": "24104699",
+        "Revision": "0",
+        "Filename": "E_AB_M18-2.50.PAR"
+    },
+    "24104532": {
+        "JdeNumber": "24104532",
+        "Revision": "0",
+        "Filename": "E_AB_M20-2.50.PAR"
+    },
+    "24104884": {
+        "JdeNumber": "24104884",
+        "Revision": "0",
+        "Filename": "E_AB_M20-2.50_SS.PAR"
+    },
+    "201063": {
+        "JdeNumber": "201063",
+        "Revision": "0",
+        "Filename": "E_AB_M22-2.50.PAR"
+    },
+    "24104616": {
+        "JdeNumber": "24104616",
+        "Revision": "0",
+        "Filename": "E_AB_M24-3.00.PAR"
+    },
+    "24102962": {
+        "JdeNumber": "24102962",
+        "Revision": "0",
+        "Filename": "E_CE_0.250-20.PAR"
+    },
+    "24105886": {
+        "JdeNumber": "24105886",
+        "Revision": "0",
+        "Filename": "E_CE_0.250-20_SS.PAR"
+    },
+    "24102854": {
+        "JdeNumber": "24102854",
+        "Revision": "0",
+        "Filename": "E_CE_0.250-28.PAR"
+    },
+    "24105879": {
+        "JdeNumber": "24105879",
+        "Revision": "0",
+        "Filename": "E_CE_0.313-18.PAR"
+    },
+    "106090": {
+        "JdeNumber": "106090",
+        "Revision": "0",
+        "Filename": "E_CE_0.313-24.PAR"
+    },
+    "24102247": {
+        "JdeNumber": "24102247",
+        "Revision": "0",
+        "Filename": "E_CE_0.375-16.PAR"
+    },
+    "135672": {
+        "JdeNumber": "135672",
+        "Revision": "00",
+        "Filename": "E_CE_0.375-16_SS.PAR"
+    },
+    "127797": {
+        "JdeNumber": "127797",
+        "Revision": "0",
+        "Filename": "E_CE_0.375-24.PAR"
+    },
+    "24102855": {
+        "JdeNumber": "24102855",
+        "Revision": "0",
+        "Filename": "E_CE_0.375-24_SS.PAR"
+    },
+    "106086": {
+        "JdeNumber": "106086",
+        "Revision": "0",
+        "Filename": "E_CE_0.438-20.PAR"
+    },
+    "117651": {
+        "JdeNumber": "117651",
+        "Revision": "0",
+        "Filename": "E_CE_0.500-13_SS.PAR"
+    },
+    "24100827": {
+        "JdeNumber": "24100827",
+        "Revision": "0",
+        "Filename": "E_CE_0.500-20.PAR"
+    },
+    "117615": {
+        "JdeNumber": "117615",
+        "Revision": "0",
+        "Filename": "E_CE_0.500-20_SS.PAR"
+    },
+    "24102546": {
+        "JdeNumber": "24102546",
+        "Revision": "0",
+        "Filename": "E_CE_0.625-11.PAR"
+    },
+    "181130": {
+        "JdeNumber": "181130",
+        "Revision": "00",
+        "Filename": "E_CE_0.625-11_SS.PAR"
+    },
+    "107689": {
+        "JdeNumber": "107689",
+        "Revision": "0",
+        "Filename": "E_CE_0.625-18.PAR"
+    },
+    "24102159": {
+        "JdeNumber": "24102159",
+        "Revision": "0",
+        "Filename": "E_CE_0.750-10.PAR"
+    },
+    "118366": {
+        "JdeNumber": "118366",
+        "Revision": "0",
+        "Filename": "E_CE_0.750-10_SS.PAR"
+    },
+    "24104065": {
+        "JdeNumber": "24104065",
+        "Revision": "0",
+        "Filename": "E_CE_0.750-16.PAR"
+    },
+    "134315": {
+        "JdeNumber": "134315",
+        "Revision": "0",
+        "Filename": "E_CE_0.750-16_SS.PAR"
+    },
+    "24102142": {
+        "JdeNumber": "24102142",
+        "Revision": "0",
+        "Filename": "E_CE_1.000-8.PAR"
+    },
+    "115946": {
+        "JdeNumber": "115946",
+        "Revision": "0",
+        "Filename": "E_CE_1.250-12.PAR"
+    },
+    "115947": {
+        "JdeNumber": "115947",
+        "Revision": "0",
+        "Filename": "E_CE_1.500-12.PAR"
+    },
+    "126125": {
+        "JdeNumber": "126125",
+        "Revision": "0",
+        "Filename": "E_CE_2.000-5.PAR"
+    },
+    "24104525": {
+        "JdeNumber": "24104525",
+        "Revision": "0",
+        "Filename": "E_CE_M06-1.00.PAR"
+    },
+    "24104526": {
+        "JdeNumber": "24104526",
+        "Revision": "0",
+        "Filename": "E_CE_M08-1.25.PAR"
+    },
+    "24104527": {
+        "JdeNumber": "24104527",
+        "Revision": "0",
+        "Filename": "E_CE_M10-1.50.PAR"
+    },
+    "182678": {
+        "JdeNumber": "182678",
+        "Revision": "0",
+        "Filename": "E_CE_M10-1.50_SS.PAR"
+    },
+    "300293": {
+        "JdeNumber": "300293",
+        "Revision": "00",
+        "Filename": "E_CE_M12-1.25.PAR"
+    },
+    "300293": {
+        "JdeNumber": "300293",
+        "Revision": "0",
+        "Filename": "E_CE_M12-1.25_XML49.PAR"
+    },
+    "24104700": {
+        "JdeNumber": "24104700",
+        "Revision": "0",
+        "Filename": "E_CE_M12-1.75.PAR"
+    },
+    "134306": {
+        "JdeNumber": "134306",
+        "Revision": "0",
+        "Filename": "E_CE_M14-2.00.PAR"
+    },
+    "181671": {
+        "JdeNumber": "181671",
+        "Revision": "00",
+        "Filename": "E_CE_M16-1.50.PAR"
+    },
+    "181671": {
+        "JdeNumber": "181671",
+        "Revision": "0",
+        "Filename": "E_CE_M16-1.50_XML26.PAR"
+    },
+    "24104701": {
+        "JdeNumber": "24104701",
+        "Revision": "0",
+        "Filename": "E_CE_M16-2.00.PAR"
+    },
+    "24104701": {
+        "JdeNumber": "24104701",
+        "Revision": "00",
+        "Filename": "E_CE_M16-2.00_XML55.PAR"
+    },
+    "24104702": {
+        "JdeNumber": "24104702",
+        "Revision": "0",
+        "Filename": "E_CE_M18-2.50.PAR"
+    },
+    "24104608": {
+        "JdeNumber": "24104608",
+        "Revision": "0",
+        "Filename": "E_CE_M20-1.50.PAR"
+    },
+    "107384": {
+        "JdeNumber": "107384",
+        "Revision": "0",
+        "Filename": "E_CE_M20-2.50.PAR"
+    },
+    "118367": {
+        "JdeNumber": "118367",
+        "Revision": "0",
+        "Filename": "E_CE_M20-2.50_SS.PAR"
+    },
+    "24104703": {
+        "JdeNumber": "24104703",
+        "Revision": "0",
+        "Filename": "E_CE_M24-3.00.PAR"
+    },
+    "24104895": {
+        "JdeNumber": "24104895",
+        "Revision": "0",
+        "Filename": "E_CE_M24-3.00_SS.PAR"
+    },
+    "24101578": {
+        "JdeNumber": "24101578",
+        "Revision": "0",
+        "Filename": "E_HEX_0.112-40.PAR"
+    },
+    "24100394": {
+        "JdeNumber": "24100394",
+        "Revision": "0",
+        "Filename": "E_HEX_0.164-32.PAR"
+    },
+    "24100394": {
+        "JdeNumber": "24100394",
+        "Revision": "01",
+        "Filename": "E_HEX_0.164-32_XML31.PAR"
+    },
+    "24100393": {
+        "JdeNumber": "24100393",
+        "Revision": "0",
+        "Filename": "E_HEX_0.190-24.PAR"
+    },
+    "118185": {
+        "JdeNumber": "118185",
+        "Revision": "0",
+        "Filename": "E_HEX_0.190-24_SS.par"
+    },
+    "24101580": {
+        "JdeNumber": "24101580",
+        "Revision": "0",
+        "Filename": "E_HEX_0.190-32.PAR"
+    },
+    "24102186": {
+        "JdeNumber": "24102186",
+        "Revision": "0",
+        "Filename": "E_HEX_0.190-32_SS.par"
+    },
+    "24100131": {
+        "JdeNumber": "24100131",
+        "Revision": "0",
+        "Filename": "E_HEX_0.250-20.PAR"
+    },
+    "24105249": {
+        "JdeNumber": "24105249",
+        "Revision": "0",
+        "Filename": "E_HEX_0.250-20_LH.PAR"
+    },
+    "24101940": {
+        "JdeNumber": "24101940",
+        "Revision": "0",
+        "Filename": "E_HEX_0.250-20_SS.par"
+    },
+    "24105248": {
+        "JdeNumber": "24105248",
+        "Revision": "0",
+        "Filename": "E_HEX_0.250-28_LH.PAR"
+    },
+    "24100132": {
+        "JdeNumber": "24100132",
+        "Revision": "0",
+        "Filename": "E_HEX_0.313-18.PAR"
+    },
+    "24102188": {
+        "JdeNumber": "24102188",
+        "Revision": "0",
+        "Filename": "E_HEX_0.313-18_SS.par"
+    },
+    "24101165": {
+        "JdeNumber": "24101165",
+        "Revision": "0",
+        "Filename": "E_HEX_0.313-24.PAR"
+    },
+    "24100133": {
+        "JdeNumber": "24100133",
+        "Revision": "0",
+        "Filename": "E_HEX_0.375-16.PAR"
+    },
+    "24100443": {
+        "JdeNumber": "24100443",
+        "Revision": "0",
+        "Filename": "E_HEX_0.375-16_GALV.PAR"
+    },
+    "24105250": {
+        "JdeNumber": "24105250",
+        "Revision": "0",
+        "Filename": "E_HEX_0.375-16_LH.PAR"
+    },
+    "24100385": {
+        "JdeNumber": "24100385",
+        "Revision": "0",
+        "Filename": "E_HEX_0.375-24.PAR"
+    },
+    "24105251": {
+        "JdeNumber": "24105251",
+        "Revision": "00",
+        "Filename": "E_HEX_0.375-24_LH.PAR"
+    },
+    "24100134": {
+        "JdeNumber": "24100134",
+        "Revision": "0",
+        "Filename": "E_HEX_0.438-14.PAR"
+    },
+    "24102603": {
+        "JdeNumber": "24102603",
+        "Revision": "0",
+        "Filename": "E_HEX_0.438-14_SS.par"
+    },
+    "24100386": {
+        "JdeNumber": "24100386",
+        "Revision": "0",
+        "Filename": "E_HEX_0.438-20.PAR"
+    },
+    "24105253": {
+        "JdeNumber": "24105253",
+        "Revision": "0",
+        "Filename": "E_HEX_0.500-12.PAR"
+    },
+    "24100135": {
+        "JdeNumber": "24100135",
+        "Revision": "0",
+        "Filename": "E_HEX_0.500-13.PAR"
+    },
+    "24100440": {
+        "JdeNumber": "24100440",
+        "Revision": "0",
+        "Filename": "E_HEX_0.500-13_GALV.PAR"
+    },
+    "24101181": {
+        "JdeNumber": "24101181",
+        "Revision": "0",
+        "Filename": "E_HEX_0.563-12.PAR"
+    },
+    "24101169": {
+        "JdeNumber": "24101169",
+        "Revision": "0",
+        "Filename": "E_HEX_0.563-18.PAR"
+    },
+    "24100136": {
+        "JdeNumber": "24100136",
+        "Revision": "0",
+        "Filename": "E_HEX_0.625-11.PAR"
+    },
+    "24102191": {
+        "JdeNumber": "24102191",
+        "Revision": "0",
+        "Filename": "E_HEX_0.625-11_SS.par"
+    },
+    "24100972": {
+        "JdeNumber": "24100972",
+        "Revision": "0",
+        "Filename": "E_HEX_0.625-18.PAR"
+    },
+    "24100137": {
+        "JdeNumber": "24100137",
+        "Revision": "0",
+        "Filename": "E_HEX_0.750-10.PAR"
+    },
+    "24105256": {
+        "JdeNumber": "24105256",
+        "Revision": "0",
+        "Filename": "E_HEX_0.750-10_LH.PAR"
+    },
+    "24100962": {
+        "JdeNumber": "24100962",
+        "Revision": "0",
+        "Filename": "E_HEX_0.750-16.PAR"
+    },
+    "24105257": {
+        "JdeNumber": "24105257",
+        "Revision": "0",
+        "Filename": "E_HEX_0.750-16_LH.PAR"
+    },
+    "24100961": {
+        "JdeNumber": "24100961",
+        "Revision": "1",
+        "Filename": "E_HEX_0.750-6.PAR"
+    },
+    "24100961": {
+        "JdeNumber": "24100961",
+        "Revision": "0",
+        "Filename": "E_HEX_0.750-6_XML35.PAR"
+    },
+    "51020016": {
+        "JdeNumber": "51020016",
+        "Revision": "00",
+        "Filename": "E_HEX_0.875-14.par"
+    },
+    "139573": {
+        "JdeNumber": "139573",
+        "Revision": "0",
+        "Filename": "E_HEX_0.875-9.PAR"
+    },
+    "24104220": {
+        "JdeNumber": "24104220",
+        "Revision": "0",
+        "Filename": "E_HEX_1.000-12.PAR"
+    },
+    "24102481": {
+        "JdeNumber": "24102481",
+        "Revision": "0",
+        "Filename": "E_HEX_1.000-14.PAR"
+    },
+    "24101641": {
+        "JdeNumber": "24101641",
+        "Revision": "0",
+        "Filename": "E_HEX_1.000-5.PAR"
+    },
+    "24101641": {
+        "JdeNumber": "24101641",
+        "Revision": "1",
+        "Filename": "E_HEX_1.000-5_XML20.PAR"
+    },
+    "24100145": {
+        "JdeNumber": "24100145",
+        "Revision": "0",
+        "Filename": "E_HEX_1.000-8.PAR"
+    },
+    "161515": {
+        "JdeNumber": "161515",
+        "Revision": "00",
+        "Filename": "E_HEX_1.000-8_LH.PAR"
+    },
+    "24103821": {
+        "JdeNumber": "24103821",
+        "Revision": "0",
+        "Filename": "E_HEX_1.000-8_SS.PAR"
+    },
+    "24106892": {
+        "JdeNumber": "24106892",
+        "Revision": "0",
+        "Filename": "E_HEX_1.125-12.PAR"
+    },
+    "24100676": {
+        "JdeNumber": "24100676",
+        "Revision": "0",
+        "Filename": "E_HEX_1.250-7.PAR"
+    },
+    "24106919": {
+        "JdeNumber": "24106919",
+        "Revision": "0",
+        "Filename": "E_HEX_1.500-12.PAR"
+    },
+    "24101324": {
+        "JdeNumber": "24101324",
+        "Revision": "0",
+        "Filename": "E_HEX_1.500-6.PAR"
+    },
+    "202127": {
+        "JdeNumber": "202127",
+        "Revision": "0",
+        "Filename": "E_HEX_1.750-5.PAR"
+    },
+    "126124": {
+        "JdeNumber": "126124",
+        "Revision": "0",
+        "Filename": "E_HEX_2.000-5.PAR"
+    },
+    "24106272": {
+        "JdeNumber": "24106272",
+        "Revision": "0",
+        "Filename": "E_HEX_2.500-4.PAR"
+    },
+    "24101475": {
+        "JdeNumber": "24101475",
+        "Revision": "0",
+        "Filename": "E_HEX_M03-0.50.par"
+    },
+    "24101211": {
+        "JdeNumber": "24101211",
+        "Revision": "0",
+        "Filename": "E_HEX_M04-0.70.par"
+    },
+    "24101212": {
+        "JdeNumber": "24101212",
+        "Revision": "0",
+        "Filename": "E_HEX_M05-0.80.par"
+    },
+    "24104838": {
+        "JdeNumber": "24104838",
+        "Revision": "0",
+        "Filename": "E_HEX_M05-0.80_SS.par"
+    },
+    "24101213": {
+        "JdeNumber": "24101213",
+        "Revision": "0",
+        "Filename": "E_HEX_M06-1.00.par"
+    },
+    "24100758": {
+        "JdeNumber": "24100758",
+        "Revision": "0",
+        "Filename": "E_HEX_M07-1.00.par"
+    },
+    "24104840": {
+        "JdeNumber": "24104840",
+        "Revision": "0",
+        "Filename": "E_HEX_M08-1.25_SS.par"
+    },
+    "24101238": {
+        "JdeNumber": "24101238",
+        "Revision": "0",
+        "Filename": "E_HEX_M10-1.00.par"
+    },
+    "24101239": {
+        "JdeNumber": "24101239",
+        "Revision": "0",
+        "Filename": "E_HEX_M10-1.25.par"
+    },
+    "24101215": {
+        "JdeNumber": "24101215",
+        "Revision": "0",
+        "Filename": "E_HEX_M10-1.50.par"
+    },
+    "24104842": {
+        "JdeNumber": "24104842",
+        "Revision": "0",
+        "Filename": "E_HEX_M10-1.50_SS.par"
+    },
+    "24101240": {
+        "JdeNumber": "24101240",
+        "Revision": "0",
+        "Filename": "E_HEX_M12-1.25.par"
+    },
+    "24101241": {
+        "JdeNumber": "24101241",
+        "Revision": "0",
+        "Filename": "E_HEX_M12-1.50.par"
+    },
+    "24109102": {
+        "JdeNumber": "24109102",
+        "Revision": "0",
+        "Filename": "E_HEX_M12-1.75.par"
+    },
+    "24103575": {
+        "JdeNumber": "24103575",
+        "Revision": "0",
+        "Filename": "E_HEX_M14-2.00.par"
+    },
+    "24104929": {
+        "JdeNumber": "24104929",
+        "Revision": "0",
+        "Filename": "E_HEX_M16-2.00_SS.par"
+    },
+    "24100970": {
+        "JdeNumber": "24100970",
+        "Revision": "0",
+        "Filename": "E_HEX_M18-1.50.par"
+    },
+    "24104332": {
+        "JdeNumber": "24104332",
+        "Revision": "0",
+        "Filename": "E_HEX_M18-2.50.par"
+    },
+    "24104978": {
+        "JdeNumber": "24104978",
+        "Revision": "0",
+        "Filename": "E_HEX_M18-2.50_SS.par"
+    },
+    "24104617": {
+        "JdeNumber": "24104617",
+        "Revision": "0",
+        "Filename": "E_HEX_M20-1.50.par"
+    },
+    "147299": {
+        "JdeNumber": "147299",
+        "Revision": "0",
+        "Filename": "E_HEX_M20-1.50_SS.PAR"
+    },
+    "24101967": {
+        "JdeNumber": "24101967",
+        "Revision": "0",
+        "Filename": "E_HEX_M20-2.50.par"
+    },
+    "24104885": {
+        "JdeNumber": "24104885",
+        "Revision": "0",
+        "Filename": "E_HEX_M20-2.50_SS.par"
+    },
+    "24104414": {
+        "JdeNumber": "24104414",
+        "Revision": "0",
+        "Filename": "E_HEX_M24-3.00.par"
+    },
+    "24104839": {
+        "JdeNumber": "24104839",
+        "Revision": "0",
+        "Filename": "E_HEX_M24-3.00_SS.par"
+    },
+    "24101484": {
+        "JdeNumber": "24101484",
+        "Revision": "0",
+        "Filename": "E_HEX_M30-3.50.par"
+    },
+    "24105894": {
+        "JdeNumber": "24105894",
+        "Revision": "00",
+        "Filename": "GC_0.313X1.000.PAR"
+    },
+    "PT0071087": {
+        "JdeNumber": "PT0071087",
+        "Revision": "00",
+        "Filename": "PT0071087.par"
+    },
+    "PT0079965": {
+        "JdeNumber": "PT0079965",
+        "Revision": "00",
+        "Filename": "PT0079965.par"
+    },
+    "24100170": {
+        "JdeNumber": "24100170",
+        "Revision": "0",
+        "Filename": "RP_0.138.PAR"
+    },
+    "24100049": {
+        "JdeNumber": "24100049",
+        "Revision": "0",
+        "Filename": "RP_0.250.PAR"
+    },
+    "24102513": {
+        "JdeNumber": "24102513",
+        "Revision": "0",
+        "Filename": "RP_0.250_SS.PAR"
+    },
+    "24100049": {
+        "JdeNumber": "24100049",
+        "Revision": "00",
+        "Filename": "RP_0.250_XML24.PAR"
+    },
+    "24100050": {
+        "JdeNumber": "24100050",
+        "Revision": "0",
+        "Filename": "RP_0.3125.PAR"
+    },
+    "24100051": {
+        "JdeNumber": "24100051",
+        "Revision": "0",
+        "Filename": "RP_0.375.PAR"
+    },
+    "24102128": {
+        "JdeNumber": "24102128",
+        "Revision": "0",
+        "Filename": "RP_0.375_SS.PAR"
+    },
+    "24100051": {
+        "JdeNumber": "24100051",
+        "Revision": "01",
+        "Filename": "RP_0.375_XML10.PAR"
+    },
+    "24100053": {
+        "JdeNumber": "24100053",
+        "Revision": "0",
+        "Filename": "RP_0.500.PAR"
+    },
+    "24100053": {
+        "JdeNumber": "24100053",
+        "Revision": "00",
+        "Filename": "RP_0.500_XML22.PAR"
+    },
+    "24100054": {
+        "JdeNumber": "24100054",
+        "Revision": "0",
+        "Filename": "RP_0.625.PAR"
+    },
+    "24101216": {
+        "JdeNumber": "24101216",
+        "Revision": "0",
+        "Filename": "RP_M04.PAR"
+    },
+    "24101217": {
+        "JdeNumber": "24101217",
+        "Revision": "0",
+        "Filename": "RP_M05.PAR"
+    },
+    "24104851": {
+        "JdeNumber": "24104851",
+        "Revision": "0",
+        "Filename": "RP_M05_SS.PAR"
+    },
+    "24104541": {
+        "JdeNumber": "24104541",
+        "Revision": "0",
+        "Filename": "RP_M06.PAR"
+    },
+    "24104854": {
+        "JdeNumber": "24104854",
+        "Revision": "0",
+        "Filename": "RP_M06_SS.PAR"
+    },
+    "182732": {
+        "JdeNumber": "182732",
+        "Revision": "0",
+        "Filename": "RP_M06_SS316.PAR"
+    },
+    "24102425": {
+        "JdeNumber": "24102425",
+        "Revision": "0",
+        "Filename": "RP_M08.PAR"
+    },
+    "24102425": {
+        "JdeNumber": "24102425",
+        "Revision": "00",
+        "Filename": "RP_M08_XML2.PAR"
+    },
+    "24104536": {
+        "JdeNumber": "24104536",
+        "Revision": "0",
+        "Filename": "RP_M10.PAR"
+    },
+    "24104856": {
+        "JdeNumber": "24104856",
+        "Revision": "0",
+        "Filename": "RP_M10_SS.PAR"
+    },
+    "24104537": {
+        "JdeNumber": "24104537",
+        "Revision": "0",
+        "Filename": "RP_M12.PAR"
+    },
+    "24104537": {
+        "JdeNumber": "24104537",
+        "Revision": "01",
+        "Filename": "RP_M12_XML76.PAR"
+    },
+    "24104538": {
+        "JdeNumber": "24104538",
+        "Revision": "0",
+        "Filename": "RP_M16.PAR"
+    },
+    "24104539": {
+        "JdeNumber": "24104539",
+        "Revision": "0",
+        "Filename": "RP_M20.PAR"
+    },
+    "182729": {
+        "JdeNumber": "182729",
+        "Revision": "0",
+        "Filename": "RP_M20_SS316.PAR"
+    },
+    "24101581": {
+        "JdeNumber": "24101581",
+        "Revision": "0",
+        "Filename": "RR_0.112.PAR"
+    },
+    "24101582": {
+        "JdeNumber": "24101582",
+        "Revision": "0",
+        "Filename": "RR_0.138.PAR"
+    },
+    "24100168": {
+        "JdeNumber": "24100168",
+        "Revision": "0",
+        "Filename": "RR_0.164.PAR"
+    },
+    "123337": {
+        "JdeNumber": "123337",
+        "Revision": "0",
+        "Filename": "RR_0.164_SS.PAR"
+    },
+    "24101583": {
+        "JdeNumber": "24101583",
+        "Revision": "0",
+        "Filename": "RR_0.190.PAR"
+    },
+    "24102110": {
+        "JdeNumber": "24102110",
+        "Revision": "0",
+        "Filename": "RR_0.190_SS.PAR"
+    },
+    "24100056": {
+        "JdeNumber": "24100056",
+        "Revision": "0",
+        "Filename": "RR_0.250.PAR"
+    },
+    "24102505": {
+        "JdeNumber": "24102505",
+        "Revision": "0",
+        "Filename": "RR_0.250_SS.PAR"
+    },
+    "185224": {
+        "JdeNumber": "185224",
+        "Revision": "00",
+        "Filename": "RR_0.250_SS316.PAR"
+    },
+    "24100057": {
+        "JdeNumber": "24100057",
+        "Revision": "0",
+        "Filename": "RR_0.313.PAR"
+    },
+    "24102227": {
+        "JdeNumber": "24102227",
+        "Revision": "0",
+        "Filename": "RR_0.313_SS.PAR"
+    },
+    "24100058": {
+        "JdeNumber": "24100058",
+        "Revision": "0",
+        "Filename": "RR_0.375.par"
+    },
+    "24100442": {
+        "JdeNumber": "24100442",
+        "Revision": "0",
+        "Filename": "RR_0.375_GALV.PAR"
+    },
+    "24102610": {
+        "JdeNumber": "24102610",
+        "Revision": "0",
+        "Filename": "RR_0.375_SS.PAR"
+    },
+    "test_28mars2013": {
+        "JdeNumber": "test_28mars2013",
+        "Revision": "0",
+        "Filename": "RR_0.375_test.PAR"
+    },
+    "24100060": {
+        "JdeNumber": "24100060",
+        "Revision": "0",
+        "Filename": "RR_0.500.PAR"
+    },
+    "139577": {
+        "JdeNumber": "139577",
+        "Revision": "0",
+        "Filename": "RR_0.500_GALV.PAR"
+    },
+    "24102647": {
+        "JdeNumber": "24102647",
+        "Revision": "0",
+        "Filename": "RR_0.500_SS.PAR"
+    },
+    "24101179": {
+        "JdeNumber": "24101179",
+        "Revision": "0",
+        "Filename": "RR_0.563.PAR"
+    },
+    "24100061": {
+        "JdeNumber": "24100061",
+        "Revision": "0",
+        "Filename": "RR_0.625.PAR"
+    },
+    "24100062": {
+        "JdeNumber": "24100062",
+        "Revision": "0",
+        "Filename": "RR_0.750.PAR"
+    },
+    "24100251": {
+        "JdeNumber": "24100251",
+        "Revision": "0",
+        "Filename": "RR_0.875.PAR"
+    },
+    "24101340": {
+        "JdeNumber": "24101340",
+        "Revision": "0",
+        "Filename": "RR_1.000.PAR"
+    },
+    "24101691": {
+        "JdeNumber": "24101691",
+        "Revision": "0",
+        "Filename": "RR_1.250.PAR"
+    },
+    "24101148": {
+        "JdeNumber": "24101148",
+        "Revision": "0",
+        "Filename": "RR_1.500.PAR"
+    },
+    "24104073": {
+        "JdeNumber": "24104073",
+        "Revision": "0",
+        "Filename": "RR_2.250.PAR"
+    },
+    "24104543": {
+        "JdeNumber": "24104543",
+        "Revision": "0",
+        "Filename": "RR_M03.PAR"
+    },
+    "24101221": {
+        "JdeNumber": "24101221",
+        "Revision": "0",
+        "Filename": "RR_M04.PAR"
+    },
+    "24104845": {
+        "JdeNumber": "24104845",
+        "Revision": "0",
+        "Filename": "RR_M04_SS.PAR"
+    },
+    "24101222": {
+        "JdeNumber": "24101222",
+        "Revision": "0",
+        "Filename": "RR_M05.PAR"
+    },
+    "24104844": {
+        "JdeNumber": "24104844",
+        "Revision": "0",
+        "Filename": "RR_M05_SS.PAR"
+    },
+    "24101223": {
+        "JdeNumber": "24101223",
+        "Revision": "0",
+        "Filename": "RR_M06.PAR"
+    },
+    "24104847": {
+        "JdeNumber": "24104847",
+        "Revision": "0",
+        "Filename": "RR_M06_SS.PAR"
+    },
+    "24101224": {
+        "JdeNumber": "24101224",
+        "Revision": "01",
+        "Filename": "RR_M08.PAR"
+    },
+    "24101224": {
+        "JdeNumber": "24101224",
+        "Revision": "0",
+        "Filename": "RR_M08_XML47.PAR"
+    },
+    "24104548": {
+        "JdeNumber": "24104548",
+        "Revision": "0",
+        "Filename": "RR_M10.PAR"
+    },
+    "24104849": {
+        "JdeNumber": "24104849",
+        "Revision": "0",
+        "Filename": "RR_M10_SS.PAR"
+    },
+    "24103107": {
+        "JdeNumber": "24103107",
+        "Revision": "0",
+        "Filename": "RR_M12.PAR"
+    },
+    "24104846": {
+        "JdeNumber": "24104846",
+        "Revision": "0",
+        "Filename": "RR_M12_SS.PAR"
+    },
+    "24104552": {
+        "JdeNumber": "24104552",
+        "Revision": "0",
+        "Filename": "RR_M14.PAR"
+    },
+    "107494": {
+        "JdeNumber": "107494",
+        "Revision": "0",
+        "Filename": "RR_M14_SS.PAR"
+    },
+    "24105896": {
+        "JdeNumber": "24105896",
+        "Revision": "0",
+        "Filename": "RR_M16_SS.PAR"
+    },
+    "107783": {
+        "JdeNumber": "107783",
+        "Revision": "0",
+        "Filename": "RR_M18.PAR"
+    },
+    "24104551": {
+        "JdeNumber": "24104551",
+        "Revision": "0",
+        "Filename": "RR_M20.PAR"
+    },
+    "24104848": {
+        "JdeNumber": "24104848",
+        "Revision": "0",
+        "Filename": "RR_M20_SS.PAR"
+    },
+    "24104704": {
+        "JdeNumber": "24104704",
+        "Revision": "0",
+        "Filename": "RR_M24.PAR"
+    },
+    "24503292": {
+        "JdeNumber": "24503292",
+        "Revision": "0",
+        "Filename": "RR_M30.PAR"
+    },
+    "149215": {
+        "JdeNumber": "149215",
+        "Revision": "00",
+        "Filename": "TUPG_2.000X2.000X.164-.209.PAR"
+    },
+    "139296": {
+        "JdeNumber": "139296",
+        "Revision": "00",
+        "Filename": "TUPG_3.000X3.000X.179-.239.PAR"
+    },
+    "24101625": {
+        "JdeNumber": "24101625",
+        "Revision": "0",
+        "Filename": "VP_0.138-32X0.250.PAR"
+    },
+    "24101626": {
+        "JdeNumber": "24101626",
+        "Revision": "0",
+        "Filename": "VP_0.164-32X0.250.PAR"
+    },
+    "24101627": {
+        "JdeNumber": "24101627",
+        "Revision": "0",
+        "Filename": "VP_0.190-24X0.250.PAR"
+    },
+    "24101633": {
+        "JdeNumber": "24101633",
+        "Revision": "0",
+        "Filename": "VP_0.190-24X0.375_SS.PAR"
+    },
+    "24101737": {
+        "JdeNumber": "24101737",
+        "Revision": "0",
+        "Filename": "VP_0.190-24X0.500.PAR"
+    },
+    "24101738": {
+        "JdeNumber": "24101738",
+        "Revision": "0",
+        "Filename": "VP_0.190-24X0.750.PAR"
+    },
+    "117586": {
+        "JdeNumber": "117586",
+        "Revision": "0",
+        "Filename": "VP_0.190-24X0.750_SS.PAR"
+    },
+    "125797": {
+        "JdeNumber": "125797",
+        "Revision": "0",
+        "Filename": "VP_0.190-24X1.000.PAR"
+    },
+    "24101311": {
+        "JdeNumber": "24101311",
+        "Revision": "0",
+        "Filename": "VP_0.190-24X1.250.PAR"
+    },
+    "24101799": {
+        "JdeNumber": "24101799",
+        "Revision": "0",
+        "Filename": "VP_0.190-32X0.250.PAR"
+    },
+    "24101312": {
+        "JdeNumber": "24101312",
+        "Revision": "0",
+        "Filename": "VP_0.190-32X1.500.PAR"
+    },
+    "24100599": {
+        "JdeNumber": "24100599",
+        "Revision": "0",
+        "Filename": "VP_0.250-20X0.250.PAR"
+    },
+    "24102145": {
+        "JdeNumber": "24102145",
+        "Revision": "0",
+        "Filename": "VP_0.250-20X0.250_SS.PAR"
+    },
+    "24100154": {
+        "JdeNumber": "24100154",
+        "Revision": "0",
+        "Filename": "VP_0.250-20X0.313.PAR"
+    },
+    "139656": {
+        "JdeNumber": "139656",
+        "Revision": "0",
+        "Filename": "VP_0.250-20X0.375.PAR"
+    },
+    "117614": {
+        "JdeNumber": "117614",
+        "Revision": "0",
+        "Filename": "VP_0.250-20X0.375_SS.PAR"
+    },
+    "24100355": {
+        "JdeNumber": "24100355",
+        "Revision": "0",
+        "Filename": "VP_0.250-20X0.500.PAR"
+    },
+    "117588": {
+        "JdeNumber": "117588",
+        "Revision": "0",
+        "Filename": "VP_0.250-20X0.750_SS.PAR"
+    },
+    "162156": {
+        "JdeNumber": "162156",
+        "Revision": "00",
+        "Filename": "VP_0.250-20X1.000_SS.PAR"
+    },
+    "162157": {
+        "JdeNumber": "162157",
+        "Revision": "00",
+        "Filename": "VP_0.250-20X1.750_SS.PAR"
+    },
+    "24107443": {
+        "JdeNumber": "24107443",
+        "Revision": "0",
+        "Filename": "VP_0.250-20X2.000.PAR"
+    },
+    "162158": {
+        "JdeNumber": "162158",
+        "Revision": "00",
+        "Filename": "VP_0.250-20X2.500_SS.PAR"
+    },
+    "24100142": {
+        "JdeNumber": "24100142",
+        "Revision": "0",
+        "Filename": "VP_0.313-18X0.313.PAR"
+    },
+    "24102146": {
+        "JdeNumber": "24102146",
+        "Revision": "0",
+        "Filename": "VP_0.313-18X0.500_SS.PAR"
+    },
+    "24100359": {
+        "JdeNumber": "24100359",
+        "Revision": "0",
+        "Filename": "VP_0.313-18X0.625.PAR"
+    },
+    "200093": {
+        "JdeNumber": "200093",
+        "Revision": "0",
+        "Filename": "VP_0.313-18X2.000.PAR"
+    },
+    "24100238": {
+        "JdeNumber": "24100238",
+        "Revision": "0",
+        "Filename": "VP_0.375-16X0.375.PAR"
+    },
+    "24100239": {
+        "JdeNumber": "24100239",
+        "Revision": "0",
+        "Filename": "VP_0.375-16X0.500.PAR"
+    },
+    "117667": {
+        "JdeNumber": "117667",
+        "Revision": "0",
+        "Filename": "VP_0.375-16X0.500_SS.PAR"
+    },
+    "24104420": {
+        "JdeNumber": "24104420",
+        "Revision": "0",
+        "Filename": "VP_0.375-16X0.750_SS.PAR"
+    },
+    "200026": {
+        "JdeNumber": "200026",
+        "Revision": "0",
+        "Filename": "VP_0.375-24X0.375.PAR"
+    },
+    "24101721": {
+        "JdeNumber": "24101721",
+        "Revision": "0",
+        "Filename": "VP_0.438-14X0.750.PAR"
+    },
+    "24100361": {
+        "JdeNumber": "24100361",
+        "Revision": "0",
+        "Filename": "VP_0.500-13X0.500.PAR"
+    },
+    "107191": {
+        "JdeNumber": "107191",
+        "Revision": "0",
+        "Filename": "VP_0.500-13X0.500_SS.PAR"
+    },
+    "24100362": {
+        "JdeNumber": "24100362",
+        "Revision": "0",
+        "Filename": "VP_0.500-13X0.625.PAR"
+    },
+    "24100363": {
+        "JdeNumber": "24100363",
+        "Revision": "0",
+        "Filename": "VP_0.500-13X0.750.PAR"
+    },
+    "201107": {
+        "JdeNumber": "201107",
+        "Revision": "0",
+        "Filename": "VP_0.500-13X1.000.PAR"
+    },
+    "24107353": {
+        "JdeNumber": "24107353",
+        "Revision": "0",
+        "Filename": "VP_0.500-13X2.000.PAR"
+    },
+    "107574": {
+        "JdeNumber": "107574",
+        "Revision": "0",
+        "Filename": "VP_0.625-11X0.500_SS.PAR"
+    },
+    "116405": {
+        "JdeNumber": "116405",
+        "Revision": "0",
+        "Filename": "VP_0.625-11X0.750.PAR"
+    },
+    "24105272": {
+        "JdeNumber": "24105272",
+        "Revision": "0",
+        "Filename": "VP_0.625-11X2.500.PAR"
+    },
+    "24106841": {
+        "JdeNumber": "24106841",
+        "Revision": "0",
+        "Filename": "VP_0.625-11X3.000.PAR"
+    },
+    "24103602": {
+        "JdeNumber": "24103602",
+        "Revision": "0",
+        "Filename": "VP_0.750-10X0.750.PAR"
+    },
+    "24103421": {
+        "JdeNumber": "24103421",
+        "Revision": "0",
+        "Filename": "VP_0.750-10X0.875.PAR"
+    },
+    "24103863": {
+        "JdeNumber": "24103863",
+        "Revision": "0",
+        "Filename": "VP_1.000-8X1.000.PAR"
+    },
+    "24107435": {
+        "JdeNumber": "24107435",
+        "Revision": "0",
+        "Filename": "VP_1.000-8X1.250.PAR"
+    },
+    "24104263": {
+        "JdeNumber": "24104263",
+        "Revision": "0",
+        "Filename": "VP_1.000-8X1.500.PAR"
+    },
+    "24101913": {
+        "JdeNumber": "24101913",
+        "Revision": "0",
+        "Filename": "VP_M04-0.70X012.PAR"
+    },
+    "24100097": {
+        "JdeNumber": "24100097",
+        "Revision": "0",
+        "Filename": "VP_M04-0.70X030_BLACK.PAR"
+    },
+    "24104556": {
+        "JdeNumber": "24104556",
+        "Revision": "0",
+        "Filename": "VP_M05-0.80X006.PAR"
+    },
+    "24104372": {
+        "JdeNumber": "24104372",
+        "Revision": "0",
+        "Filename": "VP_M05-0.80X006_SS.PAR"
+    },
+    "24105901": {
+        "JdeNumber": "24105901",
+        "Revision": "0",
+        "Filename": "VP_M05-0.80X008.PAR"
+    },
+    "24104711": {
+        "JdeNumber": "24104711",
+        "Revision": "0",
+        "Filename": "VP_M05-0.80X010.PAR"
+    },
+    "24104626": {
+        "JdeNumber": "24104626",
+        "Revision": "0",
+        "Filename": "VP_M05-0.80X020.PAR"
+    },
+    "121053": {
+        "JdeNumber": "121053",
+        "Revision": "0",
+        "Filename": "VP_M06-0.75X006.PAR"
+    },
+    "24104557": {
+        "JdeNumber": "24104557",
+        "Revision": "0",
+        "Filename": "VP_M06-1.00X006.PAR"
+    },
+    "24104863": {
+        "JdeNumber": "24104863",
+        "Revision": "0",
+        "Filename": "VP_M06-1.00X008_SS.PAR"
+    },
+    "24104724": {
+        "JdeNumber": "24104724",
+        "Revision": "0",
+        "Filename": "VP_M06-1.00X010.PAR"
+    },
+    "24104494": {
+        "JdeNumber": "24104494",
+        "Revision": "0",
+        "Filename": "VP_M06-1.00X010_BLACK.PAR"
+    },
+    "24104725": {
+        "JdeNumber": "24104725",
+        "Revision": "0",
+        "Filename": "VP_M06-1.00X016.PAR"
+    },
+    "24104861": {
+        "JdeNumber": "24104861",
+        "Revision": "0",
+        "Filename": "VP_M06-1.00X016_SS.PAR"
+    },
+    "24104559": {
+        "JdeNumber": "24104559",
+        "Revision": "0",
+        "Filename": "VP_M06-1.00X025.PAR"
+    },
+    "24104860": {
+        "JdeNumber": "24104860",
+        "Revision": "0",
+        "Filename": "VP_M06-1.00X025_SS.PAR"
+    },
+    "24104459": {
+        "JdeNumber": "24104459",
+        "Revision": "0",
+        "Filename": "VP_M08-1.25X008.PAR"
+    },
+    "24104726": {
+        "JdeNumber": "24104726",
+        "Revision": "0",
+        "Filename": "VP_M08-1.25X010.PAR"
+    },
+    "24104886": {
+        "JdeNumber": "24104886",
+        "Revision": "0",
+        "Filename": "VP_M08-1.25X010_SS.PAR"
+    },
+    "24101514": {
+        "JdeNumber": "24101514",
+        "Revision": "0",
+        "Filename": "VP_M08-1.25X012.PAR"
+    },
+    "24104727": {
+        "JdeNumber": "24104727",
+        "Revision": "0",
+        "Filename": "VP_M08-1.25X016.PAR"
+    },
+    "24104864": {
+        "JdeNumber": "24104864",
+        "Revision": "0",
+        "Filename": "VP_M08-1.25X016_SS.PAR"
+    },
+    "201054": {
+        "JdeNumber": "201054",
+        "Revision": "0",
+        "Filename": "VP_M08-1.25X035.PAR"
+    },
+    "201055": {
+        "JdeNumber": "201055",
+        "Revision": "0",
+        "Filename": "VP_M08-1.25X040.PAR"
+    },
+    "24104460": {
+        "JdeNumber": "24104460",
+        "Revision": "0",
+        "Filename": "VP_M10-1.50X010.PAR"
+    },
+    "24104932": {
+        "JdeNumber": "24104932",
+        "Revision": "0",
+        "Filename": "VP_M10-1.50X010_SS.PAR"
+    },
+    "107732": {
+        "JdeNumber": "107732",
+        "Revision": "0",
+        "Filename": "VP_M10-1.50X012.PAR"
+    },
+    "113542": {
+        "JdeNumber": "113542",
+        "Revision": "0",
+        "Filename": "VP_M10-1.50X016.PAR"
+    },
+    "24104981": {
+        "JdeNumber": "24104981",
+        "Revision": "0",
+        "Filename": "VP_M10-1.50X020_SS.PAR"
+    },
+    "24107414": {
+        "JdeNumber": "24107414",
+        "Revision": "0",
+        "Filename": "VP_M10-1.50X025.PAR"
+    },
+    "24104950": {
+        "JdeNumber": "24104950",
+        "Revision": "0",
+        "Filename": "VP_M12-1.75X012.PAR"
+    },
+    "113877": {
+        "JdeNumber": "113877",
+        "Revision": "0",
+        "Filename": "VP_M12-1.75X025.PAR"
+    },
+    "123399": {
+        "JdeNumber": "123399",
+        "Revision": "0",
+        "Filename": "VP_M12-1.75X050.PAR"
+    },
+    "201052": {
+        "JdeNumber": "201052",
+        "Revision": "0",
+        "Filename": "VP_M14-2.00X030.PAR"
+    },
+    "201053": {
+        "JdeNumber": "201053",
+        "Revision": "0",
+        "Filename": "VP_M14-2.00X035.PAR"
+    },
+    "113968": {
+        "JdeNumber": "113968",
+        "Revision": "0",
+        "Filename": "VP_M16-2.00X016.PAR"
+    },
+    "300286": {
+        "JdeNumber": "300286",
+        "Revision": "0",
+        "Filename": "VP_M16-2.00X025.PAR"
+    },
+    "24105900": {
+        "JdeNumber": "24105900",
+        "Revision": "0",
+        "Filename": "VP_M20-2.50X030.PAR"
+    },
+    "24105899": {
+        "JdeNumber": "24105899",
+        "Revision": "0",
+        "Filename": "VP_M22-2.50X050.PAR"
+    },
+    "24101950": {
+        "JdeNumber": "24101950",
+        "Revision": "0",
+        "Filename": "VTCYE_0.250-20X0.313X1.250.PAR"
+    },
+    "300290": {
+        "JdeNumber": "300290",
+        "Revision": "0",
+        "Filename": "VTCYE_0.250-20X0.313X2.000.PAR"
+    },
+    "24103079": {
+        "JdeNumber": "24103079",
+        "Revision": "0",
+        "Filename": "VTCYE_0.313-18X0.375X0.500.PAR"
+    },
+    "24105841": {
+        "JdeNumber": "24105841",
+        "Revision": "0",
+        "Filename": "VTCYE_0.313-18X0.375X1.000.PAR"
+    },
+    "24105877": {
+        "JdeNumber": "24105877",
+        "Revision": "0",
+        "Filename": "VTCYE_0.313-18X0.375X1.500.PAR"
+    },
+    "107748": {
+        "JdeNumber": "107748",
+        "Revision": "0",
+        "Filename": "VTCYE_0.313-18X0.375X1.500_SS.PAR"
+    },
+    "24102995": {
+        "JdeNumber": "24102995",
+        "Revision": "0",
+        "Filename": "VTCYE_0.313-18X0.375X2.250.PAR"
+    },
+    "118718": {
+        "JdeNumber": "118718",
+        "Revision": "0",
+        "Filename": "VTCYE_0.313-18X0.375X2.500.PAR"
+    },
+    "142957": {
+        "JdeNumber": "142957",
+        "Revision": "00",
+        "Filename": "VTCYE_0.375-16X0.500X0.500_SS.par"
+    },
+    "153181": {
+        "JdeNumber": "153181",
+        "Revision": "00",
+        "Filename": "VTCYE_0.375-16X0.500X0.750_SS.PAR"
+    },
+    "142957": {
+        "JdeNumber": "142957",
+        "Revision": "0",
+        "Filename": "VTCYE_0.375-16X0.500X1.000_SS.PAR"
+    },
+    "139675": {
+        "JdeNumber": "139675",
+        "Revision": "0",
+        "Filename": "VTCYE_0.375-16X0.500X1.250.PAR"
+    },
+    "107390": {
+        "JdeNumber": "107390",
+        "Revision": "0",
+        "Filename": "VTCYE_0.375-16X0.500X1.250_SS.PAR"
+    },
+    "24104361": {
+        "JdeNumber": "24104361",
+        "Revision": "0",
+        "Filename": "VTCYE_0.500-13X0.625X1.000.PAR"
+    },
+    "135673": {
+        "JdeNumber": "135673",
+        "Revision": "00",
+        "Filename": "VTCYE_0.500-13X0.625X1.000_SS.PAR"
+    },
+    "24104955": {
+        "JdeNumber": "24104955",
+        "Revision": "0",
+        "Filename": "VTCYE_0.500-13X0.625X1.750.PAR"
+    },
+    "107760": {
+        "JdeNumber": "107760",
+        "Revision": "0",
+        "Filename": "VTCYE_0.500-13X0.750X0.625.PAR"
+    },
+    "107760": {
+        "JdeNumber": "107760",
+        "Revision": "1",
+        "Filename": "VTCYE_0.500-13X0.750X0.625_XML86.PAR"
+    },
+    "55030052": {
+        "JdeNumber": "55030052",
+        "Revision": "00",
+        "Filename": "VTCYE_0.625-11X0.750X2.250.PAR"
+    },
+    "24104609": {
+        "JdeNumber": "24104609",
+        "Revision": "0",
+        "Filename": "VTCYE_M05-0.8X006X006.PAR"
+    },
+    "135371": {
+        "JdeNumber": "135371",
+        "Revision": "0",
+        "Filename": "VTCYE_M08-1.25X010X025.PAR"
+    },
+    "108081": {
+        "JdeNumber": "108081",
+        "Revision": "0",
+        "Filename": "VTCYE_M08-1.25X010X040.PAR"
+    },
+    "108082": {
+        "JdeNumber": "108082",
+        "Revision": "0",
+        "Filename": "VTCYE_M08-1.25X012X040_SS.PAR"
+    },
+    "113690": {
+        "JdeNumber": "113690",
+        "Revision": "0",
+        "Filename": "VTCYE_M10-1.50X012X020.PAR"
+    },
+    "142603": {
+        "JdeNumber": "142603",
+        "Revision": "0",
+        "Filename": "VTCYE_M10-1.50X012X025_SS.PAR"
+    },
+    "108079": {
+        "JdeNumber": "108079",
+        "Revision": "0",
+        "Filename": "VTCYE_M10-1.50X012X030.PAR"
+    },
+    "108080": {
+        "JdeNumber": "108080",
+        "Revision": "0",
+        "Filename": "VTCYE_M10-1.50X012X030_SS.PAR"
+    },
+    "156599": {
+        "JdeNumber": "156599",
+        "Revision": "00",
+        "Filename": "VTCYE_M10-1.50X012X050.PAR"
+    },
+    "108083": {
+        "JdeNumber": "108083",
+        "Revision": "0",
+        "Filename": "VTCYE_M12-1.75X016X030.PAR"
+    },
+    "108084": {
+        "JdeNumber": "108084",
+        "Revision": "0",
+        "Filename": "VTCYE_M12-1.75X016X030_SS.PAR"
+    },
+    "24101584": {
+        "JdeNumber": "24101584",
+        "Revision": "0",
+        "Filename": "VTCY_0.112-40X0.500.par"
+    },
+    "24102956": {
+        "JdeNumber": "24102956",
+        "Revision": "0",
+        "Filename": "VTCY_0.112-40X1.000.par"
+    },
+    "161638": {
+        "JdeNumber": "161638",
+        "Revision": "00",
+        "Filename": "VTCY_0.112-40X1.750.PAR"
+    },
+    "161472": {
+        "JdeNumber": "161472",
+        "Revision": "00",
+        "Filename": "VTCY_0.112-40X2.250.PAR"
+    },
+    "201099": {
+        "JdeNumber": "201099",
+        "Revision": "0",
+        "Filename": "VTCY_0.125-40X1.000.par"
+    },
+    "24102416": {
+        "JdeNumber": "24102416",
+        "Revision": "0",
+        "Filename": "VTCY_0.138-32X0.250.par"
+    },
+    "24101585": {
+        "JdeNumber": "24101585",
+        "Revision": "0",
+        "Filename": "VTCY_0.138-32X0.500.par"
+    },
+    "185671": {
+        "JdeNumber": "185671",
+        "Revision": "00",
+        "Filename": "VTCY_0.138-32X0.625_SS.PAR"
+    },
+    "24101586": {
+        "JdeNumber": "24101586",
+        "Revision": "0",
+        "Filename": "VTCY_0.138-32X0.750.par"
+    },
+    "117661": {
+        "JdeNumber": "117661",
+        "Revision": "0",
+        "Filename": "VTCY_0.138-32X0.750_SS.par"
+    },
+    "24101587": {
+        "JdeNumber": "24101587",
+        "Revision": "0",
+        "Filename": "VTCY_0.138-32X1.000.par"
+    },
+    "119804": {
+        "JdeNumber": "119804",
+        "Revision": "0",
+        "Filename": "VTCY_0.138-32X1.250.par"
+    },
+    "24102614": {
+        "JdeNumber": "24102614",
+        "Revision": "0",
+        "Filename": "VTCY_0.138-32X1.750.par"
+    },
+    "24102586": {
+        "JdeNumber": "24102586",
+        "Revision": "0",
+        "Filename": "VTCY_0.138-32X2.000.par"
+    },
+    "24102865": {
+        "JdeNumber": "24102865",
+        "Revision": "0",
+        "Filename": "VTCY_0.164-32X0.250.par"
+    },
+    "185676": {
+        "JdeNumber": "185676",
+        "Revision": "00",
+        "Filename": "VTCY_0.164-32X0.375_SS.PAR"
+    },
+    "185676": {
+        "JdeNumber": "185676",
+        "Revision": "01",
+        "Filename": "VTCY_0.164-32X0.375_SS_XML84.PAR"
+    },
+    "24101588": {
+        "JdeNumber": "24101588",
+        "Revision": "0",
+        "Filename": "VTCY_0.164-32X0.500.par"
+    },
+    "117662": {
+        "JdeNumber": "117662",
+        "Revision": "0",
+        "Filename": "VTCY_0.164-32X0.500_SS.par"
+    },
+    "146380": {
+        "JdeNumber": "146380",
+        "Revision": "00",
+        "Filename": "VTCY_0.164-32X0.750_SS.PAR"
+    },
+    "24101590": {
+        "JdeNumber": "24101590",
+        "Revision": "0",
+        "Filename": "VTCY_0.164-32X1.000.par"
+    },
+    "24102209": {
+        "JdeNumber": "24102209",
+        "Revision": "0",
+        "Filename": "VTCY_0.164-32X1.000_SS.par"
+    },
+    "24104134": {
+        "JdeNumber": "24104134",
+        "Revision": "0",
+        "Filename": "VTCY_0.164-32X1.250.par"
+    },
+    "185677": {
+        "JdeNumber": "185677",
+        "Revision": "00",
+        "Filename": "VTCY_0.164-32X1.250_SS.PAR"
+    },
+    "119795": {
+        "JdeNumber": "119795",
+        "Revision": "0",
+        "Filename": "VTCY_0.164-32X1.500_SS.par"
+    },
+    "24102744": {
+        "JdeNumber": "24102744",
+        "Revision": "0",
+        "Filename": "VTCY_0.164-32X2.000.par"
+    },
+    "181613": {
+        "JdeNumber": "181613",
+        "Revision": "00",
+        "Filename": "VTCY_0.164-32X2.000_SS.PAR"
+    },
+    "154639": {
+        "JdeNumber": "154639",
+        "Revision": "0",
+        "Filename": "VTCY_0.164-32X2.250.PAR"
+    },
+    "146462": {
+        "JdeNumber": "146462",
+        "Revision": "0",
+        "Filename": "VTCY_0.164-32X2.500.PAR"
+    },
+    "24101947": {
+        "JdeNumber": "24101947",
+        "Revision": "0",
+        "Filename": "VTCY_0.190-24X0.375.par"
+    },
+    "24101592": {
+        "JdeNumber": "24101592",
+        "Revision": "0",
+        "Filename": "VTCY_0.190-24X0.500.par"
+    },
+    "24102151": {
+        "JdeNumber": "24102151",
+        "Revision": "0",
+        "Filename": "VTCY_0.190-24X0.500_SS.par"
+    },
+    "24100173": {
+        "JdeNumber": "24100173",
+        "Revision": "0",
+        "Filename": "VTCY_0.190-24X0.625.par"
+    },
+    "24101593": {
+        "JdeNumber": "24101593",
+        "Revision": "0",
+        "Filename": "VTCY_0.190-24X0.750.par"
+    },
+    "24102158": {
+        "JdeNumber": "24102158",
+        "Revision": "0",
+        "Filename": "VTCY_0.190-24X0.750_SS.par"
+    },
+    "24101594": {
+        "JdeNumber": "24101594",
+        "Revision": "0",
+        "Filename": "VTCY_0.190-24X1.000.par"
+    },
+    "117590": {
+        "JdeNumber": "117590",
+        "Revision": "0",
+        "Filename": "VTCY_0.190-24X1.250_SS.par"
+    },
+    "24101595": {
+        "JdeNumber": "24101595",
+        "Revision": "0",
+        "Filename": "VTCY_0.190-24X1.500.par"
+    },
+    "24101521": {
+        "JdeNumber": "24101521",
+        "Revision": "0",
+        "Filename": "VTCY_0.190-24X1.750.par"
+    },
+    "24102153": {
+        "JdeNumber": "24102153",
+        "Revision": "0",
+        "Filename": "VTCY_0.190-24X2.000.par"
+    },
+    "24102162": {
+        "JdeNumber": "24102162",
+        "Revision": "0",
+        "Filename": "VTCY_0.190-24X2.000_SS.par"
+    },
+    "24102870": {
+        "JdeNumber": "24102870",
+        "Revision": "0",
+        "Filename": "VTCY_0.190-24X2.250.par"
+    },
+    "118184": {
+        "JdeNumber": "118184",
+        "Revision": "0",
+        "Filename": "VTCY_0.190-24X2.250_SS.par"
+    },
+    "184783": {
+        "JdeNumber": "184783",
+        "Revision": "00",
+        "Filename": "VTCY_0.190-24X2.500.PAR"
+    },
+    "24102039": {
+        "JdeNumber": "24102039",
+        "Revision": "0",
+        "Filename": "VTCY_0.190-24X3.000.par"
+    },
+    "148022": {
+        "JdeNumber": "148022",
+        "Revision": "00",
+        "Filename": "VTCY_0.190-24X3.000_SS.PAR"
+    },
+    "24102059": {
+        "JdeNumber": "24102059",
+        "Revision": "0",
+        "Filename": "VTCY_0.190-24X3.500.par"
+    },
+    "117671": {
+        "JdeNumber": "117671",
+        "Revision": "0",
+        "Filename": "VTCY_0.190-24X3.500_SS.par"
+    },
+    "24104072": {
+        "JdeNumber": "24104072",
+        "Revision": "0",
+        "Filename": "VTCY_0.190-32X0.500.par"
+    },
+    "24102805": {
+        "JdeNumber": "24102805",
+        "Revision": "0",
+        "Filename": "VTCY_0.190-32X0.750.par"
+    },
+    "24102192": {
+        "JdeNumber": "24102192",
+        "Revision": "0",
+        "Filename": "VTCY_0.190-32X0.750_SS.par"
+    },
+    "107698": {
+        "JdeNumber": "107698",
+        "Revision": "0",
+        "Filename": "VTCY_0.190-32X1.000.par"
+    },
+    "117972": {
+        "JdeNumber": "117972",
+        "Revision": "0",
+        "Filename": "VTCY_0.190-32X1.500.par"
+    },
+    "24101707": {
+        "JdeNumber": "24101707",
+        "Revision": "0",
+        "Filename": "VTCY_0.190-32X2.000.par"
+    },
+    "24105154": {
+        "JdeNumber": "24105154",
+        "Revision": "0",
+        "Filename": "VTCY_0.190-32X3.500.par"
+    },
+    "24101596": {
+        "JdeNumber": "24101596",
+        "Revision": "0",
+        "Filename": "VTCY_0.250-20X0.500.par"
+    },
+    "24101621": {
+        "JdeNumber": "24101621",
+        "Revision": "0",
+        "Filename": "VTCY_0.250-20X0.500_SS.par"
+    },
+    "24101597": {
+        "JdeNumber": "24101597",
+        "Revision": "0",
+        "Filename": "VTCY_0.250-20X0.750.par"
+    },
+    "24101622": {
+        "JdeNumber": "24101622",
+        "Revision": "0",
+        "Filename": "VTCY_0.250-20X0.750_SS.par"
+    },
+    "24101598": {
+        "JdeNumber": "24101598",
+        "Revision": "0",
+        "Filename": "VTCY_0.250-20X1.000.par"
+    },
+    "24102140": {
+        "JdeNumber": "24102140",
+        "Revision": "0",
+        "Filename": "VTCY_0.250-20X1.000_SS.par"
+    },
+    "147289": {
+        "JdeNumber": "147289",
+        "Revision": "00",
+        "Filename": "VTCY_0.250-20X1.000_SS316.PAR"
+    },
+    "24100554": {
+        "JdeNumber": "24100554",
+        "Revision": "0",
+        "Filename": "VTCY_0.250-20X1.250.par"
+    },
+    "24105887": {
+        "JdeNumber": "24105887",
+        "Revision": "0",
+        "Filename": "VTCY_0.250-20X1.250_SS.par"
+    },
+    "24102443": {
+        "JdeNumber": "24102443",
+        "Revision": "0",
+        "Filename": "VTCY_0.250-20X1.750.par"
+    },
+    "185680": {
+        "JdeNumber": "185680",
+        "Revision": "00",
+        "Filename": "VTCY_0.250-20X1.750_SS.PAR"
+    },
+    "24101599": {
+        "JdeNumber": "24101599",
+        "Revision": "0",
+        "Filename": "VTCY_0.250-20X2.000.par"
+    },
+    "24103152": {
+        "JdeNumber": "24103152",
+        "Revision": "0",
+        "Filename": "VTCY_0.250-20X2.250.par"
+    },
+    "117660": {
+        "JdeNumber": "117660",
+        "Revision": "0",
+        "Filename": "VTCY_0.250-20X2.500_SS.par"
+    },
+    "24101871": {
+        "JdeNumber": "24101871",
+        "Revision": "0",
+        "Filename": "VTCY_0.250-20X2.750.par"
+    },
+    "117624": {
+        "JdeNumber": "117624",
+        "Revision": "0",
+        "Filename": "VTCY_0.250-20X2.750_SS.par"
+    },
+    "24101335": {
+        "JdeNumber": "24101335",
+        "Revision": "0",
+        "Filename": "VTCY_0.250-20X3.000.par"
+    },
+    "24100392": {
+        "JdeNumber": "24100392",
+        "Revision": "0",
+        "Filename": "VTCY_0.250-20X3.500.par"
+    },
+    "117986": {
+        "JdeNumber": "117986",
+        "Revision": "0",
+        "Filename": "VTCY_0.250-20X3.500_SS.par"
+    },
+    "143246": {
+        "JdeNumber": "143246",
+        "Revision": "0",
+        "Filename": "VTCY_0.250-20X3.750_FULL.PAR"
+    },
+    "24101736": {
+        "JdeNumber": "24101736",
+        "Revision": "0",
+        "Filename": "VTCY_0.250-20X4.000.par"
+    },
+    "118620": {
+        "JdeNumber": "118620",
+        "Revision": "0",
+        "Filename": "VTCY_0.250-20X4.000_SS.par"
+    },
+    "24101091": {
+        "JdeNumber": "24101091",
+        "Revision": "0",
+        "Filename": "VTCY_0.250-28X1.000.par"
+    },
+    "186281": {
+        "JdeNumber": "186281",
+        "Revision": "00",
+        "Filename": "VTCY_0.250-28X1.000_SS.PAR"
+    },
+    "24101601": {
+        "JdeNumber": "24101601",
+        "Revision": "0",
+        "Filename": "VTCY_0.313-18X0.750.par"
+    },
+    "24102207": {
+        "JdeNumber": "24102207",
+        "Revision": "0",
+        "Filename": "VTCY_0.313-18X0.750_SS.par"
+    },
+    "24101602": {
+        "JdeNumber": "24101602",
+        "Revision": "0",
+        "Filename": "VTCY_0.313-18X1.000.par"
+    },
+    "24102200": {
+        "JdeNumber": "24102200",
+        "Revision": "0",
+        "Filename": "VTCY_0.313-18X1.000_SS.par"
+    },
+    "24100566": {
+        "JdeNumber": "24100566",
+        "Revision": "0",
+        "Filename": "VTCY_0.313-18X1.250.par"
+    },
+    "24101603": {
+        "JdeNumber": "24101603",
+        "Revision": "0",
+        "Filename": "VTCY_0.313-18X1.500.par"
+    },
+    "24101096": {
+        "JdeNumber": "24101096",
+        "Revision": "0",
+        "Filename": "VTCY_0.313-18X1.750.par"
+    },
+    "24101604": {
+        "JdeNumber": "24101604",
+        "Revision": "0",
+        "Filename": "VTCY_0.313-18X2.000.par"
+    },
+    "24102202": {
+        "JdeNumber": "24102202",
+        "Revision": "0",
+        "Filename": "VTCY_0.313-18X2.000_SS.par"
+    },
+    "24101095": {
+        "JdeNumber": "24101095",
+        "Revision": "0",
+        "Filename": "VTCY_0.313-18X2.750.par"
+    },
+    "123398": {
+        "JdeNumber": "123398",
+        "Revision": "0",
+        "Filename": "VTCY_0.313-18X3.000.par"
+    },
+    "24102205": {
+        "JdeNumber": "24102205",
+        "Revision": "0",
+        "Filename": "VTCY_0.313-18X3.500_SS.par"
+    },
+    "24100805": {
+        "JdeNumber": "24100805",
+        "Revision": "0",
+        "Filename": "VTCY_0.313-18X4.000.par"
+    },
+    "24102208": {
+        "JdeNumber": "24102208",
+        "Revision": "0",
+        "Filename": "VTCY_0.313-18X4.000_SS.par"
+    },
+    "24101178": {
+        "JdeNumber": "24101178",
+        "Revision": "0",
+        "Filename": "VTCY_0.313-18X4.500.par"
+    },
+    "24102432": {
+        "JdeNumber": "24102432",
+        "Revision": "0",
+        "Filename": "VTCY_0.313-18X4.500_SS.par"
+    },
+    "24100958": {
+        "JdeNumber": "24100958",
+        "Revision": "0",
+        "Filename": "VTCY_0.313-18X5.000.par"
+    },
+    "108006": {
+        "JdeNumber": "108006",
+        "Revision": "0",
+        "Filename": "VTCY_0.375-16X0.500_SS.par"
+    },
+    "24101606": {
+        "JdeNumber": "24101606",
+        "Revision": "0",
+        "Filename": "VTCY_0.375-16X0.750.par"
+    },
+    "24101607": {
+        "JdeNumber": "24101607",
+        "Revision": "0",
+        "Filename": "VTCY_0.375-16X1.000.par"
+    },
+    "24102164": {
+        "JdeNumber": "24102164",
+        "Revision": "0",
+        "Filename": "VTCY_0.375-16X1.000_SS.par"
+    },
+    "24101538": {
+        "JdeNumber": "24101538",
+        "Revision": "0",
+        "Filename": "VTCY_0.375-16X1.250.par"
+    },
+    "24104490": {
+        "JdeNumber": "24104490",
+        "Revision": "0",
+        "Filename": "VTCY_0.375-16X1.250_SS.par"
+    },
+    "24100555": {
+        "JdeNumber": "24100555",
+        "Revision": "0",
+        "Filename": "VTCY_0.375-16X1.500.par"
+    },
+    "117626": {
+        "JdeNumber": "117626",
+        "Revision": "0",
+        "Filename": "VTCY_0.375-16X1.500_SS.par"
+    },
+    "117539": {
+        "JdeNumber": "117539",
+        "Revision": "0",
+        "Filename": "VTCY_0.375-16X1.750.par"
+    },
+    "24102752": {
+        "JdeNumber": "24102752",
+        "Revision": "0",
+        "Filename": "VTCY_0.375-16X2.000.par"
+    },
+    "119168": {
+        "JdeNumber": "119168",
+        "Revision": "0",
+        "Filename": "VTCY_0.375-16X2.000_SS.par"
+    },
+    "107697": {
+        "JdeNumber": "107697",
+        "Revision": "0",
+        "Filename": "VTCY_0.375-16X2.250.par"
+    },
+    "24102388": {
+        "JdeNumber": "24102388",
+        "Revision": "0",
+        "Filename": "VTCY_0.375-16X2.500.par"
+    },
+    "24102165": {
+        "JdeNumber": "24102165",
+        "Revision": "0",
+        "Filename": "VTCY_0.375-16X2.500_SS.par"
+    },
+    "24102303": {
+        "JdeNumber": "24102303",
+        "Revision": "0",
+        "Filename": "VTCY_0.375-16X3.250.par"
+    },
+    "24102307": {
+        "JdeNumber": "24102307",
+        "Revision": "0",
+        "Filename": "VTCY_0.375-16X3.500.par"
+    },
+    "24102206": {
+        "JdeNumber": "24102206",
+        "Revision": "0",
+        "Filename": "VTCY_0.375-16X3.750.par"
+    },
+    "24106838": {
+        "JdeNumber": "24106838",
+        "Revision": "0",
+        "Filename": "VTCY_0.438-14X0.750.par"
+    },
+    "24101415": {
+        "JdeNumber": "24101415",
+        "Revision": "0",
+        "Filename": "VTCY_0.438-14X1.500.par"
+    },
+    "24106149": {
+        "JdeNumber": "24106149",
+        "Revision": "0",
+        "Filename": "VTCY_0.438-20X2.000.par"
+    },
+    "24100747": {
+        "JdeNumber": "24100747",
+        "Revision": "0",
+        "Filename": "VTCY_0.500-13X0.750.par"
+    },
+    "24109046": {
+        "JdeNumber": "24109046",
+        "Revision": "0",
+        "Filename": "VTCY_0.500-13X1.000.par"
+    },
+    "24102132": {
+        "JdeNumber": "24102132",
+        "Revision": "0",
+        "Filename": "VTCY_0.500-13X1.000_SS.par"
+    },
+    "24102436": {
+        "JdeNumber": "24102436",
+        "Revision": "0",
+        "Filename": "VTCY_0.500-13X1.250.par"
+    },
+    "24105998": {
+        "JdeNumber": "24105998",
+        "Revision": "0",
+        "Filename": "VTCY_0.500-13X1.250_SS.par"
+    },
+    "24102229": {
+        "JdeNumber": "24102229",
+        "Revision": "0",
+        "Filename": "VTCY_0.500-13X1.500.par"
+    },
+    "24102130": {
+        "JdeNumber": "24102130",
+        "Revision": "0",
+        "Filename": "VTCY_0.500-13X1.500_SS.par"
+    },
+    "107196": {
+        "JdeNumber": "107196",
+        "Revision": "0",
+        "Filename": "VTCY_0.500-13X1.750.par"
+    },
+    "24101092": {
+        "JdeNumber": "24101092",
+        "Revision": "0",
+        "Filename": "VTCY_0.500-13X2.500.par"
+    },
+    "24102018": {
+        "JdeNumber": "24102018",
+        "Revision": "0",
+        "Filename": "VTCY_0.500-13X3.250.par"
+    },
+    "182239": {
+        "JdeNumber": "182239",
+        "Revision": "00",
+        "Filename": "VTCY_0.500-13X4.000.par"
+    },
+    "300187": {
+        "JdeNumber": "300187",
+        "Revision": "0",
+        "Filename": "VTCY_0.500-13X4.500.par"
+    },
+    "147500": {
+        "JdeNumber": "147500",
+        "Revision": "0",
+        "Filename": "VTCY_0.500-13X4.500_SS.PAR"
+    },
+    "24102322": {
+        "JdeNumber": "24102322",
+        "Revision": "0",
+        "Filename": "VTCY_0.500-13X5.500.PAR"
+    },
+    "24104686": {
+        "JdeNumber": "24104686",
+        "Revision": "0",
+        "Filename": "VTCY_0.625-11X1.250.par"
+    },
+    "147499": {
+        "JdeNumber": "147499",
+        "Revision": "0",
+        "Filename": "VTCY_0.625-11X4.000_SS.PAR"
+    },
+    "163318": {
+        "JdeNumber": "163318",
+        "Revision": "00",
+        "Filename": "VTCY_0.750-10X3.000.par"
+    },
+    "107186": {
+        "JdeNumber": "107186",
+        "Revision": "0",
+        "Filename": "VTCY_0.750-10X4.500.par"
+    },
+    "161637": {
+        "JdeNumber": "161637",
+        "Revision": "00",
+        "Filename": "VTCY_M03-0.50X045.PAR"
+    },
+    "24104820": {
+        "JdeNumber": "24104820",
+        "Revision": "0",
+        "Filename": "VTCY_M04-0.70X010_SS.PAR"
+    },
+    "24107418": {
+        "JdeNumber": "24107418",
+        "Revision": "00",
+        "Filename": "VTCY_M04-0.70X012_SS.PAR"
+    },
+    "PT1111997": {
+        "JdeNumber": "PT1111997",
+        "Revision": "00",
+        "Filename": "VTCY_M04-0.70X012_SS_1.PAR"
+    },
+    "119591": {
+        "JdeNumber": "119591",
+        "Revision": "00",
+        "Filename": "VTCY_M04-0.70X020_SS.par"
+    },
+    "24101453": {
+        "JdeNumber": "24101453",
+        "Revision": "0",
+        "Filename": "VTCY_M04-0.70X025.par"
+    },
+    "24104819": {
+        "JdeNumber": "24104819",
+        "Revision": "00",
+        "Filename": "VTCY_M04-0.70X025_SS.par"
+    },
+    "24104821": {
+        "JdeNumber": "24104821",
+        "Revision": "00",
+        "Filename": "VTCY_M04-0.70X035_SS.par"
+    },
+    "24101459": {
+        "JdeNumber": "24101459",
+        "Revision": "0",
+        "Filename": "VTCY_M04-0.70X040.par"
+    },
+    "149512": {
+        "JdeNumber": "149512",
+        "Revision": "00",
+        "Filename": "VTCY_M04-0.70X045_CLS8.8.PAR"
+    },
+    "24101455": {
+        "JdeNumber": "24101455",
+        "Revision": "0",
+        "Filename": "VTCY_M04-0.70X050.par"
+    },
+    "24104567": {
+        "JdeNumber": "24104567",
+        "Revision": "0",
+        "Filename": "VTCY_M05-0.80X010.par"
+    },
+    "24104568": {
+        "JdeNumber": "24104568",
+        "Revision": "0",
+        "Filename": "VTCY_M05-0.80X012.par"
+    },
+    "24104822": {
+        "JdeNumber": "24104822",
+        "Revision": "00",
+        "Filename": "VTCY_M05-0.80X012_SS.par"
+    },
+    "24104800": {
+        "JdeNumber": "24104800",
+        "Revision": "00",
+        "Filename": "VTCY_M05-0.80X016_SS.par"
+    },
+    "24100754": {
+        "JdeNumber": "24100754",
+        "Revision": "0",
+        "Filename": "VTCY_M05-0.80X020.par"
+    },
+    "24104804": {
+        "JdeNumber": "24104804",
+        "Revision": "00",
+        "Filename": "VTCY_M05-0.80X020_SS.par"
+    },
+    "24100241": {
+        "JdeNumber": "24100241",
+        "Revision": "0",
+        "Filename": "VTCY_M05-0.80X025.par"
+    },
+    "24104801": {
+        "JdeNumber": "24104801",
+        "Revision": "00",
+        "Filename": "VTCY_M05-0.80X025_SS.par"
+    },
+    "24101134": {
+        "JdeNumber": "24101134",
+        "Revision": "0",
+        "Filename": "VTCY_M05-0.80X035.par"
+    },
+    "24104734": {
+        "JdeNumber": "24104734",
+        "Revision": "0",
+        "Filename": "VTCY_M05-0.80X045.par"
+    },
+    "PT1112031": {
+        "JdeNumber": "PT1112031",
+        "Revision": "00",
+        "Filename": "VTCY_M05-0.80X045_SS.par"
+    },
+    "24104340": {
+        "JdeNumber": "24104340",
+        "Revision": "0",
+        "Filename": "VTCY_M05-0.80X050.par"
+    },
+    "24104799": {
+        "JdeNumber": "24104799",
+        "Revision": "00",
+        "Filename": "VTCY_M05-0.80X050_SS.par"
+    },
+    "107234": {
+        "JdeNumber": "107234",
+        "Revision": "0",
+        "Filename": "VTCY_M05-0.80X060.PAR"
+    },
+    "300282": {
+        "JdeNumber": "300282",
+        "Revision": "0",
+        "Filename": "VTCY_M05-0.80X070.par"
+    },
+    "120890": {
+        "JdeNumber": "120890",
+        "Revision": "0",
+        "Filename": "VTCY_M05-0.80X090.par"
+    },
+    "24101460": {
+        "JdeNumber": "24101460",
+        "Revision": "0",
+        "Filename": "VTCY_M06-1.00X012.par"
+    },
+    "24104888": {
+        "JdeNumber": "24104888",
+        "Revision": "00",
+        "Filename": "VTCY_M06-1.00X012_SS.par"
+    },
+    "PT1111994": {
+        "JdeNumber": "PT1111994",
+        "Revision": "00",
+        "Filename": "VTCY_M06-1.00X012_SS_1.par"
+    },
+    "24105058": {
+        "JdeNumber": "24105058",
+        "Revision": "0",
+        "Filename": "VTCY_M06-1.00X016.par"
+    },
+    "24104710": {
+        "JdeNumber": "24104710",
+        "Revision": "00",
+        "Filename": "VTCY_M06-1.00X016_SS.par"
+    },
+    "24101463": {
+        "JdeNumber": "24101463",
+        "Revision": "0",
+        "Filename": "VTCY_M06-1.00X020.par"
+    },
+    "24101464": {
+        "JdeNumber": "24101464",
+        "Revision": "0",
+        "Filename": "VTCY_M06-1.00X025.par"
+    },
+    "24104798": {
+        "JdeNumber": "24104798",
+        "Revision": "00",
+        "Filename": "VTCY_M06-1.00X025_SS.par"
+    },
+    "24101465": {
+        "JdeNumber": "24101465",
+        "Revision": "0",
+        "Filename": "VTCY_M06-1.00X030.par"
+    },
+    "24104735": {
+        "JdeNumber": "24104735",
+        "Revision": "0",
+        "Filename": "VTCY_M06-1.00X035.par"
+    },
+    "24104794": {
+        "JdeNumber": "24104794",
+        "Revision": "00",
+        "Filename": "VTCY_M06-1.00X035_SS.par"
+    },
+    "24104797": {
+        "JdeNumber": "24104797",
+        "Revision": "00",
+        "Filename": "VTCY_M06-1.00X040_SS.par"
+    },
+    "24105083": {
+        "JdeNumber": "24105083",
+        "Revision": "0",
+        "Filename": "VTCY_M06-1.00X045.par"
+    },
+    "24104338": {
+        "JdeNumber": "24104338",
+        "Revision": "0",
+        "Filename": "VTCY_M06-1.00X050.par"
+    },
+    "24104795": {
+        "JdeNumber": "24104795",
+        "Revision": "00",
+        "Filename": "VTCY_M06-1.00X050_SS.par"
+    },
+    "24104796": {
+        "JdeNumber": "24104796",
+        "Revision": "00",
+        "Filename": "VTCY_M06-1.00X060_SS.par"
+    },
+    "24104792": {
+        "JdeNumber": "24104792",
+        "Revision": "00",
+        "Filename": "VTCY_M06-1.00X070_SS.par"
+    },
+    "24104581": {
+        "JdeNumber": "24104581",
+        "Revision": "0",
+        "Filename": "VTCY_M06-1.00X080.par"
+    },
+    "24104793": {
+        "JdeNumber": "24104793",
+        "Revision": "00",
+        "Filename": "VTCY_M06-1.00X090_SS.par"
+    },
+    "24102389": {
+        "JdeNumber": "24102389",
+        "Revision": "0",
+        "Filename": "VTCY_M06-1.00X100.par"
+    },
+    "24104346": {
+        "JdeNumber": "24104346",
+        "Revision": "0",
+        "Filename": "VTCY_M08-1.25X012.par"
+    },
+    "24104737": {
+        "JdeNumber": "24104737",
+        "Revision": "0",
+        "Filename": "VTCY_M08-1.25X016.par"
+    },
+    "159022": {
+        "JdeNumber": "159022",
+        "Revision": "00",
+        "Filename": "VTCY_M08-1.25X016_SS316.PAR"
+    },
+    "24104348": {
+        "JdeNumber": "24104348",
+        "Revision": "0",
+        "Filename": "VTCY_M08-1.25X020.par"
+    },
+    "24104814": {
+        "JdeNumber": "24104814",
+        "Revision": "00",
+        "Filename": "VTCY_M08-1.25X020_SS.par"
+    },
+    "24104345": {
+        "JdeNumber": "24104345",
+        "Revision": "0",
+        "Filename": "VTCY_M08-1.25X035.par"
+    },
+    "24104810": {
+        "JdeNumber": "24104810",
+        "Revision": "00",
+        "Filename": "VTCY_M08-1.25X035_SS.par"
+    },
+    "24104586": {
+        "JdeNumber": "24104586",
+        "Revision": "0",
+        "Filename": "VTCY_M08-1.25X040.par"
+    },
+    "24104816": {
+        "JdeNumber": "24104816",
+        "Revision": "00",
+        "Filename": "VTCY_M08-1.25X040_SS.par"
+    },
+    "24104344": {
+        "JdeNumber": "24104344",
+        "Revision": "0",
+        "Filename": "VTCY_M08-1.25X045.par"
+    },
+    "24104812": {
+        "JdeNumber": "24104812",
+        "Revision": "00",
+        "Filename": "VTCY_M08-1.25X046_SS.par"
+    },
+    "24101105": {
+        "JdeNumber": "24101105",
+        "Revision": "0",
+        "Filename": "VTCY_M08-1.25X050.par"
+    },
+    "PT1112005": {
+        "JdeNumber": "PT1112005",
+        "Revision": "00",
+        "Filename": "VTCY_M08-1.25X050_SS_1.PAR"
+    },
+    "24104811": {
+        "JdeNumber": "24104811",
+        "Revision": "00",
+        "Filename": "VTCY_M08-1.25X070_SS.par"
+    },
+    "160813": {
+        "JdeNumber": "160813",
+        "Revision": "00",
+        "Filename": "VTCY_M08-1.25X080.PAR"
+    },
+    "24104347": {
+        "JdeNumber": "24104347",
+        "Revision": "0",
+        "Filename": "VTCY_M08-1.25X090.par"
+    },
+    "24104349": {
+        "JdeNumber": "24104349",
+        "Revision": "0",
+        "Filename": "VTCY_M08-1.25X100.par"
+    },
+    "300283": {
+        "JdeNumber": "300283",
+        "Revision": "0",
+        "Filename": "VTCY_M08-1.25X120.par"
+    },
+    "24104590": {
+        "JdeNumber": "24104590",
+        "Revision": "0",
+        "Filename": "VTCY_M10-1.50X016.par"
+    },
+    "24104591": {
+        "JdeNumber": "24104591",
+        "Revision": "0",
+        "Filename": "VTCY_M10-1.50X020.par"
+    },
+    "24104807": {
+        "JdeNumber": "24104807",
+        "Revision": "00",
+        "Filename": "VTCY_M10-1.50X020_SS.par"
+    },
+    "24102802": {
+        "JdeNumber": "24102802",
+        "Revision": "0",
+        "Filename": "VTCY_M10-1.50X025.par"
+    },
+    "24104742": {
+        "JdeNumber": "24104742",
+        "Revision": "0",
+        "Filename": "VTCY_M10-1.50X035.PAR"
+    },
+    "24104738": {
+        "JdeNumber": "24104738",
+        "Revision": "0",
+        "Filename": "VTCY_M10-1.50X040.par"
+    },
+    "24104806": {
+        "JdeNumber": "24104806",
+        "Revision": "00",
+        "Filename": "VTCY_M10-1.50X040_SS.par"
+    },
+    "116105": {
+        "JdeNumber": "116105",
+        "Revision": "0",
+        "Filename": "VTCY_M10-1.50X050.par"
+    },
+    "116106": {
+        "JdeNumber": "116106",
+        "Revision": "0",
+        "Filename": "VTCY_M10-1.50X055.par"
+    },
+    "24104593": {
+        "JdeNumber": "24104593",
+        "Revision": "0",
+        "Filename": "VTCY_M10-1.50X060.par"
+    },
+    "24106080": {
+        "JdeNumber": "24106080",
+        "Revision": "00",
+        "Filename": "VTCY_M10-1.50X060_SS.par"
+    },
+    "PT1111996": {
+        "JdeNumber": "PT1111996",
+        "Revision": "00",
+        "Filename": "VTCY_M10-1.50X060_SS_1.par"
+    },
+    "24104342": {
+        "JdeNumber": "24104342",
+        "Revision": "0",
+        "Filename": "VTCY_M10-1.50X065.par"
+    },
+    "24104739": {
+        "JdeNumber": "24104739",
+        "Revision": "0",
+        "Filename": "VTCY_M10-1.50X070.par"
+    },
+    "24104805": {
+        "JdeNumber": "24104805",
+        "Revision": "00",
+        "Filename": "VTCY_M10-1.50X070_SS.par"
+    },
+    "24104615": {
+        "JdeNumber": "24104615",
+        "Revision": "0",
+        "Filename": "VTCY_M10-1.50X080.par"
+    },
+    "24104740": {
+        "JdeNumber": "24104740",
+        "Revision": "0",
+        "Filename": "VTCY_M10-1.50X090.par"
+    },
+    "108073": {
+        "JdeNumber": "108073",
+        "Revision": "0",
+        "Filename": "VTCY_M10-1.50X130.par"
+    },
+    "24104741": {
+        "JdeNumber": "24104741",
+        "Revision": "0",
+        "Filename": "VTCY_M12-1.75X020.par"
+    },
+    "24104787": {
+        "JdeNumber": "24104787",
+        "Revision": "00",
+        "Filename": "VTCY_M12-1.75X020_SS.par"
+    },
+    "24104594": {
+        "JdeNumber": "24104594",
+        "Revision": "0",
+        "Filename": "VTCY_M12-1.75X025.par"
+    },
+    "24104790": {
+        "JdeNumber": "24104790",
+        "Revision": "00",
+        "Filename": "VTCY_M12-1.75X025_SS.par"
+    },
+    "24104873": {
+        "JdeNumber": "24104873",
+        "Revision": "00",
+        "Filename": "VTCY_M12-1.75X035_SS.par"
+    },
+    "PT1111989": {
+        "JdeNumber": "PT1111989",
+        "Revision": "00",
+        "Filename": "VTCY_M12-1.75X035_SS_1.PAR"
+    },
+    "24104789": {
+        "JdeNumber": "24104789",
+        "Revision": "00",
+        "Filename": "VTCY_M12-1.75X040_SS.par"
+    },
+    "24104336": {
+        "JdeNumber": "24104336",
+        "Revision": "0",
+        "Filename": "VTCY_M12-1.75X050.par"
+    },
+    "24104788": {
+        "JdeNumber": "24104788",
+        "Revision": "00",
+        "Filename": "VTCY_M12-1.75X050_SS.par"
+    },
+    "300521": {
+        "JdeNumber": "300521",
+        "Revision": "0",
+        "Filename": "VTCY_M12-1.75X080.par"
+    },
+    "24105898": {
+        "JdeNumber": "24105898",
+        "Revision": "00",
+        "Filename": "VTCY_M12-1.75X090_SS.par"
+    },
+    "PT1111995": {
+        "JdeNumber": "PT1111995",
+        "Revision": "00",
+        "Filename": "VTCY_M12-1.75X090_SS_1.par"
+    },
+    "300545": {
+        "JdeNumber": "300545",
+        "Revision": "00",
+        "Filename": "VTCY_M12-1.75X100.par"
+    },
+    "117527": {
+        "JdeNumber": "117527",
+        "Revision": "0",
+        "Filename": "VTCY_M14-2.00X035.par"
+    },
+    "24109098": {
+        "JdeNumber": "24109098",
+        "Revision": "0",
+        "Filename": "VTFR_0.112-40X0.500.par"
+    },
+    "24101609": {
+        "JdeNumber": "24101609",
+        "Revision": "0",
+        "Filename": "VTFR_0.138-32X0.500.par"
+    },
+    "24104195": {
+        "JdeNumber": "24104195",
+        "Revision": "0",
+        "Filename": "VTFR_0.138-32X0.625.par"
+    },
+    "24101286": {
+        "JdeNumber": "24101286",
+        "Revision": "0",
+        "Filename": "VTFR_0.138-32X0.625_SS.par"
+    },
+    "24101610": {
+        "JdeNumber": "24101610",
+        "Revision": "0",
+        "Filename": "VTFR_0.138-32X0.750.par"
+    },
+    "24103217": {
+        "JdeNumber": "24103217",
+        "Revision": "0",
+        "Filename": "VTFR_0.138-32X0.750_SS.par"
+    },
+    "166340": {
+        "JdeNumber": "166340",
+        "Revision": "01",
+        "Filename": "VTFR_0.164-32X0.375_SS.PAR"
+    },
+    "166340": {
+        "JdeNumber": "166340",
+        "Revision": "00",
+        "Filename": "VTFR_0.164-32X0.375_SS_XML33.PAR"
+    },
+    "24102179": {
+        "JdeNumber": "24102179",
+        "Revision": "0",
+        "Filename": "VTFR_0.164-32X0.500_SS.par"
+    },
+    "24101612": {
+        "JdeNumber": "24101612",
+        "Revision": "0",
+        "Filename": "VTFR_0.164-32X0.750.par"
+    },
+    "24103039": {
+        "JdeNumber": "24103039",
+        "Revision": "0",
+        "Filename": "VTFR_0.164-32X0.750_SS.par"
+    },
+    "24101613": {
+        "JdeNumber": "24101613",
+        "Revision": "0",
+        "Filename": "VTFR_0.164-32X1.000.par"
+    },
+    "24101614": {
+        "JdeNumber": "24101614",
+        "Revision": "00",
+        "Filename": "VTFR_0.190-24X0.500.PAR"
+    },
+    "24104156": {
+        "JdeNumber": "24104156",
+        "Revision": "0",
+        "Filename": "VTFR_0.190-24X0.625.par"
+    },
+    "24101615": {
+        "JdeNumber": "24101615",
+        "Revision": "0",
+        "Filename": "VTFR_0.190-24X0.750.par"
+    },
+    "117659": {
+        "JdeNumber": "117659",
+        "Revision": "0",
+        "Filename": "VTFR_0.190-24X0.750_SS.par"
+    },
+    "24101616": {
+        "JdeNumber": "24101616",
+        "Revision": "0",
+        "Filename": "VTFR_0.190-24X1.000.par"
+    },
+    "117925": {
+        "JdeNumber": "117925",
+        "Revision": "0",
+        "Filename": "VTFR_0.190-24X1.000_SS.par"
+    },
+    "24102245": {
+        "JdeNumber": "24102245",
+        "Revision": "0",
+        "Filename": "VTFR_0.190-24X1.250.par"
+    },
+    "24101276": {
+        "JdeNumber": "24101276",
+        "Revision": "0",
+        "Filename": "VTFR_0.190-24X1.500.par"
+    },
+    "160580": {
+        "JdeNumber": "160580",
+        "Revision": "00",
+        "Filename": "VTFR_0.190-24X1.750.PAR"
+    },
+    "24101281": {
+        "JdeNumber": "24101281",
+        "Revision": "0",
+        "Filename": "VTFR_0.190-24X2.000.par"
+    },
+    "24104997": {
+        "JdeNumber": "24104997",
+        "Revision": "0",
+        "Filename": "VTFR_0.190-24X2.500.par"
+    },
+    "24100219": {
+        "JdeNumber": "24100219",
+        "Revision": "0",
+        "Filename": "VTFR_0.190-32X0.375.par"
+    },
+    "24101443": {
+        "JdeNumber": "24101443",
+        "Revision": "0",
+        "Filename": "VTFR_0.190-32X0.750.par"
+    },
+    "208604": {
+        "JdeNumber": "208604",
+        "Revision": "00",
+        "Filename": "VTFR_0.250-20X0.375.par"
+    },
+    "117669": {
+        "JdeNumber": "117669",
+        "Revision": "0",
+        "Filename": "VTFR_0.250-20X0.500_SS.par"
+    },
+    "24101618": {
+        "JdeNumber": "24101618",
+        "Revision": "0",
+        "Filename": "VTFR_0.250-20X0.750.par"
+    },
+    "24101011": {
+        "JdeNumber": "24101011",
+        "Revision": "0",
+        "Filename": "VTFR_0.250-20X1.000.par"
+    },
+    "107576": {
+        "JdeNumber": "107576",
+        "Revision": "0",
+        "Filename": "VTFR_0.250-20X1.000_SS.par"
+    },
+    "24101712": {
+        "JdeNumber": "24101712",
+        "Revision": "0",
+        "Filename": "VTFR_0.250-20X1.250.par"
+    },
+    "117985": {
+        "JdeNumber": "117985",
+        "Revision": "0",
+        "Filename": "VTFR_0.250-20X1.250_SS.par"
+    },
+    "24101005": {
+        "JdeNumber": "24101005",
+        "Revision": "0",
+        "Filename": "VTFR_0.250-20X1.500.par"
+    },
+    "24102508": {
+        "JdeNumber": "24102508",
+        "Revision": "0",
+        "Filename": "VTFR_0.250-20X1.750.par"
+    },
+    "122992": {
+        "JdeNumber": "122992",
+        "Revision": "0",
+        "Filename": "VTFR_0.250-20X2.250_SS.par"
+    },
+    "24101421": {
+        "JdeNumber": "24101421",
+        "Revision": "0",
+        "Filename": "VTFR_0.250-20X3.000.par"
+    },
+    "24106180": {
+        "JdeNumber": "24106180",
+        "Revision": "0",
+        "Filename": "VTFR_0.250-20X3.500.par"
+    },
+    "24106181": {
+        "JdeNumber": "24106181",
+        "Revision": "0",
+        "Filename": "VTFR_0.250-20X4.000.par"
+    },
+    "24104237": {
+        "JdeNumber": "24104237",
+        "Revision": "0",
+        "Filename": "VTFR_0.313-18X0.500.par"
+    },
+    "24102337": {
+        "JdeNumber": "24102337",
+        "Revision": "0",
+        "Filename": "VTFR_0.313-18X0.625_SS.par"
+    },
+    "24101007": {
+        "JdeNumber": "24101007",
+        "Revision": "0",
+        "Filename": "VTFR_0.313-18X0.750.par"
+    },
+    "24101006": {
+        "JdeNumber": "24101006",
+        "Revision": "0",
+        "Filename": "VTFR_0.313-18X1.000.par"
+    },
+    "117616": {
+        "JdeNumber": "117616",
+        "Revision": "0",
+        "Filename": "VTFR_0.313-18X1.250_SS.par"
+    },
+    "24101080": {
+        "JdeNumber": "24101080",
+        "Revision": "0",
+        "Filename": "VTFR_0.313-18X1.500.par"
+    },
+    "117617": {
+        "JdeNumber": "117617",
+        "Revision": "0",
+        "Filename": "VTFR_0.313-18X1.500_SS.par"
+    },
+    "300495": {
+        "JdeNumber": "300495",
+        "Revision": "0",
+        "Filename": "VTFR_0.313-18X1.750.par"
+    },
+    "108896": {
+        "JdeNumber": "108896",
+        "Revision": "0",
+        "Filename": "VTFR_0.313-18X2.000.par"
+    },
+    "117533": {
+        "JdeNumber": "117533",
+        "Revision": "0",
+        "Filename": "VTFR_0.313-18X2.000_SS.par"
+    },
+    "122494": {
+        "JdeNumber": "122494",
+        "Revision": "0",
+        "Filename": "VTFR_0.313-18X2.250.par"
+    },
+    "24103288": {
+        "JdeNumber": "24103288",
+        "Revision": "0",
+        "Filename": "VTFR_0.313-18X2.500.par"
+    },
+    "300494": {
+        "JdeNumber": "300494",
+        "Revision": "0",
+        "Filename": "VTFR_0.313-18X3.500.par"
+    },
+    "117320": {
+        "JdeNumber": "117320",
+        "Revision": "0",
+        "Filename": "VTFR_0.313-18X4.000.par"
+    },
+    "24101009": {
+        "JdeNumber": "24101009",
+        "Revision": "0",
+        "Filename": "VTFR_0.375-16X0.750.par"
+    },
+    "24103220": {
+        "JdeNumber": "24103220",
+        "Revision": "0",
+        "Filename": "VTFR_0.375-16X0.750_SS.par"
+    },
+    "185725": {
+        "JdeNumber": "185725",
+        "Revision": "00",
+        "Filename": "VTFR_0.375-16X1.000_SS.PAR"
+    },
+    "24104440": {
+        "JdeNumber": "24104440",
+        "Revision": "0",
+        "Filename": "VTFR_0.375-16X1.250_SS.par"
+    },
+    "24103507": {
+        "JdeNumber": "24103507",
+        "Revision": "0",
+        "Filename": "VTFR_0.375-16X1.500.par"
+    },
+    "108007": {
+        "JdeNumber": "108007",
+        "Revision": "0",
+        "Filename": "VTFR_0.375-16X1.500_SS.par"
+    },
+    "24101183": {
+        "JdeNumber": "24101183",
+        "Revision": "0",
+        "Filename": "VTFR_0.375-16X1.750.par"
+    },
+    "24101635": {
+        "JdeNumber": "24101635",
+        "Revision": "0",
+        "Filename": "VTFR_0.375-16X2.000.par"
+    },
+    "117629": {
+        "JdeNumber": "117629",
+        "Revision": "0",
+        "Filename": "VTFR_0.375-16X2.500_SS.par"
+    },
+    "107767": {
+        "JdeNumber": "107767",
+        "Revision": "0",
+        "Filename": "VTFR_0.375-16X2.750.par"
+    },
+    "24103259": {
+        "JdeNumber": "24103259",
+        "Revision": "0",
+        "Filename": "VTFR_0.375-16X3.000.par"
+    },
+    "139633": {
+        "JdeNumber": "139633",
+        "Revision": "0",
+        "Filename": "VTFR_0.375-16X3.000_SS.par"
+    },
+    "24105205": {
+        "JdeNumber": "24105205",
+        "Revision": "0",
+        "Filename": "VTFR_0.375-16X3.500.par"
+    },
+    "24103265": {
+        "JdeNumber": "24103265",
+        "Revision": "0",
+        "Filename": "VTFR_0.375-16X3.500_SS.par"
+    },
+    "149558": {
+        "JdeNumber": "149558",
+        "Revision": "0",
+        "Filename": "VTFR_0.375-16X4.500.PAR"
+    },
+    "107777": {
+        "JdeNumber": "107777",
+        "Revision": "0",
+        "Filename": "VTFR_0.375-16X5.000.par"
+    },
+    "116087": {
+        "JdeNumber": "116087",
+        "Revision": "0",
+        "Filename": "VTFR_0.375-24X0.750.par"
+    },
+    "108729": {
+        "JdeNumber": "108729",
+        "Revision": "0",
+        "Filename": "VTFR_0.500-13X0.500.par"
+    },
+    "24101012": {
+        "JdeNumber": "24101012",
+        "Revision": "0",
+        "Filename": "VTFR_0.500-13X1.000.par"
+    },
+    "24102135": {
+        "JdeNumber": "24102135",
+        "Revision": "0",
+        "Filename": "VTFR_0.500-13X1.000_SS.par"
+    },
+    "24101013": {
+        "JdeNumber": "24101013",
+        "Revision": "0",
+        "Filename": "VTFR_0.500-13X1.250.par"
+    },
+    "107559": {
+        "JdeNumber": "107559",
+        "Revision": "0",
+        "Filename": "VTFR_0.500-13X1.250_SS.par"
+    },
+    "24103620": {
+        "JdeNumber": "24103620",
+        "Revision": "0",
+        "Filename": "VTFR_0.500-13X1.500.par"
+    },
+    "113472": {
+        "JdeNumber": "113472",
+        "Revision": "0",
+        "Filename": "VTFR_0.500-13X1.750.par"
+    },
+    "24104259": {
+        "JdeNumber": "24104259",
+        "Revision": "0",
+        "Filename": "VTFR_0.500-13X1.750_SS.par"
+    },
+    "24105971": {
+        "JdeNumber": "24105971",
+        "Revision": "0",
+        "Filename": "VTFR_0.500-13X2.000.par"
+    },
+    "24100337": {
+        "JdeNumber": "24100337",
+        "Revision": "0",
+        "Filename": "VTFR_0.500-13X2.000_SS.par"
+    },
+    "24103621": {
+        "JdeNumber": "24103621",
+        "Revision": "0",
+        "Filename": "VTFR_0.500-13X2.500.par"
+    },
+    "24103285": {
+        "JdeNumber": "24103285",
+        "Revision": "0",
+        "Filename": "VTFR_0.500-13X2.750.par"
+    },
+    "24107049": {
+        "JdeNumber": "24107049",
+        "Revision": "0",
+        "Filename": "VTFR_0.500-13X3.000.par"
+    },
+    "117514": {
+        "JdeNumber": "117514",
+        "Revision": "0",
+        "Filename": "VTFR_0.500-13X3.500.par"
+    },
+    "117061": {
+        "JdeNumber": "117061",
+        "Revision": "0",
+        "Filename": "VTFR_0.500-13X4.000.par"
+    },
+    "24102469": {
+        "JdeNumber": "24102469",
+        "Revision": "0",
+        "Filename": "VTFR_0.500-13X6.000.par"
+    },
+    "120179": {
+        "JdeNumber": "120179",
+        "Revision": "0",
+        "Filename": "VTFR_0.500-13X7.000.par"
+    },
+    "24107436": {
+        "JdeNumber": "24107436",
+        "Revision": "0",
+        "Filename": "VTFR_0.750-10X3.000.par"
+    },
+    "125318": {
+        "JdeNumber": "125318",
+        "Revision": "0",
+        "Filename": "VTFR_M03-0.50X010.par"
+    },
+    "133795": {
+        "JdeNumber": "133795",
+        "Revision": "0",
+        "Filename": "VTFR_M03-0.50X012.par"
+    },
+    "24104634": {
+        "JdeNumber": "24104634",
+        "Revision": "0",
+        "Filename": "VTFR_M03-0.50X016.par"
+    },
+    "24101468": {
+        "JdeNumber": "24101468",
+        "Revision": "0",
+        "Filename": "VTFR_M03-0.50X020.par"
+    },
+    "24101469": {
+        "JdeNumber": "24101469",
+        "Revision": "0",
+        "Filename": "VTFR_M04-0.70X012.par"
+    },
+    "24104371": {
+        "JdeNumber": "24104371",
+        "Revision": "0",
+        "Filename": "VTFR_M04-0.70X016_SS.par"
+    },
+    "24101754": {
+        "JdeNumber": "24101754",
+        "Revision": "0",
+        "Filename": "VTFR_M05-0.80X010.par"
+    },
+    "24104351": {
+        "JdeNumber": "24104351",
+        "Revision": "0",
+        "Filename": "VTFR_M05-0.80X012.par"
+    },
+    "108718": {
+        "JdeNumber": "108718",
+        "Revision": "0",
+        "Filename": "VTFR_M05-0.80X016.par"
+    },
+    "24104826": {
+        "JdeNumber": "24104826",
+        "Revision": "0",
+        "Filename": "VTFR_M05-0.80X016_SS.par"
+    },
+    "24104731": {
+        "JdeNumber": "24104731",
+        "Revision": "0",
+        "Filename": "VTFR_M05-0.80X020.par"
+    },
+    "24104830": {
+        "JdeNumber": "24104830",
+        "Revision": "0",
+        "Filename": "VTFR_M05-0.80X020_SS.par"
+    },
+    "24104669": {
+        "JdeNumber": "24104669",
+        "Revision": "0",
+        "Filename": "VTFR_M05-0.80X025.par"
+    },
+    "119592": {
+        "JdeNumber": "119592",
+        "Revision": "0",
+        "Filename": "VTFR_M05-0.80X025_SS.par"
+    },
+    "24100325": {
+        "JdeNumber": "24100325",
+        "Revision": "0",
+        "Filename": "VTFR_M06-1.00X010.par"
+    },
+    "154569": {
+        "JdeNumber": "154569",
+        "Revision": "0",
+        "Filename": "VTFR_M06-1.00X010_SS.PAR"
+    },
+    "24104262": {
+        "JdeNumber": "24104262",
+        "Revision": "0",
+        "Filename": "VTFR_M06-1.00X012.par"
+    },
+    "118414": {
+        "JdeNumber": "118414",
+        "Revision": "00",
+        "Filename": "VTFR_M06-1.00X012_SS.PAR"
+    },
+    "24104197": {
+        "JdeNumber": "24104197",
+        "Revision": "0",
+        "Filename": "VTFR_M06-1.00X016.par"
+    },
+    "24104928": {
+        "JdeNumber": "24104928",
+        "Revision": "0",
+        "Filename": "VTFR_M06-1.00X016_SS.par"
+    },
+    "24104198": {
+        "JdeNumber": "24104198",
+        "Revision": "0",
+        "Filename": "VTFR_M06-1.00X020.par"
+    },
+    "24104825": {
+        "JdeNumber": "24104825",
+        "Revision": "0",
+        "Filename": "VTFR_M06-1.00X020_SS.par"
+    },
+    "24105021": {
+        "JdeNumber": "24105021",
+        "Revision": "0",
+        "Filename": "VTFR_M06-1.00X025.par"
+    },
+    "24101472": {
+        "JdeNumber": "24101472",
+        "Revision": "0",
+        "Filename": "VTFR_M06-1.00X030.par"
+    },
+    "107678": {
+        "JdeNumber": "107678",
+        "Revision": "0",
+        "Filename": "VTFR_M06-1.00X040.par"
+    },
+    "24104554": {
+        "JdeNumber": "24104554",
+        "Revision": "0",
+        "Filename": "VTFR_M06-1.00X045.par"
+    },
+    "24101473": {
+        "JdeNumber": "24101473",
+        "Revision": "0",
+        "Filename": "VTFR_M06-1.00X050.par"
+    },
+    "24104555": {
+        "JdeNumber": "24104555",
+        "Revision": "0",
+        "Filename": "VTFR_M06-1.00X060.par"
+    },
+    "107778": {
+        "JdeNumber": "107778",
+        "Revision": "0",
+        "Filename": "VTFR_M06-1.00X080.par"
+    },
+    "107782": {
+        "JdeNumber": "107782",
+        "Revision": "0",
+        "Filename": "VTFR_M06-1.00X120.par"
+    },
+    "24103081": {
+        "JdeNumber": "24103081",
+        "Revision": "0",
+        "Filename": "VTFR_M08-1.25X010.par"
+    },
+    "24101875": {
+        "JdeNumber": "24101875",
+        "Revision": "0",
+        "Filename": "VTFR_M08-1.25X016.par"
+    },
+    "24104091": {
+        "JdeNumber": "24104091",
+        "Revision": "0",
+        "Filename": "VTFR_M08-1.25X018.par"
+    },
+    "24109075": {
+        "JdeNumber": "24109075",
+        "Revision": "0",
+        "Filename": "VTFR_M08-1.25X025.par"
+    },
+    "24104980": {
+        "JdeNumber": "24104980",
+        "Revision": "0",
+        "Filename": "VTFR_M08-1.25X025_SS.par"
+    },
+    "24104760": {
+        "JdeNumber": "24104760",
+        "Revision": "0",
+        "Filename": "VTFR_M08-1.25X040.par"
+    },
+    "24104979": {
+        "JdeNumber": "24104979",
+        "Revision": "0",
+        "Filename": "VTFR_M08-1.25X040_SS.par"
+    },
+    "24104831": {
+        "JdeNumber": "24104831",
+        "Revision": "0",
+        "Filename": "VTFR_M08-1.25X045_SS.par"
+    },
+    "300390": {
+        "JdeNumber": "300390",
+        "Revision": "0",
+        "Filename": "VTFR_M08-1.25X060.par"
+    },
+    "24104946": {
+        "JdeNumber": "24104946",
+        "Revision": "0",
+        "Filename": "VTFR_M10-1.50X025.par"
+    },
+    "182708": {
+        "JdeNumber": "182708",
+        "Revision": "0",
+        "Filename": "VTFR_M10-1.50X025_SS.PAR"
+    },
+    "24104947": {
+        "JdeNumber": "24104947",
+        "Revision": "0",
+        "Filename": "VTFR_M10-1.50X030.par"
+    },
+    "149650": {
+        "JdeNumber": "149650",
+        "Revision": "00",
+        "Filename": "VTFR_M10-1.50X030_SS.PAR"
+    },
+    "108467": {
+        "JdeNumber": "108467",
+        "Revision": "0",
+        "Filename": "VTFR_M10-1.50X035.par"
+    },
+    "24104948": {
+        "JdeNumber": "24104948",
+        "Revision": "0",
+        "Filename": "VTFR_M10-1.50X040.par"
+    },
+    "107731": {
+        "JdeNumber": "107731",
+        "Revision": "0",
+        "Filename": "VTFR_M10-1.50X050.par"
+    },
+    "108468": {
+        "JdeNumber": "108468",
+        "Revision": "0",
+        "Filename": "VTFR_M10-1.50X070.par"
+    },
+    "108469": {
+        "JdeNumber": "108469",
+        "Revision": "0",
+        "Filename": "VTFR_M10-1.50X090.par"
+    },
+    "108470": {
+        "JdeNumber": "108470",
+        "Revision": "0",
+        "Filename": "VTFR_M10-1.50X120.par"
+    },
+    "24100402": {
+        "JdeNumber": "24100402",
+        "Revision": "0",
+        "Filename": "VTFR_M12-1.25X035.par"
+    },
+    "24104350": {
+        "JdeNumber": "24104350",
+        "Revision": "0",
+        "Filename": "VTFR_M12-1.75X025.par"
+    },
+    "24104671": {
+        "JdeNumber": "24104671",
+        "Revision": "0",
+        "Filename": "VTFR_M12-1.75X030.par"
+    },
+    "24104732": {
+        "JdeNumber": "24104732",
+        "Revision": "0",
+        "Filename": "VTFR_M12-1.75X035.par"
+    },
+    "24104824": {
+        "JdeNumber": "24104824",
+        "Revision": "0",
+        "Filename": "VTFR_M12-1.75X035_SS.par"
+    },
+    "24101779": {
+        "JdeNumber": "24101779",
+        "Revision": "0",
+        "Filename": "VTFR_M12-1.75X060.par"
+    },
+    "134316": {
+        "JdeNumber": "134316",
+        "Revision": "0",
+        "Filename": "VTFR_M12-1.75X080.par"
+    },
+    "24100261": {
+        "JdeNumber": "24100261",
+        "Revision": "0",
+        "Filename": "VTHE-ST_0.250X1.000.PAR"
+    },
+    "119800": {
+        "JdeNumber": "119800",
+        "Revision": "0",
+        "Filename": "VTHE_0.164-32X0.500_GR2.par"
+    },
+    "123334": {
+        "JdeNumber": "123334",
+        "Revision": "0",
+        "Filename": "VTHE_0.164-32X1.000_SS.par"
+    },
+    "118933": {
+        "JdeNumber": "118933",
+        "Revision": "0",
+        "Filename": "VTHE_0.190-24X0.500_SS.par"
+    },
+    "117531": {
+        "JdeNumber": "117531",
+        "Revision": "0",
+        "Filename": "VTHE_0.190-24X0.750_GR2.par"
+    },
+    "24100157": {
+        "JdeNumber": "24100157",
+        "Revision": "0",
+        "Filename": "VTHE_0.250-20X0.500_GR5.par"
+    },
+    "24102667": {
+        "JdeNumber": "24102667",
+        "Revision": "0",
+        "Filename": "VTHE_0.250-20X0.500_SS.par"
+    },
+    "113930": {
+        "JdeNumber": "113930",
+        "Revision": "0",
+        "Filename": "VTHE_0.250-20X0.625_GR5.par"
+    },
+    "113930": {
+        "JdeNumber": "113930",
+        "Revision": "00",
+        "Filename": "VTHE_0.250-20X0.625_GR5_XML28.par"
+    },
+    "118571": {
+        "JdeNumber": "118571",
+        "Revision": "0",
+        "Filename": "VTHE_0.250-20X0.625_SS.par"
+    },
+    "24100001": {
+        "JdeNumber": "24100001",
+        "Revision": "0",
+        "Filename": "VTHE_0.250-20X0.750_GR5.par"
+    },
+    "24101939": {
+        "JdeNumber": "24101939",
+        "Revision": "0",
+        "Filename": "VTHE_0.250-20X0.750_SS.par"
+    },
+    "24100002": {
+        "JdeNumber": "24100002",
+        "Revision": "0",
+        "Filename": "VTHE_0.250-20X1.000_GR5.par"
+    },
+    "24102605": {
+        "JdeNumber": "24102605",
+        "Revision": "0",
+        "Filename": "VTHE_0.250-20X1.000_SS.par"
+    },
+    "147289": {
+        "JdeNumber": "147289",
+        "Revision": "0",
+        "Filename": "VTHE_0.250-20X1.000_SS316.PAR"
+    },
+    "24102284": {
+        "JdeNumber": "24102284",
+        "Revision": "0",
+        "Filename": "VTHE_0.250-20X1.250_FULL_GR5.par"
+    },
+    "24100063": {
+        "JdeNumber": "24100063",
+        "Revision": "0",
+        "Filename": "VTHE_0.250-20X1.250_GR5.par"
+    },
+    "24103998": {
+        "JdeNumber": "24103998",
+        "Revision": "0",
+        "Filename": "VTHE_0.250-20X1.250_SS.par"
+    },
+    "24100003": {
+        "JdeNumber": "24100003",
+        "Revision": "0",
+        "Filename": "VTHE_0.250-20X1.500_GR5.par"
+    },
+    "139512": {
+        "JdeNumber": "139512",
+        "Revision": "0",
+        "Filename": "VTHE_0.250-20X1.750_GR5.PAR"
+    },
+    "24100004": {
+        "JdeNumber": "24100004",
+        "Revision": "0",
+        "Filename": "VTHE_0.250-20X2.000_GR5.par"
+    },
+    "24102230": {
+        "JdeNumber": "24102230",
+        "Revision": "0",
+        "Filename": "VTHE_0.250-20X2.000_SS.par"
+    },
+    "117589": {
+        "JdeNumber": "117589",
+        "Revision": "0",
+        "Filename": "VTHE_0.250-20X2.250_SS.par"
+    },
+    "24102822": {
+        "JdeNumber": "24102822",
+        "Revision": "0",
+        "Filename": "VTHE_0.250-20X2.500_SS.par"
+    },
+    "24100066": {
+        "JdeNumber": "24100066",
+        "Revision": "0",
+        "Filename": "VTHE_0.250-20X2.750_GR5.par"
+    },
+    "117655": {
+        "JdeNumber": "117655",
+        "Revision": "0",
+        "Filename": "VTHE_0.250-20X2.750_SS.par"
+    },
+    "24100006": {
+        "JdeNumber": "24100006",
+        "Revision": "0",
+        "Filename": "VTHE_0.250-20X3.000_GR5.par"
+    },
+    "117621": {
+        "JdeNumber": "117621",
+        "Revision": "0",
+        "Filename": "VTHE_0.250-20X3.000_SS.par"
+    },
+    "113702": {
+        "JdeNumber": "113702",
+        "Revision": "0",
+        "Filename": "VTHE_0.250-20X3.250_GR5.par"
+    },
+    "139513": {
+        "JdeNumber": "139513",
+        "Revision": "00",
+        "Filename": "VTHE_0.250-20X3.500_GR5.PAR"
+    },
+    "185526": {
+        "JdeNumber": "185526",
+        "Revision": "00",
+        "Filename": "VTHE_0.250-20X3.500_SS.PAR"
+    },
+    "24101745": {
+        "JdeNumber": "24101745",
+        "Revision": "0",
+        "Filename": "VTHE_0.250-20X4.000_GR5.par"
+    },
+    "24103676": {
+        "JdeNumber": "24103676",
+        "Revision": "0",
+        "Filename": "VTHE_0.250-20X4.000_SS.par"
+    },
+    "118120": {
+        "JdeNumber": "118120",
+        "Revision": "0",
+        "Filename": "VTHE_0.250-20X4.500_SS.par"
+    },
+    "24100936": {
+        "JdeNumber": "24100936",
+        "Revision": "0",
+        "Filename": "VTHE_0.250-20X5.500_GR5.par"
+    },
+    "117820": {
+        "JdeNumber": "117820",
+        "Revision": "0",
+        "Filename": "VTHE_0.250-28X0.500_GR5.par"
+    },
+    "24100374": {
+        "JdeNumber": "24100374",
+        "Revision": "0",
+        "Filename": "VTHE_0.250-28X1.000_GR5.par"
+    },
+    "24100159": {
+        "JdeNumber": "24100159",
+        "Revision": "0",
+        "Filename": "VTHE_0.313-18X0.500_GR5.par"
+    },
+    "24102346": {
+        "JdeNumber": "24102346",
+        "Revision": "0",
+        "Filename": "VTHE_0.313-18X0.500_SS.par"
+    },
+    "24102726": {
+        "JdeNumber": "24102726",
+        "Revision": "0",
+        "Filename": "VTHE_0.313-18X0.750_SS.par"
+    },
+    "24103200": {
+        "JdeNumber": "24103200",
+        "Revision": "0",
+        "Filename": "VTHE_0.313-18X1.000_SS.par"
+    },
+    "24100069": {
+        "JdeNumber": "24100069",
+        "Revision": "00",
+        "Filename": "VTHE_0.313-18X1.250_GR5.par"
+    },
+    "24100069": {
+        "JdeNumber": "24100069",
+        "Revision": "0",
+        "Filename": "VTHE_0.313-18X1.250_GR5_XML37.par"
+    },
+    "24100009": {
+        "JdeNumber": "24100009",
+        "Revision": "0",
+        "Filename": "VTHE_0.313-18X1.500_GR5.par"
+    },
+    "24106862": {
+        "JdeNumber": "24106862",
+        "Revision": "0",
+        "Filename": "VTHE_0.313-18X1.500_SS.par"
+    },
+    "24100070": {
+        "JdeNumber": "24100070",
+        "Revision": "0",
+        "Filename": "VTHE_0.313-18X1.750_GR5.par"
+    },
+    "24102347": {
+        "JdeNumber": "24102347",
+        "Revision": "0",
+        "Filename": "VTHE_0.313-18X1.750_SS.par"
+    },
+    "24100010": {
+        "JdeNumber": "24100010",
+        "Revision": "0",
+        "Filename": "VTHE_0.313-18X2.000_GR5.par"
+    },
+    "117622": {
+        "JdeNumber": "117622",
+        "Revision": "0",
+        "Filename": "VTHE_0.313-18X2.000_SS.par"
+    },
+    "24100011": {
+        "JdeNumber": "24100011",
+        "Revision": "0",
+        "Filename": "VTHE_0.313-18X2.500_GR5.par"
+    },
+    "24100072": {
+        "JdeNumber": "24100072",
+        "Revision": "0",
+        "Filename": "VTHE_0.313-18X2.750_GR5.par"
+    },
+    "117613": {
+        "JdeNumber": "117613",
+        "Revision": "0",
+        "Filename": "VTHE_0.313-18X2.750_SS.par"
+    },
+    "24100012": {
+        "JdeNumber": "24100012",
+        "Revision": "0",
+        "Filename": "VTHE_0.313-18X3.000_GR5.par"
+    },
+    "24102220": {
+        "JdeNumber": "24102220",
+        "Revision": "0",
+        "Filename": "VTHE_0.313-18X3.000_SS.par"
+    },
+    "117664": {
+        "JdeNumber": "117664",
+        "Revision": "0",
+        "Filename": "VTHE_0.313-18X3.500_SS.par"
+    },
+    "24100075": {
+        "JdeNumber": "24100075",
+        "Revision": "0",
+        "Filename": "VTHE_0.313-18X4.000_GR5.par"
+    },
+    "24107075": {
+        "JdeNumber": "24107075",
+        "Revision": "0",
+        "Filename": "VTHE_0.313-18X4.500_GR5.par"
+    },
+    "149609": {
+        "JdeNumber": "149609",
+        "Revision": "00",
+        "Filename": "VTHE_0.313-18X5.500_GR5.par"
+    },
+    "117149": {
+        "JdeNumber": "117149",
+        "Revision": "0",
+        "Filename": "VTHE_0.313-18X6.000_GR5.par"
+    },
+    "24109277": {
+        "JdeNumber": "24109277",
+        "Revision": "0",
+        "Filename": "VTHE_0.313-24X0.750_GR5.par"
+    },
+    "116427": {
+        "JdeNumber": "116427",
+        "Revision": "0",
+        "Filename": "VTHE_0.313-24X0.750_SS.par"
+    },
+    "24101143": {
+        "JdeNumber": "24101143",
+        "Revision": "0",
+        "Filename": "VTHE_0.313-24X1.000_GR5.par"
+    },
+    "108851": {
+        "JdeNumber": "108851",
+        "Revision": "0",
+        "Filename": "VTHE_0.313-24X1.000_SS.par"
+    },
+    "24102100": {
+        "JdeNumber": "24102100",
+        "Revision": "0",
+        "Filename": "VTHE_0.313-24X2.250_GR5.par"
+    },
+    "24102083": {
+        "JdeNumber": "24102083",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X0.625_GR5.par"
+    },
+    "185534": {
+        "JdeNumber": "185534",
+        "Revision": "00",
+        "Filename": "VTHE_0.375-16X0.625_SS.PAR"
+    },
+    "24100080": {
+        "JdeNumber": "24100080",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X0.750_GR5.par"
+    },
+    "24102668": {
+        "JdeNumber": "24102668",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X0.750_SS.PAR"
+    },
+    "24100014": {
+        "JdeNumber": "24100014",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X1.000_GR5.par"
+    },
+    "24100014": {
+        "JdeNumber": "24100014",
+        "Revision": "00",
+        "Filename": "VTHE_0.375-16X1.000_GR5_XML12.par"
+    },
+    "24103209": {
+        "JdeNumber": "24103209",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X1.000_SS.par"
+    },
+    "24100081": {
+        "JdeNumber": "24100081",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X1.250_GR5.par"
+    },
+    "24102644": {
+        "JdeNumber": "24102644",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X1.250_SS.par"
+    },
+    "24100015": {
+        "JdeNumber": "24100015",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X1.500_GR5.par"
+    },
+    "24102608": {
+        "JdeNumber": "24102608",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X1.500_SS.par"
+    },
+    "24100082": {
+        "JdeNumber": "24100082",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X1.750_GR5.par"
+    },
+    "117463": {
+        "JdeNumber": "117463",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X1.750_SS.par"
+    },
+    "24102579": {
+        "JdeNumber": "24102579",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X10.000_GR5.par"
+    },
+    "24105979": {
+        "JdeNumber": "24105979",
+        "Revision": "00",
+        "Filename": "VTHE_0.375-16X2.000_FULL_GR5.PAR"
+    },
+    "24105979": {
+        "JdeNumber": "24105979",
+        "Revision": "00",
+        "Filename": "VTHE_0.375-16X2.000_FULL_GR5_XML69.PAR"
+    },
+    "185036": {
+        "JdeNumber": "185036",
+        "Revision": "00",
+        "Filename": "VTHE_0.375-16X2.000_FULL_SS.PAR"
+    },
+    "24100497": {
+        "JdeNumber": "24100497",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X2.000_GR2-GALV.par"
+    },
+    "24100016": {
+        "JdeNumber": "24100016",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X2.000_GR5.par"
+    },
+    "24100083": {
+        "JdeNumber": "24100083",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X2.250_GR5.par"
+    },
+    "24103041": {
+        "JdeNumber": "24103041",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X2.250_SS.par"
+    },
+    "24103135": {
+        "JdeNumber": "24103135",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X2.500_SS.par"
+    },
+    "24100084": {
+        "JdeNumber": "24100084",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X2.750_GR5.par"
+    },
+    "117633": {
+        "JdeNumber": "117633",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X2.750_SS.par"
+    },
+    "148460": {
+        "JdeNumber": "148460",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X3.000_FULL_GR5.PAR"
+    },
+    "24102457": {
+        "JdeNumber": "24102457",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X3.000_FULL_SS.par"
+    },
+    "24100018": {
+        "JdeNumber": "24100018",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X3.000_GR5.par"
+    },
+    "24100085": {
+        "JdeNumber": "24100085",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X3.250_GR5.par"
+    },
+    "117630": {
+        "JdeNumber": "117630",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X3.250_SS.par"
+    },
+    "24106017": {
+        "JdeNumber": "24106017",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X3.500_SS.par"
+    },
+    "24100086": {
+        "JdeNumber": "24100086",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X3.750_GR5.par"
+    },
+    "24100020": {
+        "JdeNumber": "24100020",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X4.000_GR5.par"
+    },
+    "24104421": {
+        "JdeNumber": "24104421",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X4.000_SS.par"
+    },
+    "24109077": {
+        "JdeNumber": "24109077",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X4.250_GR5.par"
+    },
+    "24103453": {
+        "JdeNumber": "24103453",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X4.500_GR5.par"
+    },
+    "185535": {
+        "JdeNumber": "185535",
+        "Revision": "00",
+        "Filename": "VTHE_0.375-16X4.500_SS.PAR"
+    },
+    "24100089": {
+        "JdeNumber": "24100089",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X5.000_GR5.par"
+    },
+    "119180": {
+        "JdeNumber": "119180",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X5.000_SS.PAR"
+    },
+    "24109078": {
+        "JdeNumber": "24109078",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X5.500_GR5.par"
+    },
+    "24102291": {
+        "JdeNumber": "24102291",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X7.000_GR5.par"
+    },
+    "117611": {
+        "JdeNumber": "117611",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X7.500_GR5.par"
+    },
+    "117612": {
+        "JdeNumber": "117612",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X7.500_SS.par"
+    },
+    "115898": {
+        "JdeNumber": "115898",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-16X8.000_GR5.par"
+    },
+    "24100380": {
+        "JdeNumber": "24100380",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-24X1.000_GR5.par"
+    },
+    "24109036": {
+        "JdeNumber": "24109036",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-24X1.250_GR5.par"
+    },
+    "24102218": {
+        "JdeNumber": "24102218",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-24X1.250_SS.par"
+    },
+    "24100384": {
+        "JdeNumber": "24100384",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-24X1.500_GR5.par"
+    },
+    "24106178": {
+        "JdeNumber": "24106178",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-24X1.750_GR5.par"
+    },
+    "24100618": {
+        "JdeNumber": "24100618",
+        "Revision": "0",
+        "Filename": "VTHE_0.375-24X3.250_GR5.par"
+    },
+    "24100090": {
+        "JdeNumber": "24100090",
+        "Revision": "0",
+        "Filename": "VTHE_0.438-14X0.750_GR5.par"
+    },
+    "24100022": {
+        "JdeNumber": "24100022",
+        "Revision": "0",
+        "Filename": "VTHE_0.438-14X1.000_GR5.par"
+    },
+    "117632": {
+        "JdeNumber": "117632",
+        "Revision": "0",
+        "Filename": "VTHE_0.438-14X1.000_SS.par"
+    },
+    "24100091": {
+        "JdeNumber": "24100091",
+        "Revision": "0",
+        "Filename": "VTHE_0.438-14X1.250_GR5.par"
+    },
+    "24102601": {
+        "JdeNumber": "24102601",
+        "Revision": "0",
+        "Filename": "VTHE_0.438-14X1.250_SS.par"
+    },
+    "24100023": {
+        "JdeNumber": "24100023",
+        "Revision": "0",
+        "Filename": "VTHE_0.438-14X1.500_GR5.par"
+    },
+    "24102226": {
+        "JdeNumber": "24102226",
+        "Revision": "0",
+        "Filename": "VTHE_0.438-14X1.500_SS.par"
+    },
+    "24100092": {
+        "JdeNumber": "24100092",
+        "Revision": "0",
+        "Filename": "VTHE_0.438-14X1.750_GR5.par"
+    },
+    "24102602": {
+        "JdeNumber": "24102602",
+        "Revision": "0",
+        "Filename": "VTHE_0.438-14X1.750_SS.par"
+    },
+    "24100026": {
+        "JdeNumber": "24100026",
+        "Revision": "0",
+        "Filename": "VTHE_0.438-14X3.000_GR5.par"
+    },
+    "117631": {
+        "JdeNumber": "117631",
+        "Revision": "0",
+        "Filename": "VTHE_0.438-14X3.000_SS.par"
+    },
+    "24100027": {
+        "JdeNumber": "24100027",
+        "Revision": "0",
+        "Filename": "VTHE_0.438-14X3.500_GR5.par"
+    },
+    "24100096": {
+        "JdeNumber": "24100096",
+        "Revision": "0",
+        "Filename": "VTHE_0.438-14X3.750_GR5.par"
+    },
+    "24100029": {
+        "JdeNumber": "24100029",
+        "Revision": "0",
+        "Filename": "VTHE_0.438-14X4.500_GR5.par"
+    },
+    "140897": {
+        "JdeNumber": "140897",
+        "Revision": "0",
+        "Filename": "VTHE_0.438-14X5.000_GR5.PAR"
+    },
+    "24102743": {
+        "JdeNumber": "24102743",
+        "Revision": "0",
+        "Filename": "VTHE_0.438-20X1.750_GR5.par"
+    },
+    "117654": {
+        "JdeNumber": "117654",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X0.750_SS.par"
+    },
+    "24100162": {
+        "JdeNumber": "24100162",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X0.875_GR5.par"
+    },
+    "24100030": {
+        "JdeNumber": "24100030",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X1.000_GR5.par"
+    },
+    "24103213": {
+        "JdeNumber": "24103213",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X1.000_SS.par"
+    },
+    "147292": {
+        "JdeNumber": "147292",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X1.000_SS316.PAR"
+    },
+    "24100101": {
+        "JdeNumber": "24100101",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X1.250_GR5.par"
+    },
+    "24102645": {
+        "JdeNumber": "24102645",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X1.250_SS.par"
+    },
+    "24100031": {
+        "JdeNumber": "24100031",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X1.500_GR5.par"
+    },
+    "24107431": {
+        "JdeNumber": "24107431",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X1.500_SS.par"
+    },
+    "124316": {
+        "JdeNumber": "124316",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X1.750_FULL_GR5.PAR"
+    },
+    "24100438": {
+        "JdeNumber": "24100438",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X1.750_GR2-GALV.par"
+    },
+    "24100102": {
+        "JdeNumber": "24100102",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X1.750_GR5.PAR"
+    },
+    "24100102": {
+        "JdeNumber": "24100102",
+        "Revision": "01",
+        "Filename": "VTHE_0.500-13X1.750_GR5_XML14.PAR"
+    },
+    "117464": {
+        "JdeNumber": "117464",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X1.750_SS.par"
+    },
+    "24106033": {
+        "JdeNumber": "24106033",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X2.000_FULL_GR2.par"
+    },
+    "24104207": {
+        "JdeNumber": "24104207",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X2.000_GR2-GALV.par"
+    },
+    "24100032": {
+        "JdeNumber": "24100032",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X2.000_GR5.par"
+    },
+    "24102292": {
+        "JdeNumber": "24102292",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X2.000_SS.par"
+    },
+    "162051": {
+        "JdeNumber": "162051",
+        "Revision": "00",
+        "Filename": "VTHE_0.500-13X2.250_FULL_GR5.PAR"
+    },
+    "24106011": {
+        "JdeNumber": "24106011",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X2.250_GR2.par"
+    },
+    "24100103": {
+        "JdeNumber": "24100103",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X2.250_GR5.par"
+    },
+    "117628": {
+        "JdeNumber": "117628",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X2.250_SS.par"
+    },
+    "24104222": {
+        "JdeNumber": "24104222",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X2.500_GR2-GALV.par"
+    },
+    "24100033": {
+        "JdeNumber": "24100033",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X2.500_GR5.PAR"
+    },
+    "24103042": {
+        "JdeNumber": "24103042",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X2.500_SS.par"
+    },
+    "24100104": {
+        "JdeNumber": "24100104",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X2.750_GR5.par"
+    },
+    "146384": {
+        "JdeNumber": "146384",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X3.000_FULL_GR5.PAR"
+    },
+    "24100034": {
+        "JdeNumber": "24100034",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X3.000_GR5.par"
+    },
+    "117609": {
+        "JdeNumber": "117609",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X3.000_SS.par"
+    },
+    "24100105": {
+        "JdeNumber": "24100105",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X3.250_GR5.par"
+    },
+    "183743": {
+        "JdeNumber": "183743",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X3.500_FULL_GR5.PAR"
+    },
+    "183747": {
+        "JdeNumber": "183747",
+        "Revision": "00",
+        "Filename": "VTHE_0.500-13X3.500_FULL_SS.PAR"
+    },
+    "24100035": {
+        "JdeNumber": "24100035",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X3.500_GR5.par"
+    },
+    "24102120": {
+        "JdeNumber": "24102120",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X3.500_SS.par"
+    },
+    "113703": {
+        "JdeNumber": "113703",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X3.750_GR5.par"
+    },
+    "159698": {
+        "JdeNumber": "159698",
+        "Revision": "00",
+        "Filename": "VTHE_0.500-13X4.000_FULL_GR5.PAR"
+    },
+    "24100036": {
+        "JdeNumber": "24100036",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X4.000_GR5.par"
+    },
+    "147293": {
+        "JdeNumber": "147293",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X4.000_SS316.PAR"
+    },
+    "24100037": {
+        "JdeNumber": "24100037",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X4.500_GR5.par"
+    },
+    "24100109": {
+        "JdeNumber": "24100109",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X5.000_GR5.par"
+    },
+    "24102129": {
+        "JdeNumber": "24102129",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X5.000_SS.par"
+    },
+    "24102447": {
+        "JdeNumber": "24102447",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X5.500_GR5.par"
+    },
+    "24102126": {
+        "JdeNumber": "24102126",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X5.500_SS.par"
+    },
+    "24102178": {
+        "JdeNumber": "24102178",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X6.000_GR5.par"
+    },
+    "118092": {
+        "JdeNumber": "118092",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X6.000_SS.par"
+    },
+    "122986": {
+        "JdeNumber": "122986",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X6.500_SS.par"
+    },
+    "24109127": {
+        "JdeNumber": "24109127",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X7.000_GR5.par"
+    },
+    "24102181": {
+        "JdeNumber": "24102181",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X7.500_GR5.par"
+    },
+    "24103309": {
+        "JdeNumber": "24103309",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-13X9.000_GR5.par"
+    },
+    "24102858": {
+        "JdeNumber": "24102858",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-20X1.000_GR5.par"
+    },
+    "24100340": {
+        "JdeNumber": "24100340",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-20X1.500_GR5.par"
+    },
+    "145278": {
+        "JdeNumber": "145278",
+        "Revision": "00",
+        "Filename": "VTHE_0.500-20X1.500_SS.PAR"
+    },
+    "120471": {
+        "JdeNumber": "120471",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-20X2.000_GR5.par"
+    },
+    "24101154": {
+        "JdeNumber": "24101154",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-20X2.500_GR5.par"
+    },
+    "200753": {
+        "JdeNumber": "200753",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-20X4.000_GR5.par"
+    },
+    "24106279": {
+        "JdeNumber": "24106279",
+        "Revision": "0",
+        "Filename": "VTHE_0.500-20X6.500_GR5.par"
+    },
+    "24102861": {
+        "JdeNumber": "24102861",
+        "Revision": "0",
+        "Filename": "VTHE_0.563-12X1.500_GR5.par"
+    },
+    "24101172": {
+        "JdeNumber": "24101172",
+        "Revision": "0",
+        "Filename": "VTHE_0.563-12X2.000_GR5.par"
+    },
+    "24101174": {
+        "JdeNumber": "24101174",
+        "Revision": "0",
+        "Filename": "VTHE_0.563-12X3.000_GR5.par"
+    },
+    "24101175": {
+        "JdeNumber": "24101175",
+        "Revision": "0",
+        "Filename": "VTHE_0.563-12X3.500_GR5.par"
+    },
+    "24101176": {
+        "JdeNumber": "24101176",
+        "Revision": "0",
+        "Filename": "VTHE_0.563-12X4.000_GR5.par"
+    },
+    "24101157": {
+        "JdeNumber": "24101157",
+        "Revision": "0",
+        "Filename": "VTHE_0.563-18X2.000_GR5.par"
+    },
+    "24100038": {
+        "JdeNumber": "24100038",
+        "Revision": "0",
+        "Filename": "VTHE_0.625-11X1.000_GR5.par"
+    },
+    "117670": {
+        "JdeNumber": "117670",
+        "Revision": "0",
+        "Filename": "VTHE_0.625-11X1.000_SS.par"
+    },
+    "24100110": {
+        "JdeNumber": "24100110",
+        "Revision": "0",
+        "Filename": "VTHE_0.625-11X1.250_GR5.par"
+    },
+    "24100039": {
+        "JdeNumber": "24100039",
+        "Revision": "0",
+        "Filename": "VTHE_0.625-11X1.500_GR5.par"
+    },
+    "117666": {
+        "JdeNumber": "117666",
+        "Revision": "0",
+        "Filename": "VTHE_0.625-11X1.500_SS.par"
+    },
+    "24100111": {
+        "JdeNumber": "24100111",
+        "Revision": "0",
+        "Filename": "VTHE_0.625-11X1.750_GR5.par"
+    },
+    "24102348": {
+        "JdeNumber": "24102348",
+        "Revision": "0",
+        "Filename": "VTHE_0.625-11X1.750_SS.par"
+    },
+    "24100040": {
+        "JdeNumber": "24100040",
+        "Revision": "0",
+        "Filename": "VTHE_0.625-11X2.000_GR5.par"
+    },
+    "24102224": {
+        "JdeNumber": "24102224",
+        "Revision": "0",
+        "Filename": "VTHE_0.625-11X2.000_SS.par"
+    },
+    "117620": {
+        "JdeNumber": "117620",
+        "Revision": "0",
+        "Filename": "VTHE_0.625-11X2.250_SS.par"
+    },
+    "24100041": {
+        "JdeNumber": "24100041",
+        "Revision": "0",
+        "Filename": "VTHE_0.625-11X2.500_GR5.par"
+    },
+    "24102410": {
+        "JdeNumber": "24102410",
+        "Revision": "0",
+        "Filename": "VTHE_0.625-11X2.500_SS.par"
+    },
+    "117627": {
+        "JdeNumber": "117627",
+        "Revision": "0",
+        "Filename": "VTHE_0.625-11X2.750_SS.par"
+    },
+    "24100042": {
+        "JdeNumber": "24100042",
+        "Revision": "0",
+        "Filename": "VTHE_0.625-11X3.000_GR5.par"
+    },
+    "24100043": {
+        "JdeNumber": "24100043",
+        "Revision": "0",
+        "Filename": "VTHE_0.625-11X3.500_GR5.par"
+    },
+    "117592": {
+        "JdeNumber": "117592",
+        "Revision": "0",
+        "Filename": "VTHE_0.625-11X3.500_SS.par"
+    },
+    "24100044": {
+        "JdeNumber": "24100044",
+        "Revision": "0",
+        "Filename": "VTHE_0.625-11X4.000_GR5.par"
+    },
+    "204569": {
+        "JdeNumber": "204569",
+        "Revision": "00",
+        "Filename": "VTHE_0.625-11X4.000_GR5_FULL _THD.PAR"
+    },
+    "107200": {
+        "JdeNumber": "107200",
+        "Revision": "0",
+        "Filename": "VTHE_0.625-11X4.000_SS.par"
+    },
+    "24102124": {
+        "JdeNumber": "24102124",
+        "Revision": "0",
+        "Filename": "VTHE_0.625-11X4.500_GR5.par"
+    },
+    "117591": {
+        "JdeNumber": "117591",
+        "Revision": "0",
+        "Filename": "VTHE_0.625-11X4.500_SS.par"
+    },
+    "24100378": {
+        "JdeNumber": "24100378",
+        "Revision": "0",
+        "Filename": "VTHE_0.625-11X5.000_GR5.par"
+    },
+    "124221": {
+        "JdeNumber": "124221",
+        "Revision": "0",
+        "Filename": "VTHE_0.625-11X5.000_GR5_FULL _THD.PAR"
+    },
+    "24103077": {
+        "JdeNumber": "24103077",
+        "Revision": "0",
+        "Filename": "VTHE_0.625-11X5.500_GR12.par"
+    },
+    "24102893": {
+        "JdeNumber": "24102893",
+        "Revision": "0",
+        "Filename": "VTHE_0.625-11X5.500_GR5.par"
+    },
+    "24107112": {
+        "JdeNumber": "24107112",
+        "Revision": "0",
+        "Filename": "VTHE_0.625-11X6.000_GR5.par"
+    },
+    "161469": {
+        "JdeNumber": "161469",
+        "Revision": "00",
+        "Filename": "VTHE_0.625-11X6.000_GR5_FULL_THD.PAR"
+    },
+    "24102225": {
+        "JdeNumber": "24102225",
+        "Revision": "0",
+        "Filename": "VTHE_0.625-11X6.000_SS.par"
+    },
+    "24101040": {
+        "JdeNumber": "24101040",
+        "Revision": "0",
+        "Filename": "VTHE_0.625-11X7.000_GR5.par"
+    },
+    "113694": {
+        "JdeNumber": "113694",
+        "Revision": "0",
+        "Filename": "VTHE_0.625-11X9.000_GR5.par"
+    },
+    "24100745": {
+        "JdeNumber": "24100745",
+        "Revision": "0",
+        "Filename": "VTHE_0.625-18X1.250_GR5.par"
+    },
+    "117653": {
+        "JdeNumber": "117653",
+        "Revision": "0",
+        "Filename": "VTHE_0.625-18X1.250_SS.par"
+    },
+    "24106175": {
+        "JdeNumber": "24106175",
+        "Revision": "0",
+        "Filename": "VTHE_0.625-18X1.750_GR5.par"
+    },
+    "24101161": {
+        "JdeNumber": "24101161",
+        "Revision": "0",
+        "Filename": "VTHE_0.625-18X2.000_GR5.par"
+    },
+    "24109128": {
+        "JdeNumber": "24109128",
+        "Revision": "0",
+        "Filename": "VTHE_0.625-18X2.500_GR5.par"
+    },
+    "24102768": {
+        "JdeNumber": "24102768",
+        "Revision": "0",
+        "Filename": "VTHE_0.750-10X1.000_GR5.par"
+    },
+    "182235": {
+        "JdeNumber": "182235",
+        "Revision": "00",
+        "Filename": "VTHE_0.750-10X1.500_SS.PAR"
+    },
+    "24100045": {
+        "JdeNumber": "24100045",
+        "Revision": "0",
+        "Filename": "VTHE_0.750-10X2.000_GR5.par"
+    },
+    "24103310": {
+        "JdeNumber": "24103310",
+        "Revision": "0",
+        "Filename": "VTHE_0.750-10X2.000_SS.par"
+    },
+    "24100046": {
+        "JdeNumber": "24100046",
+        "Revision": "0",
+        "Filename": "VTHE_0.750-10X2.500_GR5.par"
+    },
+    "24106038": {
+        "JdeNumber": "24106038",
+        "Revision": "0",
+        "Filename": "VTHE_0.750-10X2.750_GR5.par"
+    },
+    "24103705": {
+        "JdeNumber": "24103705",
+        "Revision": "0",
+        "Filename": "VTHE_0.750-10X3.000_GR2-GALV.par"
+    },
+    "24100047": {
+        "JdeNumber": "24100047",
+        "Revision": "0",
+        "Filename": "VTHE_0.750-10X3.000_GR5.par"
+    },
+    "24100048": {
+        "JdeNumber": "24100048",
+        "Revision": "0",
+        "Filename": "VTHE_0.750-10X3.500_GR5.par"
+    },
+    "118372": {
+        "JdeNumber": "118372",
+        "Revision": "0",
+        "Filename": "VTHE_0.750-10X3.500_SS.par"
+    },
+    "24102884": {
+        "JdeNumber": "24102884",
+        "Revision": "0",
+        "Filename": "VTHE_0.750-10X4.000_GR5.par"
+    },
+    "107190": {
+        "JdeNumber": "107190",
+        "Revision": "0",
+        "Filename": "VTHE_0.750-10X4.000_SS.par"
+    },
+    "24102522": {
+        "JdeNumber": "24102522",
+        "Revision": "0",
+        "Filename": "VTHE_0.750-10X4.500_GR5.par"
+    },
+    "24100130": {
+        "JdeNumber": "24100130",
+        "Revision": "0",
+        "Filename": "VTHE_0.750-10X5.000_GR5.par"
+    },
+    "24107078": {
+        "JdeNumber": "24107078",
+        "Revision": "0",
+        "Filename": "VTHE_0.750-10X5.500_GR5.par"
+    },
+    "24101883": {
+        "JdeNumber": "24101883",
+        "Revision": "0",
+        "Filename": "VTHE_0.750-10X6.000_GR5.par"
+    },
+    "24103775": {
+        "JdeNumber": "24103775",
+        "Revision": "0",
+        "Filename": "VTHE_0.750-10X6.500_GR5.par"
+    },
+    "24101337": {
+        "JdeNumber": "24101337",
+        "Revision": "0",
+        "Filename": "VTHE_0.750-10X7.000_GR5.par"
+    },
+    "24103544": {
+        "JdeNumber": "24103544",
+        "Revision": "0",
+        "Filename": "VTHE_0.750-10X7.500_GR5.par"
+    },
+    "24106177": {
+        "JdeNumber": "24106177",
+        "Revision": "0",
+        "Filename": "VTHE_0.750-16X2.000_GR5.par"
+    },
+    "24102991": {
+        "JdeNumber": "24102991",
+        "Revision": "0",
+        "Filename": "VTHE_0.750-16X2.500_GR5.par"
+    },
+    "201118": {
+        "JdeNumber": "201118",
+        "Revision": "0",
+        "Filename": "VTHE_0.750-16X6.000_GR5.par"
+    },
+    "106012": {
+        "JdeNumber": "106012",
+        "Revision": "0",
+        "Filename": "VTHE_0.875-9X3.000_GR5.par"
+    },
+    "24105204": {
+        "JdeNumber": "24105204",
+        "Revision": "0",
+        "Filename": "VTHE_0.875-9X3.500_GR5.par"
+    },
+    "24107205": {
+        "JdeNumber": "24107205",
+        "Revision": "0",
+        "Filename": "VTHE_0.875-9X5.000_GR5.par"
+    },
+    "24106793": {
+        "JdeNumber": "24106793",
+        "Revision": "0",
+        "Filename": "VTHE_0.875-9X7.000_GR5.par"
+    },
+    "115960": {
+        "JdeNumber": "115960",
+        "Revision": "0",
+        "Filename": "VTHE_1.000-8X2.000_GR5.par"
+    },
+    "24107048": {
+        "JdeNumber": "24107048",
+        "Revision": "0",
+        "Filename": "VTHE_1.000-8X2.500_GR5.par"
+    },
+    "24102127": {
+        "JdeNumber": "24102127",
+        "Revision": "0",
+        "Filename": "VTHE_1.000-8X3.000_GR5.par"
+    },
+    "24101503": {
+        "JdeNumber": "24101503",
+        "Revision": "0",
+        "Filename": "VTHE_1.000-8X3.500_GR5.par"
+    },
+    "24103917": {
+        "JdeNumber": "24103917",
+        "Revision": "0",
+        "Filename": "VTHE_1.000-8X4.000_GR5.par"
+    },
+    "122991": {
+        "JdeNumber": "122991",
+        "Revision": "0",
+        "Filename": "VTHE_1.000-8X4.500_SS.par"
+    },
+    "24106926": {
+        "JdeNumber": "24106926",
+        "Revision": "0",
+        "Filename": "VTHE_1.000-8X5.500_GR5.par"
+    },
+    "24106927": {
+        "JdeNumber": "24106927",
+        "Revision": "0",
+        "Filename": "VTHE_1.000-8X6.000_GR5.par"
+    },
+    "24105207": {
+        "JdeNumber": "24105207",
+        "Revision": "0",
+        "Filename": "VTHE_1.000-8X7.000_GR5.par"
+    },
+    "137280": {
+        "JdeNumber": "137280",
+        "Revision": "0",
+        "Filename": "VTHE_1.000-8X8.000_GR5..PAR"
+    },
+    "137279": {
+        "JdeNumber": "137279",
+        "Revision": "00",
+        "Filename": "VTHE_1.000-8X9.000_GR5.PAR"
+    },
+    "24106686": {
+        "JdeNumber": "24106686",
+        "Revision": "0",
+        "Filename": "VTHE_1.375-12X7.250_GR5.par"
+    },
+    "24106416": {
+        "JdeNumber": "24106416",
+        "Revision": "0",
+        "Filename": "VTHE_1.375-6X6.000_GR5.par"
+    },
+    "24106972": {
+        "JdeNumber": "24106972",
+        "Revision": "0",
+        "Filename": "VTHE_1.500-6X6.000_GR5.par"
+    },
+    "24102767": {
+        "JdeNumber": "24102767",
+        "Revision": "0",
+        "Filename": "VTHE_M03-0.50X020_CLS8.8.par"
+    },
+    "24101186": {
+        "JdeNumber": "24101186",
+        "Revision": "0",
+        "Filename": "VTHE_M04-0.70X016_CLS8.8.par"
+    },
+    "24101262": {
+        "JdeNumber": "24101262",
+        "Revision": "0",
+        "Filename": "VTHE_M05-0.80X012_CLS8.8.par"
+    },
+    "24104781": {
+        "JdeNumber": "24104781",
+        "Revision": "0",
+        "Filename": "VTHE_M05-0.80X012_SS.par"
+    },
+    "24101189": {
+        "JdeNumber": "24101189",
+        "Revision": "0",
+        "Filename": "VTHE_M05-0.80X016_CLS8.8.par"
+    },
+    "24101190": {
+        "JdeNumber": "24101190",
+        "Revision": "0",
+        "Filename": "VTHE_M05-0.80X020_CLS8.8.par"
+    },
+    "24104782": {
+        "JdeNumber": "24104782",
+        "Revision": "0",
+        "Filename": "VTHE_M05-0.80X020_SS.par"
+    },
+    "24101191": {
+        "JdeNumber": "24101191",
+        "Revision": "0",
+        "Filename": "VTHE_M05-0.80X025_CLS8.8.par"
+    },
+    "24104783": {
+        "JdeNumber": "24104783",
+        "Revision": "0",
+        "Filename": "VTHE_M05-0.80X025_SS.par"
+    },
+    "134296": {
+        "JdeNumber": "134296",
+        "Revision": "0",
+        "Filename": "VTHE_M05-0.80X035_CLS8.8.par"
+    },
+    "185591": {
+        "JdeNumber": "185591",
+        "Revision": "00",
+        "Filename": "VTHE_M06-1.00X010_SS.PAR"
+    },
+    "24101192": {
+        "JdeNumber": "24101192",
+        "Revision": "0",
+        "Filename": "VTHE_M06-1.00X012_CLS8.8.par"
+    },
+    "24101193": {
+        "JdeNumber": "24101193",
+        "Revision": "0",
+        "Filename": "VTHE_M06-1.00X016_CLS8.8.par"
+    },
+    "24104921": {
+        "JdeNumber": "24104921",
+        "Revision": "0",
+        "Filename": "VTHE_M06-1.00X016_SS.par"
+    },
+    "24101194": {
+        "JdeNumber": "24101194",
+        "Revision": "0",
+        "Filename": "VTHE_M06-1.00X020_CLS8.8.par"
+    },
+    "24103215": {
+        "JdeNumber": "24103215",
+        "Revision": "0",
+        "Filename": "VTHE_M06-1.00X020_SS.par"
+    },
+    "24101195": {
+        "JdeNumber": "24101195",
+        "Revision": "0",
+        "Filename": "VTHE_M06-1.00X025_CLS8.8.par"
+    },
+    "24101196": {
+        "JdeNumber": "24101196",
+        "Revision": "0",
+        "Filename": "VTHE_M06-1.00X030_CLS8.8.par"
+    },
+    "24104923": {
+        "JdeNumber": "24104923",
+        "Revision": "0",
+        "Filename": "VTHE_M06-1.00X030_SS.par"
+    },
+    "24101197": {
+        "JdeNumber": "24101197",
+        "Revision": "0",
+        "Filename": "VTHE_M06-1.00X035_CLS8.8.par"
+    },
+    "24104892": {
+        "JdeNumber": "24104892",
+        "Revision": "0",
+        "Filename": "VTHE_M06-1.00X035_SS.par"
+    },
+    "24101449": {
+        "JdeNumber": "24101449",
+        "Revision": "0",
+        "Filename": "VTHE_M06-1.00X040_CLS8.8.par"
+    },
+    "118179": {
+        "JdeNumber": "118179",
+        "Revision": "0",
+        "Filename": "VTHE_M06-1.00X040_SS.par"
+    },
+    "24104497": {
+        "JdeNumber": "24104497",
+        "Revision": "0",
+        "Filename": "VTHE_M06-1.00X045_CLS8.8.par"
+    },
+    "161335": {
+        "JdeNumber": "161335",
+        "Revision": "00",
+        "Filename": "VTHE_M06-1.00X045_FULL_CLS8.8.PAR"
+    },
+    "24104765": {
+        "JdeNumber": "24104765",
+        "Revision": "0",
+        "Filename": "VTHE_M06-1.00X045_SS.par"
+    },
+    "24104498": {
+        "JdeNumber": "24104498",
+        "Revision": "0",
+        "Filename": "VTHE_M06-1.00X050_CLS8.8.par"
+    },
+    "24104784": {
+        "JdeNumber": "24104784",
+        "Revision": "0",
+        "Filename": "VTHE_M06-1.00X050_SS.par"
+    },
+    "24104714": {
+        "JdeNumber": "24104714",
+        "Revision": "0",
+        "Filename": "VTHE_M06-1.00X055_CLS8.8.par"
+    },
+    "24104766": {
+        "JdeNumber": "24104766",
+        "Revision": "0",
+        "Filename": "VTHE_M06-1.00X055_SS.par"
+    },
+    "118845": {
+        "JdeNumber": "118845",
+        "Revision": "0",
+        "Filename": "VTHE_M06-1.00X060_CLS8.8.par"
+    },
+    "24104767": {
+        "JdeNumber": "24104767",
+        "Revision": "0",
+        "Filename": "VTHE_M06-1.00X065_SS.par"
+    },
+    "24101450": {
+        "JdeNumber": "24101450",
+        "Revision": "0",
+        "Filename": "VTHE_M06-1.00X070_CLS8.8.par"
+    },
+    "24104501": {
+        "JdeNumber": "24104501",
+        "Revision": "0",
+        "Filename": "VTHE_M06-1.00X080_CLS8.8.par"
+    },
+    "24104500": {
+        "JdeNumber": "24104500",
+        "Revision": "0",
+        "Filename": "VTHE_M06-1.00X090_CLS8.8.par"
+    },
+    "185597": {
+        "JdeNumber": "185597",
+        "Revision": "00",
+        "Filename": "VTHE_M06-1.00X090_SS.PAR"
+    },
+    "24104499": {
+        "JdeNumber": "24104499",
+        "Revision": "0",
+        "Filename": "VTHE_M06-1.00X100_CLS8.8.par"
+    },
+    "24101233": {
+        "JdeNumber": "24101233",
+        "Revision": "0",
+        "Filename": "VTHE_M08-1.00X040_CLS8.8.par"
+    },
+    "24101263": {
+        "JdeNumber": "24101263",
+        "Revision": "0",
+        "Filename": "VTHE_M08-1.25X012_CLS8.8.par"
+    },
+    "24101198": {
+        "JdeNumber": "24101198",
+        "Revision": "0",
+        "Filename": "VTHE_M08-1.25X016_CLS8.8.par"
+    },
+    "24104778": {
+        "JdeNumber": "24104778",
+        "Revision": "0",
+        "Filename": "VTHE_M08-1.25X016_SS.par"
+    },
+    "24101199": {
+        "JdeNumber": "24101199",
+        "Revision": "0",
+        "Filename": "VTHE_M08-1.25X020_CLS8.8.par"
+    },
+    "24104785": {
+        "JdeNumber": "24104785",
+        "Revision": "0",
+        "Filename": "VTHE_M08-1.25X020_SS.par"
+    },
+    "24101200": {
+        "JdeNumber": "24101200",
+        "Revision": "0",
+        "Filename": "VTHE_M08-1.25X025_CLS8.8.par"
+    },
+    "24101201": {
+        "JdeNumber": "24101201",
+        "Revision": "0",
+        "Filename": "VTHE_M08-1.25X030_CLS8.8.par"
+    },
+    "24104326": {
+        "JdeNumber": "24104326",
+        "Revision": "0",
+        "Filename": "VTHE_M08-1.25X035_CLS8.8.par"
+    },
+    "24104776": {
+        "JdeNumber": "24104776",
+        "Revision": "00",
+        "Filename": "VTHE_M08-1.25X035_SS.par"
+    },
+    "24104776": {
+        "JdeNumber": "24104776",
+        "Revision": "0",
+        "Filename": "VTHE_M08-1.25X035_SS_XML45.par"
+    },
+    "24101204": {
+        "JdeNumber": "24101204",
+        "Revision": "0",
+        "Filename": "VTHE_M08-1.25X060_CLS8.8.par"
+    },
+    "117587": {
+        "JdeNumber": "117587",
+        "Revision": "0",
+        "Filename": "VTHE_M08-1.25X060_SS.par"
+    },
+    "24104829": {
+        "JdeNumber": "24104829",
+        "Revision": "0",
+        "Filename": "VTHE_M08-1.25X065_CLS8.8.par"
+    },
+    "24101205": {
+        "JdeNumber": "24101205",
+        "Revision": "0",
+        "Filename": "VTHE_M08-1.25X070_CLS8.8.par"
+    },
+    "24106028": {
+        "JdeNumber": "24106028",
+        "Revision": "0",
+        "Filename": "VTHE_M08-1.25X070_SS.par"
+    },
+    "24104327": {
+        "JdeNumber": "24104327",
+        "Revision": "0",
+        "Filename": "VTHE_M08-1.25X080_CLS8.8.par"
+    },
+    "24104777": {
+        "JdeNumber": "24104777",
+        "Revision": "0",
+        "Filename": "VTHE_M08-1.25X080_SS.par"
+    },
+    "24104716": {
+        "JdeNumber": "24104716",
+        "Revision": "0",
+        "Filename": "VTHE_M08-1.25X090_CLS8.8.par"
+    },
+    "24104775": {
+        "JdeNumber": "24104775",
+        "Revision": "0",
+        "Filename": "VTHE_M08-1.25X090_SS.par"
+    },
+    "116364": {
+        "JdeNumber": "116364",
+        "Revision": "0",
+        "Filename": "VTHE_M08-1.25X120_CLS8.8.par"
+    },
+    "24104743": {
+        "JdeNumber": "24104743",
+        "Revision": "0",
+        "Filename": "VTHE_M08-1.25X130_CLS8.8.par"
+    },
+    "300107": {
+        "JdeNumber": "300107",
+        "Revision": "0",
+        "Filename": "VTHE_M08-1.25X130_SS316.par"
+    },
+    "24104786": {
+        "JdeNumber": "24104786",
+        "Revision": "0",
+        "Filename": "VTHE_M08-1.25X140_SS.par"
+    },
+    "24101234": {
+        "JdeNumber": "24101234",
+        "Revision": "0",
+        "Filename": "VTHE_M10-1.00X050_CLS8.8.par"
+    },
+    "24104373": {
+        "JdeNumber": "24104373",
+        "Revision": "0",
+        "Filename": "VTHE_M10-1.25X015_CLS8.8.par"
+    },
+    "24104506": {
+        "JdeNumber": "24104506",
+        "Revision": "0",
+        "Filename": "VTHE_M10-1.25X020_CLS8.8.par"
+    },
+    "24104507": {
+        "JdeNumber": "24104507",
+        "Revision": "0",
+        "Filename": "VTHE_M10-1.25X025_CLS8.8.par"
+    },
+    "24100222": {
+        "JdeNumber": "24100222",
+        "Revision": "0",
+        "Filename": "VTHE_M10-1.25X030_CLS8.8.par"
+    },
+    "24104508": {
+        "JdeNumber": "24104508",
+        "Revision": "0",
+        "Filename": "VTHE_M10-1.25X035_CLS8.8.par"
+    },
+    "24104681": {
+        "JdeNumber": "24104681",
+        "Revision": "0",
+        "Filename": "VTHE_M10-1.50X012_CLS8.8.par"
+    },
+    "113535": {
+        "JdeNumber": "113535",
+        "Revision": "0",
+        "Filename": "VTHE_M10-1.50X015_CLS8.8.par"
+    },
+    "107730": {
+        "JdeNumber": "107730",
+        "Revision": "0",
+        "Filename": "VTHE_M10-1.50X016_CLS8.8.par"
+    },
+    "24104324": {
+        "JdeNumber": "24104324",
+        "Revision": "0",
+        "Filename": "VTHE_M10-1.50X020_CLS8.8.par"
+    },
+    "24104769": {
+        "JdeNumber": "24104769",
+        "Revision": "0",
+        "Filename": "VTHE_M10-1.50X020_SS.par"
+    },
+    "24100791": {
+        "JdeNumber": "24100791",
+        "Revision": "0",
+        "Filename": "VTHE_M10-1.50X025_CLS8.8.par"
+    },
+    "24104869": {
+        "JdeNumber": "24104869",
+        "Revision": "0",
+        "Filename": "VTHE_M10-1.50X025_SS.par"
+    },
+    "24101206": {
+        "JdeNumber": "24101206",
+        "Revision": "0",
+        "Filename": "VTHE_M10-1.50X030_CLS8.8.par"
+    },
+    "24104922": {
+        "JdeNumber": "24104922",
+        "Revision": "0",
+        "Filename": "VTHE_M10-1.50X030_SS.par"
+    },
+    "24104717": {
+        "JdeNumber": "24104717",
+        "Revision": "0",
+        "Filename": "VTHE_M10-1.50X035_CLS8.8.par"
+    },
+    "24106027": {
+        "JdeNumber": "24106027",
+        "Revision": "0",
+        "Filename": "VTHE_M10-1.50X035_SS.par"
+    },
+    "24104868": {
+        "JdeNumber": "24104868",
+        "Revision": "0",
+        "Filename": "VTHE_M10-1.50X040_SS.par"
+    },
+    "24104718": {
+        "JdeNumber": "24104718",
+        "Revision": "0",
+        "Filename": "VTHE_M10-1.50X045_CLS8.8.par"
+    },
+    "24101208": {
+        "JdeNumber": "24101208",
+        "Revision": "0",
+        "Filename": "VTHE_M10-1.50X050_CLS8.8.par"
+    },
+    "107229": {
+        "JdeNumber": "107229",
+        "Revision": "0",
+        "Filename": "VTHE_M10-1.50X050_SS.par"
+    },
+    "182630": {
+        "JdeNumber": "182630",
+        "Revision": "00",
+        "Filename": "VTHE_M10-1.50X050_SS316_FULL.PAR"
+    },
+    "24101209": {
+        "JdeNumber": "24101209",
+        "Revision": "0",
+        "Filename": "VTHE_M10-1.50X060_CLS8.8.par"
+    },
+    "24104719": {
+        "JdeNumber": "24104719",
+        "Revision": "0",
+        "Filename": "VTHE_M10-1.50X065_CLS8.8.par"
+    },
+    "24104770": {
+        "JdeNumber": "24104770",
+        "Revision": "0",
+        "Filename": "VTHE_M10-1.50X065_SS.par"
+    },
+    "24101210": {
+        "JdeNumber": "24101210",
+        "Revision": "0",
+        "Filename": "VTHE_M10-1.50X070_CLS8.8.par"
+    },
+    "24104772": {
+        "JdeNumber": "24104772",
+        "Revision": "0",
+        "Filename": "VTHE_M10-1.50X070_SS.par"
+    },
+    "24104504": {
+        "JdeNumber": "24104504",
+        "Revision": "0",
+        "Filename": "VTHE_M10-1.50X080_CLS8.8.par"
+    },
+    "24104771": {
+        "JdeNumber": "24104771",
+        "Revision": "0",
+        "Filename": "VTHE_M10-1.50X080_SS.par"
+    },
+    "200074": {
+        "JdeNumber": "200074",
+        "Revision": "0",
+        "Filename": "VTHE_M10-1.50X085_CLS8.8.par"
+    },
+    "24104503": {
+        "JdeNumber": "24104503",
+        "Revision": "0",
+        "Filename": "VTHE_M10-1.50X100_CLS8.8.par"
+    },
+    "24104505": {
+        "JdeNumber": "24104505",
+        "Revision": "0",
+        "Filename": "VTHE_M10-1.50X110_CLS8.8.par"
+    },
+    "24104936": {
+        "JdeNumber": "24104936",
+        "Revision": "0",
+        "Filename": "VTHE_M10-1.50X130_CLS8.8.par"
+    },
+    "119177": {
+        "JdeNumber": "119177",
+        "Revision": "0",
+        "Filename": "VTHE_M10-1.50X155_SS.par"
+    },
+    "119175": {
+        "JdeNumber": "119175",
+        "Revision": "0",
+        "Filename": "VTHE_M10-1.50X160_CLS8.8.par"
+    },
+    "24104001": {
+        "JdeNumber": "24104001",
+        "Revision": "0",
+        "Filename": "VTHE_M10-1.50X200_CLS8.8.par"
+    },
+    "24104236": {
+        "JdeNumber": "24104236",
+        "Revision": "0",
+        "Filename": "VTHE_M12-1.25X030_CLS8.8.par"
+    },
+    "24102480": {
+        "JdeNumber": "24102480",
+        "Revision": "0",
+        "Filename": "VTHE_M12-1.25X040_CLS8.8.par"
+    },
+    "24101070": {
+        "JdeNumber": "24101070",
+        "Revision": "0",
+        "Filename": "VTHE_M12-1.25X050_CLS8.8.par"
+    },
+    "112927": {
+        "JdeNumber": "112927",
+        "Revision": "0",
+        "Filename": "VTHE_M12-1.50X038_CLS8.8.par"
+    },
+    "24101236": {
+        "JdeNumber": "24101236",
+        "Revision": "0",
+        "Filename": "VTHE_M12-1.50X050_CLS8.8.par"
+    },
+    "24104685": {
+        "JdeNumber": "24104685",
+        "Revision": "0",
+        "Filename": "VTHE_M12-1.75X016_CLS8.8.par"
+    },
+    "24106029": {
+        "JdeNumber": "24106029",
+        "Revision": "0",
+        "Filename": "VTHE_M12-1.75X016_SS.par"
+    },
+    "24104509": {
+        "JdeNumber": "24104509",
+        "Revision": "0",
+        "Filename": "VTHE_M12-1.75X020_CLS8.8.par"
+    },
+    "24104510": {
+        "JdeNumber": "24104510",
+        "Revision": "0",
+        "Filename": "VTHE_M12-1.75X025_CLS8.8.par"
+    },
+    "24104925": {
+        "JdeNumber": "24104925",
+        "Revision": "0",
+        "Filename": "VTHE_M12-1.75X025_SS.par"
+    },
+    "24104925": {
+        "JdeNumber": "24104925",
+        "Revision": "00",
+        "Filename": "VTHE_M12-1.75X025_SS_XML39.par"
+    },
+    "24104511": {
+        "JdeNumber": "24104511",
+        "Revision": "0",
+        "Filename": "VTHE_M12-1.75X030_CLS8.8.par"
+    },
+    "24102479": {
+        "JdeNumber": "24102479",
+        "Revision": "0",
+        "Filename": "VTHE_M12-1.75X035_CLS8.8.par"
+    },
+    "118415": {
+        "JdeNumber": "118415",
+        "Revision": "0",
+        "Filename": "VTHE_M12-1.75X035_SS.par"
+    },
+    "24104512": {
+        "JdeNumber": "24104512",
+        "Revision": "0",
+        "Filename": "VTHE_M12-1.75X040_CLS8.8.par"
+    },
+    "117618": {
+        "JdeNumber": "117618",
+        "Revision": "0",
+        "Filename": "VTHE_M12-1.75X040_SS.par"
+    },
+    "24104611": {
+        "JdeNumber": "24104611",
+        "Revision": "0",
+        "Filename": "VTHE_M12-1.75X045_CLS8.8.par"
+    },
+    "119586": {
+        "JdeNumber": "119586",
+        "Revision": "00",
+        "Filename": "VTHE_M12-1.75X045_SS.PAR"
+    },
+    "24104924": {
+        "JdeNumber": "24104924",
+        "Revision": "0",
+        "Filename": "VTHE_M12-1.75X050_SS.par"
+    },
+    "117619": {
+        "JdeNumber": "117619",
+        "Revision": "0",
+        "Filename": "VTHE_M12-1.75X060_SS.par"
+    },
+    "24102850": {
+        "JdeNumber": "24102850",
+        "Revision": "0",
+        "Filename": "VTHE_M12-1.75X065_CLS8.8.par"
+    },
+    "24104764": {
+        "JdeNumber": "24104764",
+        "Revision": "0",
+        "Filename": "VTHE_M12-1.75X070_SS.par"
+    },
+    "185560": {
+        "JdeNumber": "185560",
+        "Revision": "00",
+        "Filename": "VTHE_M12-1.75X075_SS.PAR"
+    },
+    "24104684": {
+        "JdeNumber": "24104684",
+        "Revision": "0",
+        "Filename": "VTHE_M12-1.75X080_CLS8.8.par"
+    },
+    "24100960": {
+        "JdeNumber": "24100960",
+        "Revision": "0",
+        "Filename": "VTHE_M12-1.75X090_CLS8.8.par"
+    },
+    "24104321": {
+        "JdeNumber": "24104321",
+        "Revision": "0",
+        "Filename": "VTHE_M12-1.75X100_CLS8.8.par"
+    },
+    "119587": {
+        "JdeNumber": "119587",
+        "Revision": "00",
+        "Filename": "VTHE_M12-1.75X100_SS.PAR"
+    },
+    "24104514": {
+        "JdeNumber": "24104514",
+        "Revision": "0",
+        "Filename": "VTHE_M12-1.75X110_CLS8.8.par"
+    },
+    "24104761": {
+        "JdeNumber": "24104761",
+        "Revision": "0",
+        "Filename": "VTHE_M12-1.75X110_SS.par"
+    },
+    "24104323": {
+        "JdeNumber": "24104323",
+        "Revision": "0",
+        "Filename": "VTHE_M12-1.75X130_CLS8.8.par"
+    },
+    "24104762": {
+        "JdeNumber": "24104762",
+        "Revision": "0",
+        "Filename": "VTHE_M12-1.75X130_SS.par"
+    },
+    "24104322": {
+        "JdeNumber": "24104322",
+        "Revision": "0",
+        "Filename": "VTHE_M12-1.75X140_CLS8.8.par"
+    },
+    "24104763": {
+        "JdeNumber": "24104763",
+        "Revision": "0",
+        "Filename": "VTHE_M12-1.75X140_SS.par"
+    },
+    "24104515": {
+        "JdeNumber": "24104515",
+        "Revision": "0",
+        "Filename": "VTHE_M12-1.75X150_CLS8.8.par"
+    },
+    "119751": {
+        "JdeNumber": "119751",
+        "Revision": "0",
+        "Filename": "VTHE_M12-1.75X150_SS.par"
+    },
+    "118314": {
+        "JdeNumber": "118314",
+        "Revision": "0",
+        "Filename": "VTHE_M12-1.75X160_CLS8.8.par"
+    },
+    "108473": {
+        "JdeNumber": "108473",
+        "Revision": "0",
+        "Filename": "VTHE_M12-1.75X200_FULL_CLS8.8.par"
+    },
+    "202117": {
+        "JdeNumber": "202117",
+        "Revision": "0",
+        "Filename": "VTHE_M14-2.00X025_CLS8.8.par"
+    },
+    "24100597": {
+        "JdeNumber": "24100597",
+        "Revision": "0",
+        "Filename": "VTHE_M14-2.00X030_CLS8.8.par"
+    },
+    "107493": {
+        "JdeNumber": "107493",
+        "Revision": "0",
+        "Filename": "VTHE_M14-2.00X035_SS.par"
+    },
+    "24102684": {
+        "JdeNumber": "24102684",
+        "Revision": "0",
+        "Filename": "VTHE_M14-2.00X040_CLS8.8.par"
+    },
+    "200062": {
+        "JdeNumber": "200062",
+        "Revision": "0",
+        "Filename": "VTHE_M14-2.00X050_CLS8.8.par"
+    },
+    "24101444": {
+        "JdeNumber": "24101444",
+        "Revision": "0",
+        "Filename": "VTHE_M14-2.00X055_CLS8.8.par"
+    },
+    "201051": {
+        "JdeNumber": "201051",
+        "Revision": "0",
+        "Filename": "VTHE_M14-2.00X060_CLS8.8.par"
+    },
+    "24101434": {
+        "JdeNumber": "24101434",
+        "Revision": "0",
+        "Filename": "VTHE_M14-2.00X075_CLS8.8.par"
+    },
+    "24101439": {
+        "JdeNumber": "24101439",
+        "Revision": "0",
+        "Filename": "VTHE_M14-2.00X100_CLS8.8.par"
+    },
+    "24106072": {
+        "JdeNumber": "24106072",
+        "Revision": "0",
+        "Filename": "VTHE_M16-1.50X035_CLS8.8.par"
+    },
+    "24101714": {
+        "JdeNumber": "24101714",
+        "Revision": "0",
+        "Filename": "VTHE_M16-1.50X040_CLS8.8.par"
+    },
+    "108101": {
+        "JdeNumber": "108101",
+        "Revision": "0",
+        "Filename": "VTHE_M16-2.00X025_CLS8.8.par"
+    },
+    "107492": {
+        "JdeNumber": "107492",
+        "Revision": "0",
+        "Filename": "VTHE_M16-2.00X030_SS.par"
+    },
+    "24104691": {
+        "JdeNumber": "24104691",
+        "Revision": "0",
+        "Filename": "VTHE_M16-2.00X035_CLS8.8.par"
+    },
+    "107681": {
+        "JdeNumber": "107681",
+        "Revision": "0",
+        "Filename": "VTHE_M16-2.00X035_SS.par"
+    },
+    "24104780": {
+        "JdeNumber": "24104780",
+        "Revision": "0",
+        "Filename": "VTHE_M16-2.00X050_SS.par"
+    },
+    "24104517": {
+        "JdeNumber": "24104517",
+        "Revision": "0",
+        "Filename": "VTHE_M16-2.00X055_CLS8.8.par"
+    },
+    "24104973": {
+        "JdeNumber": "24104973",
+        "Revision": "0",
+        "Filename": "VTHE_M16-2.00X060_CLS8.8-GALV.par"
+    },
+    "24101720": {
+        "JdeNumber": "24101720",
+        "Revision": "0",
+        "Filename": "VTHE_M16-2.00X060_CLS8.8.par"
+    },
+    "24104865": {
+        "JdeNumber": "24104865",
+        "Revision": "0",
+        "Filename": "VTHE_M16-2.00X060_SS.par"
+    },
+    "24104520": {
+        "JdeNumber": "24104520",
+        "Revision": "0",
+        "Filename": "VTHE_M16-2.00X065_CLS8.8.par"
+    },
+    "107781": {
+        "JdeNumber": "107781",
+        "Revision": "0",
+        "Filename": "VTHE_M16-2.00X070_CLS8.8.par"
+    },
+    "113538": {
+        "JdeNumber": "113538",
+        "Revision": "0",
+        "Filename": "VTHE_M16-2.00X075_CLS8.8.par"
+    },
+    "24104720": {
+        "JdeNumber": "24104720",
+        "Revision": "0",
+        "Filename": "VTHE_M16-2.00X080_CLS8.8.par"
+    },
+    "24104779": {
+        "JdeNumber": "24104779",
+        "Revision": "0",
+        "Filename": "VTHE_M16-2.00X080_SS.par"
+    },
+    "24104518": {
+        "JdeNumber": "24104518",
+        "Revision": "0",
+        "Filename": "VTHE_M16-2.00X100_CLS8.8.par"
+    },
+    "113602": {
+        "JdeNumber": "113602",
+        "Revision": "0",
+        "Filename": "VTHE_M16-2.00X110_CLS8.8.par"
+    },
+    "24101753": {
+        "JdeNumber": "24101753",
+        "Revision": "0",
+        "Filename": "VTHE_M16-2.00X120_CLS8.8.par"
+    },
+    "118590": {
+        "JdeNumber": "118590",
+        "Revision": "00",
+        "Filename": "VTHE_M16-2.00X120_SS.PAR"
+    },
+    "107690": {
+        "JdeNumber": "107690",
+        "Revision": "0",
+        "Filename": "VTHE_M16-2.00X130_CLS8.8.par"
+    },
+    "119585": {
+        "JdeNumber": "119585",
+        "Revision": "00",
+        "Filename": "VTHE_M16-2.00X130_SS.PAR"
+    },
+    "24104329": {
+        "JdeNumber": "24104329",
+        "Revision": "0",
+        "Filename": "VTHE_M16-2.00X160_CLS8.8.par"
+    },
+    "24101922": {
+        "JdeNumber": "24101922",
+        "Revision": "0",
+        "Filename": "VTHE_M18-2.50X040_CLS8.8.par"
+    },
+    "109109": {
+        "JdeNumber": "109109",
+        "Revision": "0",
+        "Filename": "VTHE_M18-2.50X050_CLS8.8.par"
+    },
+    "24104655": {
+        "JdeNumber": "24104655",
+        "Revision": "0",
+        "Filename": "VTHE_M18-2.50X065_CLS8.8.par"
+    },
+    "24104721": {
+        "JdeNumber": "24104721",
+        "Revision": "0",
+        "Filename": "VTHE_M20-2.50X040_CLS8.8.par"
+    },
+    "24104768": {
+        "JdeNumber": "24104768",
+        "Revision": "0",
+        "Filename": "VTHE_M20-2.50X040_SS.par"
+    },
+    "200082": {
+        "JdeNumber": "200082",
+        "Revision": "0",
+        "Filename": "VTHE_M20-2.50X045_CLS8.8.par"
+    },
+    "24104018": {
+        "JdeNumber": "24104018",
+        "Revision": "0",
+        "Filename": "VTHE_M20-2.50X050_CLS8.8.par"
+    },
+    "24106740": {
+        "JdeNumber": "24106740",
+        "Revision": "0",
+        "Filename": "VTHE_M20-2.50X060_CLS8.8.par"
+    },
+    "24104523": {
+        "JdeNumber": "24104523",
+        "Revision": "0",
+        "Filename": "VTHE_M20-2.50X065_CLS8.8.par"
+    },
+    "24104521": {
+        "JdeNumber": "24104521",
+        "Revision": "0",
+        "Filename": "VTHE_M20-2.50X075_CLS8.8.par"
+    },
+    "108475": {
+        "JdeNumber": "108475",
+        "Revision": "0",
+        "Filename": "VTHE_M20-2.50X090_CLS8.8.par"
+    },
+    "24104656": {
+        "JdeNumber": "24104656",
+        "Revision": "0",
+        "Filename": "VTHE_M20-2.50X100_CLS8.8.par"
+    },
+    "24104722": {
+        "JdeNumber": "24104722",
+        "Revision": "0",
+        "Filename": "VTHE_M20-2.50X130_CLS8.8.par"
+    },
+    "24104891": {
+        "JdeNumber": "24104891",
+        "Revision": "0",
+        "Filename": "VTHE_M20-2.50X130_SS.par"
+    },
+    "24104432": {
+        "JdeNumber": "24104432",
+        "Revision": "0",
+        "Filename": "VTHE_M20-2.50X170_CLS8.8.par"
+    },
+    "24104522": {
+        "JdeNumber": "24104522",
+        "Revision": "0",
+        "Filename": "VTHE_M20-2.50X180_CLS8.8.par"
+    },
+    "113474": {
+        "JdeNumber": "113474",
+        "Revision": "0",
+        "Filename": "VTHE_M20-2.50X190_CLS8.8.par"
+    },
+    "200081": {
+        "JdeNumber": "200081",
+        "Revision": "0",
+        "Filename": "VTHE_M22-2.50X050_CLS8.8.par"
+    },
+    "24101734": {
+        "JdeNumber": "24101734",
+        "Revision": "0",
+        "Filename": "VTHE_M22-2.50X060_CLS8.8.par"
+    },
+    "300543": {
+        "JdeNumber": "300543",
+        "Revision": "0",
+        "Filename": "VTHE_M24-3.00X050_CLS8.8.par"
+    },
+    "108682": {
+        "JdeNumber": "108682",
+        "Revision": "0",
+        "Filename": "VTHE_M24-3.00X060_CLS8.8.par"
+    },
+    "300519": {
+        "JdeNumber": "300519",
+        "Revision": "0",
+        "Filename": "VTHE_M24-3.00X090_CLS8.8.par"
+    },
+    "300544": {
+        "JdeNumber": "300544",
+        "Revision": "0",
+        "Filename": "VTHE_M24-3.00X100_CLS8.8.par"
+    },
+    "134635": {
+        "JdeNumber": "134635",
+        "Revision": "0",
+        "Filename": "VTHE_M24-3.00X130_CLS8.8.par"
+    },
+    "201066": {
+        "JdeNumber": "201066",
+        "Revision": "0",
+        "Filename": "VTHE_M30-3.50X120_CLS8.8.par"
+    },
+    "24100703": {
+        "JdeNumber": "24100703",
+        "Revision": "0",
+        "Filename": "VTHE_ST_0.190-24X1.000.PAR"
+    },
+    "24101329": {
+        "JdeNumber": "24101329",
+        "Revision": "0",
+        "Filename": "VTHE_ST_0.250X0.750.PAR"
+    },
+    "24109071": {
+        "JdeNumber": "24109071",
+        "Revision": "00",
+        "Filename": "VTRO_0.250-20X0.500_GR5.PAR"
+    },
+    "24103363": {
+        "JdeNumber": "24103363",
+        "Revision": "0",
+        "Filename": "VTRO_0.250-20X0.7500_SS.PAR"
+    },
+    "146368": {
+        "JdeNumber": "146368",
+        "Revision": "00",
+        "Filename": "VTRO_0.250-20X1.000_SS.PAR"
+    },
+    "162413": {
+        "JdeNumber": "162413",
+        "Revision": "00",
+        "Filename": "VTRO_0.250-20X1.500_GR5.PAR"
+    },
+    "117751": {
+        "JdeNumber": "117751",
+        "Revision": "00",
+        "Filename": "VTRO_0.313-18X1.000_GR5.PAR"
+    },
+    "163739": {
+        "JdeNumber": "163739",
+        "Revision": "00",
+        "Filename": "VTRO_0.375-06X0.625_GR5.par"
+    },
+    "163737": {
+        "JdeNumber": "163737",
+        "Revision": "00",
+        "Filename": "VTRO_0.375-06X0.750_GR5.par"
+    },
+    "163738": {
+        "JdeNumber": "163738",
+        "Revision": "00",
+        "Filename": "VTRO_0.375-16X1.000_GR5.par"
+    }
+}
